@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bintang mesopelagis_0: 4706743559732375804
+      Bintang mesopelagis_1: -5133965406701266871
+      Bintang mesopelagis_2: -4964652924293257847
+      Bintang mesopelagis_3: 4451015696425134949
+      Bintang mesopelagis_4: -7975922045619365879
+      Bintang mesopelagis_5: -2276612515890159595
+      Bintang mesopelagis_6: 7600502814903091613
+      Bintang mesopelagis_7: 8271093707339108591
+      Bintang mesopelagis_8: -2340913360957592313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

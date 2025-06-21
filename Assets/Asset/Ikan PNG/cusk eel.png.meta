@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cusk eel_0: 8006047678402651612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

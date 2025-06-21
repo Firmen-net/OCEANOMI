@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gurita_0: 8381333787001883218
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Awan epipelagis_0: -4587382404416863025
+      Awan epipelagis_1: -8310156346973938547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

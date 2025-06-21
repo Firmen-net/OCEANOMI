@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flabby whalefish_0: 9035817943944738449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

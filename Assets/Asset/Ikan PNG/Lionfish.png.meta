@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lionfish_0: 7838719830242650668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

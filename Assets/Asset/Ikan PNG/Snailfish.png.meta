@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snailfish_0: -3020555949129453355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

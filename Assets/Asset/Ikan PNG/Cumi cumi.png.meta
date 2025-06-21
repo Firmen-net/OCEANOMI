@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cumi cumi_0: 7732040554244795168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

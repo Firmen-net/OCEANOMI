@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kuda laut_0: -8669943295291830877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

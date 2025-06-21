@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mesopelagis_0: 634999116748214722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Matahari epipelagis_0: -8527008497188655760
+      Matahari epipelagis_1: 5525474828369439575
+      Matahari epipelagis_2: 145367627205623721
+      Matahari epipelagis_3: -8324727395636540879
+      Matahari epipelagis_4: -9133647710491218216
+      Matahari epipelagis_5: 643255312105987113
+      Matahari epipelagis_6: -2915570214360322697
+      Matahari epipelagis_7: -1729055700207008468
+      Matahari epipelagis_8: 3489186252769443380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
