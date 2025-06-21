@@ -1,0 +1,2090 @@
+fileFormatVersion: 2
+guid: 763271be6f5a1744a88acf7cf0e95aff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -21549969042524228
+    second: Bintang Laut_0
+  - first:
+      213: -4855834279508340757
+    second: Bintang Laut_1
+  - first:
+      213: -7017589512191032189
+    second: Bintang Laut_2
+  - first:
+      213: -7253689040342048559
+    second: Bintang Laut_3
+  - first:
+      213: -2431823328277163987
+    second: Bintang Laut_4
+  - first:
+      213: 175163878508497807
+    second: Bintang Laut_5
+  - first:
+      213: -8068316516708730066
+    second: Bintang Laut_6
+  - first:
+      213: -5363653459291155505
+    second: Bintang Laut_7
+  - first:
+      213: -3383770489975187087
+    second: Bintang Laut_8
+  - first:
+      213: 3051131462075037914
+    second: Bintang Laut_9
+  - first:
+      213: 5529188115716938515
+    second: Bintang Laut_10
+  - first:
+      213: -1094161243582344788
+    second: Bintang Laut_11
+  - first:
+      213: -193954518549857038
+    second: Bintang Laut_12
+  - first:
+      213: 1525964483574008239
+    second: Bintang Laut_13
+  - first:
+      213: 276551764632200955
+    second: Bintang Laut_14
+  - first:
+      213: 3786833988636771546
+    second: Bintang Laut_15
+  - first:
+      213: 6055912825272254312
+    second: Bintang Laut_16
+  - first:
+      213: -8118972373271300891
+    second: Bintang Laut_17
+  - first:
+      213: 287880277628245949
+    second: Bintang Laut_18
+  - first:
+      213: -2576191261788341018
+    second: Bintang Laut_19
+  - first:
+      213: -2414928589181688176
+    second: Bintang Laut_20
+  - first:
+      213: 3156411031142466951
+    second: Bintang Laut_21
+  - first:
+      213: -1951367324789282886
+    second: Bintang Laut_22
+  - first:
+      213: -2609375989527105816
+    second: Bintang Laut_23
+  - first:
+      213: -5659952415171172220
+    second: Bintang Laut_24
+  - first:
+      213: 4778683911855926301
+    second: Bintang Laut_25
+  - first:
+      213: -9066324658881118465
+    second: Bintang Laut_26
+  - first:
+      213: 3703172178023054633
+    second: Bintang Laut_27
+  - first:
+      213: -9067108030358443435
+    second: Bintang Laut_28
+  - first:
+      213: 7601786158425114653
+    second: Bintang Laut_29
+  - first:
+      213: -7048568228077478408
+    second: Bintang Laut_30
+  - first:
+      213: 2610064980593239491
+    second: Bintang Laut_31
+  - first:
+      213: 2283111544938698848
+    second: Bintang Laut_32
+  - first:
+      213: 7247560587328086794
+    second: Bintang Laut_33
+  - first:
+      213: -5855421103004702689
+    second: Bintang Laut_34
+  - first:
+      213: 7918509625566064263
+    second: Bintang Laut_35
+  - first:
+      213: -1627918505605966815
+    second: Bintang Laut_36
+  - first:
+      213: 7800539710698664258
+    second: Bintang Laut_37
+  - first:
+      213: 4002330641677393306
+    second: Bintang Laut_38
+  - first:
+      213: -8866926355080872215
+    second: Bintang Laut_39
+  - first:
+      213: 8378743291580350823
+    second: Bintang Laut_40
+  - first:
+      213: 6429452842459653546
+    second: Bintang Laut_41
+  - first:
+      213: -3395394457326061615
+    second: Bintang Laut_42
+  - first:
+      213: -4519949303148326552
+    second: Bintang Laut_43
+  - first:
+      213: 1226701683980385258
+    second: Bintang Laut_44
+  - first:
+      213: 3762171829980872651
+    second: Bintang Laut_45
+  - first:
+      213: -4706840025911044022
+    second: Bintang Laut_46
+  - first:
+      213: -2927701041618371466
+    second: Bintang Laut_47
+  - first:
+      213: -3416737919314514291
+    second: Bintang Laut_48
+  - first:
+      213: -7948853409618844967
+    second: Bintang Laut_49
+  - first:
+      213: 3160307363944045179
+    second: Bintang Laut_50
+  - first:
+      213: -3838832673331201600
+    second: Bintang Laut_51
+  - first:
+      213: -5886537070283459520
+    second: Bintang Laut_52
+  - first:
+      213: 2383634567210960391
+    second: Bintang Laut_53
+  - first:
+      213: -3662332873908731947
+    second: Bintang Laut_54
+  - first:
+      213: 6190128316650043009
+    second: Bintang Laut_55
+  - first:
+      213: -5657482178483873701
+    second: Bintang Laut_56
+  - first:
+      213: -9091681084570944329
+    second: Bintang Laut_57
+  - first:
+      213: -4476527874008758811
+    second: Bintang Laut_58
+  - first:
+      213: 8919832371492703946
+    second: Bintang Laut_59
+  - first:
+      213: -4838436933284381030
+    second: Bintang Laut_60
+  - first:
+      213: -5092055845142806037
+    second: Bintang Laut_61
+  - first:
+      213: 5953147543660273562
+    second: Bintang Laut_62
+  - first:
+      213: -6963814176645202414
+    second: Bintang Laut_63
+  - first:
+      213: 5528910360211712409
+    second: Bintang Laut_64
+  - first:
+      213: 8448829172178283106
+    second: Bintang Laut_65
+  - first:
+      213: -4958416324657820261
+    second: Bintang Laut_66
+  - first:
+      213: 8276371892003881761
+    second: Bintang Laut_67
+  - first:
+      213: -9015737243925007404
+    second: Bintang Laut_68
+  - first:
+      213: -1345682814106344828
+    second: Bintang Laut_69
+  - first:
+      213: 3738595488974464237
+    second: Bintang Laut_70
+  - first:
+      213: -1988906273458950512
+    second: Bintang Laut_71
+  - first:
+      213: -2977396370608612734
+    second: Bintang Laut_72
+  - first:
+      213: -359760049969475516
+    second: Bintang Laut_73
+  - first:
+      213: 7437348866087580451
+    second: Bintang Laut_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bintang Laut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8d9bc13a2eff40b9a25f2e19b3a96
+      internalID: 2089599849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43476ceb16ffe7448b96cddd76c4c280
+      internalID: 1468752130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3020074284bd0e419133ed3a7b036cd
+      internalID: -1228363391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025144c9ad5073b4a95694f4a9f14cb3
+      internalID: 1322549778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7ac63a8cb26f4b9b41cfd59470036
+      internalID: 418674620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036639ec01a8cb64db6d197e85906cea
+      internalID: 457437537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931dc24c1e9034488302934a4435b17
+      internalID: -1018605337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20b14edeb26ea4eb96f8f49f9f071f
+      internalID: -454888935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fd7cf6c20a2643bc0f30893f831a5
+      internalID: -287579854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7484cfa559d63964d9bef0b32878d1be
+      internalID: 1433026221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd0efef98cade48b528c9fa4899304
+      internalID: -2014375575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f366aab2a00d34693576ffb008d7e3
+      internalID: -645803164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e4b0ad67385046b285a32835cf3d6
+      internalID: -19411221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b022732291d5b747b0530e9c9b909d3
+      internalID: -50227223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96659dfa429d43a4a958bb7c95251ed8
+      internalID: -753304286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c78aae3ba44146bceff2c354a7389
+      internalID: 1967227484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d24097c3433914d9d7875f05a150f0
+      internalID: 1023881184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_17
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca7b00c04940b644a9fda0976a9daa2
+      internalID: -1060474291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2840e7022d294f91b0fae926d0837
+      internalID: 1830426762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c28fa51be816546a4683cd4e36e401
+      internalID: 763362816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebcad595a2c9240b5252b7df36a66c
+      internalID: -1317512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_21
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2abad53d65e341a61de24363bf5bb
+      internalID: 1324500541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_22
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f645a3ba18b9bb43a21ba11ab8b48ca
+      internalID: -325128342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_23
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15184afe1d83d78498bf83b2b6589dd4
+      internalID: 74166970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30cff5941a5e84cb3871ee4c90a0cd
+      internalID: -525185954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43362e554fb51224c9f71c848957a2a7
+      internalID: 1988845956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191421efa27a5974395820ae4026c5de
+      internalID: -173605444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaaa7549a836f44794369fbdd333000
+      internalID: -1427699255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bf3ff50157d04f9a3dc8020b8e3f1
+      internalID: 308330416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07ede20bbe907489adf4b7924f81d0
+      internalID: -545837867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf67d0b7c6d3145b2cc94eed8808c5
+      internalID: -562173422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e50d9deb2916341add7478b923466b
+      internalID: 1041365509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_32
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9245c5e8bbd745afc655cc30ffe90
+      internalID: 1810741677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b36481c3bc3724fab4e1dee9d2d740
+      internalID: 1262651232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_34
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98cbe6a3afab7643baa8c3bcf182b8a
+      internalID: 618903195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_35
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5e2dcdb697204a841497374790d80
+      internalID: -1692160363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cb3913a0beb148a6b821f3887b8d7
+      internalID: 1739887139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee361fbf57ce7e64cb39258e5078135f
+      internalID: 1702794874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25691ae75873ce04981a7b11df3e4970
+      internalID: 215177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea03473432ce28740a62957885a67edf
+      internalID: -1435858491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243f9909f55bbe40a362975a01a1d70
+      internalID: -1020369903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483f929d6b569e409290e786fc6b30b
+      internalID: 184665812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507fa39aaa24d274990ec38a9adca62d
+      internalID: 1004685911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0b59d51ad6f44f80bc4e070eeb1e6
+      internalID: -440054570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178c515550d0594fb327b3b7855cdd8
+      internalID: -2014341396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_45
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b59b8c8641ca4f8a40d0131b15524
+      internalID: -719353277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_46
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34d5d4e05a00c479e5b737aff2cf70
+      internalID: -387798118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_47
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d339eee1af98374d9b8e09b5d3e61e1
+      internalID: -186296979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b1c66cc0bc4e946ba5920559fd60bd
+      internalID: -1271339597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fb61d54e3022148b0d83ac72e04a9f
+      internalID: -1373029260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92446e1cf93e4489edb708b43537cb
+      internalID: -1116522355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf6bfb212298c4088343f6bbf51b0c
+      internalID: 13674803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26ae47f7054b745aec066fdb77fa18
+      internalID: 1986771587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_53
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff994e4bf02001c46bdd5b5172223a5b
+      internalID: -847418219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb0a8c192f16841ab8f7f5578ceb7f
+      internalID: 239851313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7da0b1465ea94ca17453db52b0097
+      internalID: 1078585407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_56
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c251902fe84284eba37658c4bb0d59
+      internalID: 2114641886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_57
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f467e0543376f914aa47cc765ee4f8d1
+      internalID: 1004353655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_58
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8715f18eec234d8f064150869ddcc
+      internalID: 2043994037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_59
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd865ce3f0e20d489fdbb86f6640ca0
+      internalID: 479362126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607077564e9172742aec3d23444879c2
+      internalID: 1440371268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79fed0b27352b84994000970a1c1f66
+      internalID: -1790606576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b0c0a7dc91ca4a88ca98b09ad48c5
+      internalID: 1158225173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc8279eedff8f4fa5428bb20d0cc0e
+      internalID: -1827541285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01498f012972664eb4bc7258da64dca
+      internalID: -814667063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bff522e0e9bf64c8c27dd07f7defe3
+      internalID: 653324077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327e2fd2513aee439794223597b6a35
+      internalID: -409612770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_67
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f570145a68f12d4cb31094c6ea8db92
+      internalID: 1376933383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fb45ded7a2d04cb158fc5d2508b79
+      internalID: -624644985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_69
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdeaf898a91a844c91baab7daf0d382
+      internalID: -2137028413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_70
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad1666040ae064e9daa68c8ce5a8eb
+      internalID: -1223431993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_71
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ab34c940c6574199c6b5f1fb2a21d
+      internalID: 1142697290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49dd952a1a16843bfa2d9f8eb8473b
+      internalID: -891709032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee4ecc4041590240bc790131e819821
+      internalID: -23446281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506638f4008de646a4e641c85b29ca5
+      internalID: -1058179279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bintang Laut_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7da7e34b1e384897e33c25c7ae5e7
+      internalID: 653977698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16efe3286387ab244b69a1a286e71665
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bintang Laut_0: 2089599849
+      Bintang Laut_1: 1468752130
+      Bintang Laut_10: -2014375575
+      Bintang Laut_11: -645803164
+      Bintang Laut_12: -19411221
+      Bintang Laut_13: -50227223
+      Bintang Laut_14: -753304286
+      Bintang Laut_15: 1967227484
+      Bintang Laut_16: 1023881184
+      Bintang Laut_17: -1060474291
+      Bintang Laut_18: 1830426762
+      Bintang Laut_19: 763362816
+      Bintang Laut_2: -1228363391
+      Bintang Laut_20: -1317512115
+      Bintang Laut_21: 1324500541
+      Bintang Laut_22: -325128342
+      Bintang Laut_23: 74166970
+      Bintang Laut_24: -525185954
+      Bintang Laut_25: 1988845956
+      Bintang Laut_26: -173605444
+      Bintang Laut_27: -1427699255
+      Bintang Laut_28: 308330416
+      Bintang Laut_29: -545837867
+      Bintang Laut_3: 1322549778
+      Bintang Laut_30: -562173422
+      Bintang Laut_31: 1041365509
+      Bintang Laut_32: 1810741677
+      Bintang Laut_33: 1262651232
+      Bintang Laut_34: 618903195
+      Bintang Laut_35: -1692160363
+      Bintang Laut_36: 1739887139
+      Bintang Laut_37: 1702794874
+      Bintang Laut_38: 215177503
+      Bintang Laut_39: -1435858491
+      Bintang Laut_4: 418674620
+      Bintang Laut_40: -1020369903
+      Bintang Laut_41: 184665812
+      Bintang Laut_42: 1004685911
+      Bintang Laut_43: -440054570
+      Bintang Laut_44: -2014341396
+      Bintang Laut_45: -719353277
+      Bintang Laut_46: -387798118
+      Bintang Laut_47: -186296979
+      Bintang Laut_48: -1271339597
+      Bintang Laut_49: -1373029260
+      Bintang Laut_5: 457437537
+      Bintang Laut_50: -1116522355
+      Bintang Laut_51: 13674803
+      Bintang Laut_52: 1986771587
+      Bintang Laut_53: -847418219
+      Bintang Laut_54: 239851313
+      Bintang Laut_55: 1078585407
+      Bintang Laut_56: 2114641886
+      Bintang Laut_57: 1004353655
+      Bintang Laut_58: 2043994037
+      Bintang Laut_59: 479362126
+      Bintang Laut_6: -1018605337
+      Bintang Laut_60: 1440371268
+      Bintang Laut_61: -1790606576
+      Bintang Laut_62: 1158225173
+      Bintang Laut_63: -1827541285
+      Bintang Laut_64: -814667063
+      Bintang Laut_65: 653324077
+      Bintang Laut_66: -409612770
+      Bintang Laut_67: 1376933383
+      Bintang Laut_68: -624644985
+      Bintang Laut_69: -2137028413
+      Bintang Laut_7: -454888935
+      Bintang Laut_70: -1223431993
+      Bintang Laut_71: 1142697290
+      Bintang Laut_72: -891709032
+      Bintang Laut_73: -23446281
+      Bintang Laut_74: -1058179279
+      Bintang Laut_75: 653977698
+      Bintang Laut_8: -287579854
+      Bintang Laut_9: 1433026221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

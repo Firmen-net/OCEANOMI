@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: db727d22d425e624c86f303729e35933
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3922566313812330503
+    second: Ikan Badut_0
+  - first:
+      213: 2860694972447284412
+    second: Ikan Badut_1
+  - first:
+      213: 3360058465423210763
+    second: Ikan Badut_2
+  - first:
+      213: 4982771812520176331
+    second: Ikan Badut_3
+  - first:
+      213: -5922212700206271937
+    second: Ikan Badut_4
+  - first:
+      213: -7903370772402361001
+    second: Ikan Badut_5
+  - first:
+      213: -6430085131409914442
+    second: Ikan Badut_6
+  - first:
+      213: -3073355648671010522
+    second: Ikan Badut_7
+  - first:
+      213: 7390948753889425626
+    second: Ikan Badut_8
+  - first:
+      213: 4343396470844724299
+    second: Ikan Badut_9
+  - first:
+      213: -7862248580024271603
+    second: Ikan Badut_10
+  - first:
+      213: 8454950141437628192
+    second: Ikan Badut_11
+  - first:
+      213: -2000914240821689214
+    second: Ikan Badut_12
+  - first:
+      213: -6659403049169264344
+    second: Ikan Badut_13
+  - first:
+      213: 189013044587461459
+    second: Ikan Badut_14
+  - first:
+      213: 307145178320106630
+    second: Ikan Badut_15
+  - first:
+      213: 7324823939168637321
+    second: Ikan Badut_16
+  - first:
+      213: 8171803984964976969
+    second: Ikan Badut_17
+  - first:
+      213: -6725695792497783839
+    second: Ikan Badut_18
+  - first:
+      213: -7786294382446372776
+    second: Ikan Badut_19
+  - first:
+      213: 5862923393181283239
+    second: Ikan Badut_20
+  - first:
+      213: -6582623887257769099
+    second: Ikan Badut_21
+  - first:
+      213: -3661495231459037552
+    second: Ikan Badut_22
+  - first:
+      213: -4658564586735890479
+    second: Ikan Badut_23
+  - first:
+      213: 2712114895108638086
+    second: Ikan Badut_24
+  - first:
+      213: -4582339386929390216
+    second: Ikan Badut_25
+  - first:
+      213: 4732253959859109743
+    second: Ikan Badut_26
+  - first:
+      213: 2983419690250581049
+    second: Ikan Badut_27
+  - first:
+      213: -9039962370411324781
+    second: Ikan Badut_28
+  - first:
+      213: 8054839113589272824
+    second: Ikan Badut_29
+  - first:
+      213: -786769381944547010
+    second: Ikan Badut_30
+  - first:
+      213: -7490516614487159950
+    second: Ikan Badut_31
+  - first:
+      213: -8659165879394578070
+    second: Ikan Badut_32
+  - first:
+      213: -1587054034043997390
+    second: Ikan Badut_33
+  - first:
+      213: -1574308382980124794
+    second: Ikan Badut_34
+  - first:
+      213: -7103509084621545267
+    second: Ikan Badut_35
+  - first:
+      213: 2236659811376370535
+    second: Ikan Badut_36
+  - first:
+      213: 2912668954497110582
+    second: Ikan Badut_37
+  - first:
+      213: 5481518702123212232
+    second: Ikan Badut_38
+  - first:
+      213: -4847671265702150589
+    second: Ikan Badut_39
+  - first:
+      213: 8635365394102881794
+    second: Ikan Badut_40
+  - first:
+      213: 4171123453851410179
+    second: Ikan Badut_41
+  - first:
+      213: 5532205397104576055
+    second: Ikan Badut_42
+  - first:
+      213: -5011484628533949289
+    second: Ikan Badut_43
+  - first:
+      213: 3449370394519119410
+    second: Ikan Badut_44
+  - first:
+      213: 2239148411179631238
+    second: Ikan Badut_45
+  - first:
+      213: -8943409926953398753
+    second: Ikan Badut_46
+  - first:
+      213: -1016793606762250711
+    second: Ikan Badut_47
+  - first:
+      213: 2606142793740429871
+    second: Ikan Badut_48
+  - first:
+      213: 3862572993471293880
+    second: Ikan Badut_49
+  - first:
+      213: -6367037198350369724
+    second: Ikan Badut_50
+  - first:
+      213: -8476949193968989384
+    second: Ikan Badut_51
+  - first:
+      213: -5463380014445813729
+    second: Ikan Badut_52
+  - first:
+      213: -384978822067146026
+    second: Ikan Badut_53
+  - first:
+      213: 3979871836797770330
+    second: Ikan Badut_54
+  - first:
+      213: -8452479412035196082
+    second: Ikan Badut_55
+  - first:
+      213: 4741401279252243116
+    second: Ikan Badut_56
+  - first:
+      213: -5103267068814153826
+    second: Ikan Badut_57
+  - first:
+      213: -3186741279541108845
+    second: Ikan Badut_58
+  - first:
+      213: -6542249694975862066
+    second: Ikan Badut_59
+  - first:
+      213: -3746674378955632252
+    second: Ikan Badut_60
+  - first:
+      213: -5765602628546879276
+    second: Ikan Badut_61
+  - first:
+      213: -1411039469693224943
+    second: Ikan Badut_62
+  - first:
+      213: 5781335922174298719
+    second: Ikan Badut_63
+  - first:
+      213: -250537686867080563
+    second: Ikan Badut_64
+  - first:
+      213: -4343709383493547762
+    second: Ikan Badut_65
+  - first:
+      213: -671180803168301687
+    second: Ikan Badut_66
+  - first:
+      213: 5130425702858613816
+    second: Ikan Badut_67
+  - first:
+      213: 4774958657202152221
+    second: Ikan Badut_68
+  - first:
+      213: -8796853569660191013
+    second: Ikan Badut_69
+  - first:
+      213: -2783532580485799934
+    second: Ikan Badut_70
+  - first:
+      213: -2420370607119846766
+    second: Ikan Badut_71
+  - first:
+      213: 1847220045044339243
+    second: Ikan Badut_72
+  - first:
+      213: -3021595396877617949
+    second: Ikan Badut_73
+  - first:
+      213: 8713748698763753167
+    second: Ikan Badut_74
+  - first:
+      213: 5973246552958605626
+    second: Ikan Badut_75
+  - first:
+      213: -1105635023945176717
+    second: Ikan Badut_76
+  - first:
+      213: 2912121161973426608
+    second: Ikan Badut_77
+  - first:
+      213: -1732489100286836823
+    second: Ikan Badut_78
+  - first:
+      213: 3166173621769991182
+    second: Ikan Badut_79
+  - first:
+      213: -7492236549567110234
+    second: Ikan Badut_80
+  - first:
+      213: -242090530138803355
+    second: Ikan Badut_81
+  - first:
+      213: 1302721360652655593
+    second: Ikan Badut_82
+  - first:
+      213: 3553195191354112742
+    second: Ikan Badut_83
+  - first:
+      213: -1404197981042694061
+    second: Ikan Badut_84
+  - first:
+      213: 3745346532498123274
+    second: Ikan Badut_85
+  - first:
+      213: 7575774480559677599
+    second: Ikan Badut_86
+  - first:
+      213: 2941087361066147480
+    second: Ikan Badut_87
+  - first:
+      213: -1787120362732271340
+    second: Ikan Badut_88
+  - first:
+      213: 5623242700319098863
+    second: Ikan Badut_89
+  - first:
+      213: -1636661697423716567
+    second: Ikan Badut_90
+  - first:
+      213: -1387242835032161956
+    second: Ikan Badut_91
+  - first:
+      213: 838918668540831234
+    second: Ikan Badut_92
+  - first:
+      213: 464190414345018373
+    second: Ikan Badut_93
+  - first:
+      213: -9215769804183545819
+    second: Ikan Badut_94
+  - first:
+      213: -173982262126734745
+    second: Ikan Badut_95
+  - first:
+      213: 3774783182715361691
+    second: Ikan Badut_96
+  - first:
+      213: -5065603221558574087
+    second: Ikan Badut_97
+  - first:
+      213: 5511116758348874745
+    second: Ikan Badut_98
+  - first:
+      213: 4870423299001520565
+    second: Ikan Badut_99
+  - first:
+      213: -5231564514885263714
+    second: Ikan Badut_100
+  - first:
+      213: -8704604741494306989
+    second: Ikan Badut_101
+  - first:
+      213: 8550341690111064965
+    second: Ikan Badut_102
+  - first:
+      213: -6336585543074886070
+    second: Ikan Badut_103
+  - first:
+      213: -5532974324080484502
+    second: Ikan Badut_104
+  - first:
+      213: -7297126413507846707
+    second: Ikan Badut_105
+  - first:
+      213: -238923865366452192
+    second: Ikan Badut_106
+  - first:
+      213: 7479998468953692941
+    second: Ikan Badut_107
+  - first:
+      213: 3055665544979544876
+    second: Ikan Badut_108
+  - first:
+      213: 4622316790195395285
+    second: Ikan Badut_109
+  - first:
+      213: 61010787385556406
+    second: Ikan Badut_110
+  - first:
+      213: -5010305726265343650
+    second: Ikan Badut_111
+  - first:
+      213: -1146442565869539724
+    second: Ikan Badut_112
+  - first:
+      213: 7058227415978622079
+    second: Ikan Badut_113
+  - first:
+      213: -1824311060450967006
+    second: Ikan Badut_114
+  - first:
+      213: 9202751833171564550
+    second: Ikan Badut_115
+  - first:
+      213: 2031879306785467856
+    second: Ikan Badut_116
+  - first:
+      213: -6031846936171579992
+    second: Ikan Badut_117
+  - first:
+      213: -6958275908039549467
+    second: Ikan Badut_118
+  - first:
+      213: -8472167214316529393
+    second: Ikan Badut_119
+  - first:
+      213: -8799930919067436935
+    second: Ikan Badut_120
+  - first:
+      213: 500991970796025743
+    second: Ikan Badut_121
+  - first:
+      213: -1407810162292706298
+    second: Ikan Badut_122
+  - first:
+      213: 3511791812547135115
+    second: Ikan Badut_123
+  - first:
+      213: 283609052684134042
+    second: Ikan Badut_124
+  - first:
+      213: -2342962245631779940
+    second: Ikan Badut_125
+  - first:
+      213: -1466819646882602297
+    second: Ikan Badut_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ikan Badut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2711fc2d0b80154e8e009e6de09a266
+      internalID: 1650822623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee699c9558b7244598146b0398ab254
+      internalID: -157408149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da54382d45c40438f925d7fd072475
+      internalID: 938768524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c240574ec6de46a899e624f8a3d9a
+      internalID: 1487731433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eaca2aa9977f84fba88c29cbd4bbf7
+      internalID: 491273114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de5c8369b50f2468ecb2666a6e16aa
+      internalID: -446412573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3a0207d5ced344b7207ef12060be1
+      internalID: -953868695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d500d0267f36499ba5a5e49ca9583
+      internalID: 168422264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f081e1572e363324b8b1a128154be963
+      internalID: 1646011583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5054240a05a2645a5997a91cd1ad07
+      internalID: -1311939945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4d5b955e984d438b171a745fdfc95
+      internalID: -61190872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1bcdea52417247b31d7af7e1fa241
+      internalID: -999525268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bb9528c23ede4294caff3b09cdc71
+      internalID: 357344843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6462d97a77272a94dafc713f7a0999dc
+      internalID: 1152664399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb7f7209d551414b93dcafe8aaf80ed
+      internalID: 938296184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcf318c096c964e981248ceda15821
+      internalID: 1526624234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba182376e0647b04b9f1160ace5c7d0d
+      internalID: 706413522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1f8b714a3e6049ba2ffe1744636de
+      internalID: 1761882878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec40ee4f839812140a1cccac4fae4cb2
+      internalID: -1277419862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193ca405f781b744bdfb8036582713a
+      internalID: 1576854106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_20
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72f6f0dda2e564f99a6c3ad04f4290
+      internalID: -1267505610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_21
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f81ff4e9033145a560d0162abf774
+      internalID: 1729360417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_22
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8334eef09a8a9b4e801cc9b67c3975e
+      internalID: 351107865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_23
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d415b30014474b9b57aa15846164f
+      internalID: 553297991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_24
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ff709dec556147a52c1bbbd1a7b26
+      internalID: -601288237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_25
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedc04e1e8645d42b1b38a00ba53f40
+      internalID: 2103145251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_26
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47451e5824ac02949aee61f7496aaac4
+      internalID: 28556815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_27
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5fcb288e6e6ba488f41c19cd80f714
+      internalID: -569043104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_28
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aab7efab67aa1439dea9e025671a3a
+      internalID: 1122852294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_29
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abeb4354605914db62185fe7934921
+      internalID: 932426574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd31bc2c11021e469f60de3f763614f
+      internalID: 728523156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96af0e617b95524d92e775a5c7883ec
+      internalID: -2139563254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b2879d78d35844fbc095d187311ec9
+      internalID: 1530148653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761ff90443112ec4da7880ccb4333ee8
+      internalID: -785529635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46316dffc601b7b4bbc59b1ee534e696
+      internalID: -949966951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0783d8037634924ba4c85980e2b6c3d
+      internalID: 905670536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c06368b7d02c40bdd6d968c5d7a46
+      internalID: -389496029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_37
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e9eeb96c24d0249b2cbf2a7e3b5357
+      internalID: 2049637495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_38
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61880284b52dd8f4b8b86a367ddd9840
+      internalID: 1557545941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_39
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea64047d81c524eafefb9d0bab4460
+      internalID: 998776331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_40
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9bf30d24586c4c855afe117f3a308
+      internalID: -139568801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_41
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bfd58315fee844dbbce9ad30af33cb
+      internalID: 779248433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_42
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7e630191399b4f9eebfc842acc017
+      internalID: 510969595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_43
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee1b516e8bf014494dbda598679334
+      internalID: 964087715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_44
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee45e10d992ac04ea3a482684ec2bb7
+      internalID: -1862104952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a113af155fb9b4687b84a7a9a2fbac
+      internalID: 2060903549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dab2e6b74dc6e48aa0f4522befa0c7
+      internalID: 1080733387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce3734b09c1ab4caaa61fa584eee61
+      internalID: 336423985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc9df60fedbd84b9fa79dfec191a91
+      internalID: -992031680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5695af100c265844b190d7452f91433
+      internalID: 455822302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_50
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c7c1e48d98be49be1bfb7f5dba014
+      internalID: -1075069678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e950b4a10d2b469e6b2f066bf7022
+      internalID: 1254355997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_52
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6843770f8b034ea7d99d7a8c78295
+      internalID: 279948869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_53
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a305c29e7e4143bd4bcb5a8ae3721
+      internalID: 788826922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_54
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09531e40158f35489e23462d4dc6118
+      internalID: -397082174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_55
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae756c890d08d439ccf7f77262434f
+      internalID: 1825310367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_56
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed5299ef7e2724083d00579dade70a
+      internalID: -1739744495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_57
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad80259fead4ea418462792638e3c2c
+      internalID: 310422826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_58
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03b2c61256fb243a246a6b648072db
+      internalID: 1685540155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_59
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2ee7efc490a645a6f4a3db34effe5
+      internalID: 361621554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a6cb161d4c31458796a66b3be7007
+      internalID: -683117902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73911c3b11f2c4e8661e3fff6ae9a4
+      internalID: -954288868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b49387678d174c94eed25b5ed5308
+      internalID: 448090547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1b82220ada1a4caf4de5e0df13ad5
+      internalID: 924368497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9baa67b55132a440b71ab8ca5302603
+      internalID: -1964108592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a79e9260237e941829d4e49dae25ff
+      internalID: 1981156911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5972d3e65984d440befbd8fb52a922f
+      internalID: 855763247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_67
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3bedb640e8ac4390b11df62eb8501
+      internalID: 492582654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f20db1527124b428d44184e871e697
+      internalID: -1811301904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_69
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43016d44fd342e0498a40be0d9f6e743
+      internalID: -167184093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_70
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5576076fc76df4cac807d6e79514be
+      internalID: -1974851598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_71
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8df39a95b56d24eb436e4138466d69
+      internalID: -1160409626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_72
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd5a7a21dcffb4d8038538f8919bdc
+      internalID: 1287589699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_73
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81229fac7607554e95bea9fea8c4c41
+      internalID: 1737191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_74
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb8067aeec719419046cb251a434da
+      internalID: -1030238122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716d1691a7ebb149be71d334a9516e2
+      internalID: 2123197692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1924b8d0ce8ad645995110e2faa8598
+      internalID: 217079356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_77
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ffa4188ff9104485dabc4870dd473
+      internalID: 1822470038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_78
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a026fa88ad3804cb9862a5c43cd629
+      internalID: -906968288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_79
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16f695c7ebad6459e8112ab070cc57
+      internalID: 1442569426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_80
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c5d0f0a3b2e24ea0cd177ece7417a
+      internalID: 1100043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_81
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc44de053df4d4b8b52e08296362bc
+      internalID: 600381711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_82
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb1e6fc98ede344da2847f0c4621569
+      internalID: -1711787906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_83
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794f29d28f9f824ab14ef5519d6aed4
+      internalID: 849541334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_84
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a9ba8a575c5344960f25ec951a332
+      internalID: -850370924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_85
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e5251cc42ded40a5d69b775c016a5
+      internalID: -901344399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_86
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d7ebe37179f94cbf17b7bc9f6d65b
+      internalID: -797231874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_87
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d98106aa7a4594e877b5ab387f4d40
+      internalID: 1674399004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_88
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9a8a2843438e4ea70b32616c6ab2a
+      internalID: 1721794912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_89
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d3605044d4884db6bc9f4d57fe5f3
+      internalID: -1870742370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a88f19a47451a4386de1bca1d4d735
+      internalID: 15160894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd2b95da579af42913116effd6e52b
+      internalID: -223051971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da149df83399344882a6fc44fbe82cf
+      internalID: -1456471460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6c4efd955b1c41a993c240858e891
+      internalID: -375114890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97059d0e6e2da9442b9adf55c7740e87
+      internalID: -1687321683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_95
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69218840f09cd8848998b46abd7d3877
+      internalID: 1906048730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_96
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2aad2222870df40900385b047ed9f2
+      internalID: -1720986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_97
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bfa0e0af4c02943a13fc37eaca5355
+      internalID: -354793446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_98
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6af2a2362682c468c92659d1ed5bab
+      internalID: 242569786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_99
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55088b290b8374e8eac7767ae88e15
+      internalID: 193210896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_100
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2388ab071dbfd48a995677a9fe4670
+      internalID: -786346195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_101
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e957d56a6d7da4e80fe575af1883da
+      internalID: -1656217837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_102
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b1921eb7578543aac5b618a4c11a9
+      internalID: 1471748822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_103
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05927978d9da24b42950363dc474b896
+      internalID: -635394765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_104
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824ede81a28fdc4fa6f558ff2716311
+      internalID: 596278525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46750cb08dc46714eac94193c3623c08
+      internalID: 1667618678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02a5629ce2345429d18ee1d45f18a3
+      internalID: 871712893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f0c3392a35aa419cee1238d9d5df6
+      internalID: 1491864693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_108
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b64f7569a06944ab7493b70ebce83
+      internalID: 1744589973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1690bda0a518a6b47a25e4529dc1ceb6
+      internalID: 512733733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289fa6a9ca06f2640a474b07618dd196
+      internalID: -1333370992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_111
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf372bebc1e5584cb63f56de0949a97
+      internalID: 1299287285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_112
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17a92d0a3ff24546814675a6cc985da
+      internalID: -295829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a37ad1b721134b83d336407ee750a
+      internalID: 849007254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_114
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ffc9136116c543a16912e0662146e
+      internalID: 3275823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0202eb0ea3704f83cdad3708eec11
+      internalID: 722204678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_116
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65056eb81847b468d19c7cca67995d
+      internalID: -368637935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd9f81762a9ca4e94b6fe97ca1ee7a
+      internalID: -906349169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_118
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9189629af0858534eab7afaf21ec22e5
+      internalID: -407406610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_119
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e32b148266e3ea4c925b5b4b4078612
+      internalID: -1194525903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4397f8cabef6bac499f534cabd640086
+      internalID: 767875465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_121
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee573d8bbd4f08448640b386f7c3e79
+      internalID: -571166748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_122
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23456f2c48a9c64899165fecfb52737
+      internalID: -813004866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_123
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e466a259e6de34597741d13073957a
+      internalID: 2141546627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_124
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad9f3709b1400499729265f22bdabd
+      internalID: 2043900797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_125
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c0e4fe3110fd64bb1ec9b46726f8c0
+      internalID: 1086696947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Badut_126
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f0457b643563478dee0b1a82f6764
+      internalID: -879645875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9522a3c50aa7bfc43a70dd04c6f5c743
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ikan Badut_0: 1650822623
+      Ikan Badut_1: -157408149
+      Ikan Badut_10: -61190872
+      Ikan Badut_100: -786346195
+      Ikan Badut_101: -1656217837
+      Ikan Badut_102: 1471748822
+      Ikan Badut_103: -635394765
+      Ikan Badut_104: 596278525
+      Ikan Badut_105: 1667618678
+      Ikan Badut_106: 871712893
+      Ikan Badut_107: 1491864693
+      Ikan Badut_108: 1744589973
+      Ikan Badut_109: 512733733
+      Ikan Badut_11: -999525268
+      Ikan Badut_110: -1333370992
+      Ikan Badut_111: 1299287285
+      Ikan Badut_112: -295829186
+      Ikan Badut_113: 849007254
+      Ikan Badut_114: 3275823
+      Ikan Badut_115: 722204678
+      Ikan Badut_116: -368637935
+      Ikan Badut_117: -906349169
+      Ikan Badut_118: -407406610
+      Ikan Badut_119: -1194525903
+      Ikan Badut_12: 357344843
+      Ikan Badut_120: 767875465
+      Ikan Badut_121: -571166748
+      Ikan Badut_122: -813004866
+      Ikan Badut_123: 2141546627
+      Ikan Badut_124: 2043900797
+      Ikan Badut_125: 1086696947
+      Ikan Badut_126: -879645875
+      Ikan Badut_13: 1152664399
+      Ikan Badut_14: 938296184
+      Ikan Badut_15: 1526624234
+      Ikan Badut_16: 706413522
+      Ikan Badut_17: 1761882878
+      Ikan Badut_18: -1277419862
+      Ikan Badut_19: 1576854106
+      Ikan Badut_2: 938768524
+      Ikan Badut_20: -1267505610
+      Ikan Badut_21: 1729360417
+      Ikan Badut_22: 351107865
+      Ikan Badut_23: 553297991
+      Ikan Badut_24: -601288237
+      Ikan Badut_25: 2103145251
+      Ikan Badut_26: 28556815
+      Ikan Badut_27: -569043104
+      Ikan Badut_28: 1122852294
+      Ikan Badut_29: 932426574
+      Ikan Badut_3: 1487731433
+      Ikan Badut_30: 728523156
+      Ikan Badut_31: -2139563254
+      Ikan Badut_32: 1530148653
+      Ikan Badut_33: -785529635
+      Ikan Badut_34: -949966951
+      Ikan Badut_35: 905670536
+      Ikan Badut_36: -389496029
+      Ikan Badut_37: 2049637495
+      Ikan Badut_38: 1557545941
+      Ikan Badut_39: 998776331
+      Ikan Badut_4: 491273114
+      Ikan Badut_40: -139568801
+      Ikan Badut_41: 779248433
+      Ikan Badut_42: 510969595
+      Ikan Badut_43: 964087715
+      Ikan Badut_44: -1862104952
+      Ikan Badut_45: 2060903549
+      Ikan Badut_46: 1080733387
+      Ikan Badut_47: 336423985
+      Ikan Badut_48: -992031680
+      Ikan Badut_49: 455822302
+      Ikan Badut_5: -446412573
+      Ikan Badut_50: -1075069678
+      Ikan Badut_51: 1254355997
+      Ikan Badut_52: 279948869
+      Ikan Badut_53: 788826922
+      Ikan Badut_54: -397082174
+      Ikan Badut_55: 1825310367
+      Ikan Badut_56: -1739744495
+      Ikan Badut_57: 310422826
+      Ikan Badut_58: 1685540155
+      Ikan Badut_59: 361621554
+      Ikan Badut_6: -953868695
+      Ikan Badut_60: -683117902
+      Ikan Badut_61: -954288868
+      Ikan Badut_62: 448090547
+      Ikan Badut_63: 924368497
+      Ikan Badut_64: -1964108592
+      Ikan Badut_65: 1981156911
+      Ikan Badut_66: 855763247
+      Ikan Badut_67: 492582654
+      Ikan Badut_68: -1811301904
+      Ikan Badut_69: -167184093
+      Ikan Badut_7: 168422264
+      Ikan Badut_70: -1974851598
+      Ikan Badut_71: -1160409626
+      Ikan Badut_72: 1287589699
+      Ikan Badut_73: 1737191
+      Ikan Badut_74: -1030238122
+      Ikan Badut_75: 2123197692
+      Ikan Badut_76: 217079356
+      Ikan Badut_77: 1822470038
+      Ikan Badut_78: -906968288
+      Ikan Badut_79: 1442569426
+      Ikan Badut_8: 1646011583
+      Ikan Badut_80: 1100043011
+      Ikan Badut_81: 600381711
+      Ikan Badut_82: -1711787906
+      Ikan Badut_83: 849541334
+      Ikan Badut_84: -850370924
+      Ikan Badut_85: -901344399
+      Ikan Badut_86: -797231874
+      Ikan Badut_87: 1674399004
+      Ikan Badut_88: 1721794912
+      Ikan Badut_89: -1870742370
+      Ikan Badut_9: -1311939945
+      Ikan Badut_90: 15160894
+      Ikan Badut_91: -223051971
+      Ikan Badut_92: -1456471460
+      Ikan Badut_93: -375114890
+      Ikan Badut_94: -1687321683
+      Ikan Badut_95: 1906048730
+      Ikan Badut_96: -1720986080
+      Ikan Badut_97: -354793446
+      Ikan Badut_98: 242569786
+      Ikan Badut_99: 193210896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

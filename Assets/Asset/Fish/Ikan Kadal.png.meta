@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: cd4a17c6317254d4eb1fe7288d14c0e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3213720371214020690
+    second: Ikan Kadal_0
+  - first:
+      213: 5305320642127798751
+    second: Ikan Kadal_1
+  - first:
+      213: -1788345921839900313
+    second: Ikan Kadal_2
+  - first:
+      213: 8791922000748987403
+    second: Ikan Kadal_3
+  - first:
+      213: -6384014533730321920
+    second: Ikan Kadal_4
+  - first:
+      213: 5634947993287600490
+    second: Ikan Kadal_5
+  - first:
+      213: 5549671185807194012
+    second: Ikan Kadal_6
+  - first:
+      213: 6193187089786808712
+    second: Ikan Kadal_7
+  - first:
+      213: 275852238095460669
+    second: Ikan Kadal_8
+  - first:
+      213: 8743891122961482410
+    second: Ikan Kadal_9
+  - first:
+      213: 4633805967282207133
+    second: Ikan Kadal_10
+  - first:
+      213: 2439369246501378909
+    second: Ikan Kadal_11
+  - first:
+      213: 6958549943388311619
+    second: Ikan Kadal_12
+  - first:
+      213: -6551986495423022390
+    second: Ikan Kadal_13
+  - first:
+      213: -4622901725425455721
+    second: Ikan Kadal_14
+  - first:
+      213: 2779227085908897377
+    second: Ikan Kadal_15
+  - first:
+      213: 6776334045070061840
+    second: Ikan Kadal_16
+  - first:
+      213: 4422595453968640942
+    second: Ikan Kadal_17
+  - first:
+      213: 7851504753913354855
+    second: Ikan Kadal_18
+  - first:
+      213: 6396285073910210500
+    second: Ikan Kadal_19
+  - first:
+      213: -7012422821725533017
+    second: Ikan Kadal_20
+  - first:
+      213: -565399412653012289
+    second: Ikan Kadal_21
+  - first:
+      213: 8564648286978189083
+    second: Ikan Kadal_22
+  - first:
+      213: -827524259992376705
+    second: Ikan Kadal_23
+  - first:
+      213: -1883713679498796959
+    second: Ikan Kadal_24
+  - first:
+      213: 8775404842269792497
+    second: Ikan Kadal_25
+  - first:
+      213: 5095221734020317029
+    second: Ikan Kadal_26
+  - first:
+      213: 5326523065893259413
+    second: Ikan Kadal_27
+  - first:
+      213: 6760616620157974723
+    second: Ikan Kadal_28
+  - first:
+      213: -4572027292422873810
+    second: Ikan Kadal_29
+  - first:
+      213: -2787613423247065264
+    second: Ikan Kadal_30
+  - first:
+      213: 8103153556602854220
+    second: Ikan Kadal_31
+  - first:
+      213: -6267692466177960923
+    second: Ikan Kadal_32
+  - first:
+      213: 8126650435681957422
+    second: Ikan Kadal_33
+  - first:
+      213: -8057737982526940342
+    second: Ikan Kadal_34
+  - first:
+      213: 6964152149516586838
+    second: Ikan Kadal_35
+  - first:
+      213: -6804892573350927225
+    second: Ikan Kadal_36
+  - first:
+      213: 5974016823157060595
+    second: Ikan Kadal_37
+  - first:
+      213: -918003086491960638
+    second: Ikan Kadal_38
+  - first:
+      213: 1394848728831478741
+    second: Ikan Kadal_39
+  - first:
+      213: 2954077722597464732
+    second: Ikan Kadal_40
+  - first:
+      213: 8194118971829986927
+    second: Ikan Kadal_41
+  - first:
+      213: 6846437634648158919
+    second: Ikan Kadal_42
+  - first:
+      213: 3348650408018002125
+    second: Ikan Kadal_43
+  - first:
+      213: 1403559595847044785
+    second: Ikan Kadal_44
+  - first:
+      213: 1784397377720724379
+    second: Ikan Kadal_45
+  - first:
+      213: 176794919759538217
+    second: Ikan Kadal_46
+  - first:
+      213: -4077664899368024210
+    second: Ikan Kadal_47
+  - first:
+      213: 7585073237593544584
+    second: Ikan Kadal_48
+  - first:
+      213: 7220255022678146708
+    second: Ikan Kadal_49
+  - first:
+      213: 295034030547068545
+    second: Ikan Kadal_50
+  - first:
+      213: 4393270111964883592
+    second: Ikan Kadal_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ikan Kadal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38245318d9c5d6245b59adb84ec85b8d
+      internalID: 1203619967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45f961cb0cd533499ff007c4a6e56ef
+      internalID: 853914520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e14dc58e84b174496397583afd51d0
+      internalID: 552991249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a688bbce2dc340a0b3a5d31949ef9
+      internalID: -747269113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_4
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afae1b70757e1408fd840e5023a7f0
+      internalID: -997574654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_5
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babaac6d69d1cc44be2025f1580ccbc
+      internalID: -360395745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd480ac5135126844b23fbd0a4c0b33f
+      internalID: 1919131452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e2cc073893154083ba31365b016d1
+      internalID: -412825217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_8
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886872fdde82a2945b22b7f540ed30f7
+      internalID: -1364114720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_9
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7add97d634784f409fe0ec90bb33dd3
+      internalID: 316732909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_10
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac642a00ac1bb964084679c590113bf1
+      internalID: -1159146431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_11
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4cbfa0260a9ca45b2dff910f46c25a
+      internalID: -1152949649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec46bf61caddf447861e94d65206870
+      internalID: -1053054039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd63b6e3014464cb83f7d8ddde3825
+      internalID: -324834180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_14
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47338f49748fe024fb9086a4d8393beb
+      internalID: -367071595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_15
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22e68bbefa73e4a81f131f4072cdf9
+      internalID: 2035480330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_16
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b20262fdf5ab34c899f132bf018d0e
+      internalID: 1930125903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_17
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4143cba31894184fa2a19d816c9fa3c
+      internalID: 1764673298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ff6bffa9a4444c9cb692ede71016f
+      internalID: 1796072637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02db9d068d1f3c4f91a182051a17009
+      internalID: 708656124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_20
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c6ce580de2274f8603ff469f173b1
+      internalID: 1354088257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_21
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607a3e6f832bb240a1dcd1c5e206187
+      internalID: -1762391102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_22
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9fbca425e747846b061c2a5708cd22
+      internalID: 639298712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_23
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e4671151c6f62459c68b02bd592a02
+      internalID: 219113781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3ddef8e03a8c40b3a15f9032cca2b
+      internalID: -1578758096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d579a33761bd1c40b8e2c824ff4f52e
+      internalID: -367299884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_26
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa8efbc153e9924681fa3e5ea047a5d
+      internalID: 2096586597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_27
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb3725b2ed3d57458516c6be7dd4759
+      internalID: 851923233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_28
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e50467f94140243922fc711f7392c4
+      internalID: -1478206083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_29
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0f0b630968d649addcc23ec713a4f
+      internalID: 1752729989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c906cd05b5f42e47922b7c4d69310bd
+      internalID: 1386638335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_31
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b471e2ad8d0d42bb1764ac85cdd06
+      internalID: -369313981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_32
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f0cd5f7f358c439f4c107debe7576
+      internalID: 1662305329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_33
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ea4f7591c1c94192245801c3354fb
+      internalID: 1030929653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_34
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99573262be5f9bf4baa7bc2c4a3e1cb7
+      internalID: 64990333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_35
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2402982b895674184ff92ab851bd99
+      internalID: -1062829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a98749ed6f77409cef33c51d7b7c1
+      internalID: -1922783339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_37
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69f09375c48454bbd804f0c40715a3
+      internalID: -1872945461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_38
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef4c840a11dbd47a11ff29f9dd36ed
+      internalID: 1380261503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_39
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b808ef9c6a278642ae5efbb17447408
+      internalID: -2011507794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_40
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557b411dfcd5ec046afbd7634b88896b
+      internalID: 1938164500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_41
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7703d85f0c0244a4c94bac462a0a0
+      internalID: 1890957071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc227783347e8458835c35cd235ee1
+      internalID: 663820794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_43
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52581d1b9339a68468d61eb6b6c84649
+      internalID: 676984205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_44
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298da44d2b6dbd4aaf2dd90cea2433a
+      internalID: 1653884029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_45
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe18dd4edebca54098d1c600ad46542
+      internalID: -1663541383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_46
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c50349745028449570a7ea021928c
+      internalID: -216437998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_47
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6599a9e0256345b4ac0846948b19c
+      internalID: 1836157929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7ae423a9f5aa4428a10a1a47af5805
+      internalID: 1246658312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed464957a420ea94d88d00c2ebecc58b
+      internalID: -363789085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_50
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f2194fee34104b9b6db974923dc8f
+      internalID: 1860500356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Kadal_51
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f24c7bf4048343ae64597c18167c2
+      internalID: 1327313788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e30aed60460f6c49962cb2c6ade49dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ikan Kadal_0: 1203619967
+      Ikan Kadal_1: 853914520
+      Ikan Kadal_10: -1159146431
+      Ikan Kadal_11: -1152949649
+      Ikan Kadal_12: -1053054039
+      Ikan Kadal_13: -324834180
+      Ikan Kadal_14: -367071595
+      Ikan Kadal_15: 2035480330
+      Ikan Kadal_16: 1930125903
+      Ikan Kadal_17: 1764673298
+      Ikan Kadal_18: 1796072637
+      Ikan Kadal_19: 708656124
+      Ikan Kadal_2: 552991249
+      Ikan Kadal_20: 1354088257
+      Ikan Kadal_21: -1762391102
+      Ikan Kadal_22: 639298712
+      Ikan Kadal_23: 219113781
+      Ikan Kadal_24: -1578758096
+      Ikan Kadal_25: -367299884
+      Ikan Kadal_26: 2096586597
+      Ikan Kadal_27: 851923233
+      Ikan Kadal_28: -1478206083
+      Ikan Kadal_29: 1752729989
+      Ikan Kadal_3: -747269113
+      Ikan Kadal_30: 1386638335
+      Ikan Kadal_31: -369313981
+      Ikan Kadal_32: 1662305329
+      Ikan Kadal_33: 1030929653
+      Ikan Kadal_34: 64990333
+      Ikan Kadal_35: -1062829878
+      Ikan Kadal_36: -1922783339
+      Ikan Kadal_37: -1872945461
+      Ikan Kadal_38: 1380261503
+      Ikan Kadal_39: -2011507794
+      Ikan Kadal_4: -997574654
+      Ikan Kadal_40: 1938164500
+      Ikan Kadal_41: 1890957071
+      Ikan Kadal_42: 663820794
+      Ikan Kadal_43: 676984205
+      Ikan Kadal_44: 1653884029
+      Ikan Kadal_45: -1663541383
+      Ikan Kadal_46: -216437998
+      Ikan Kadal_47: 1836157929
+      Ikan Kadal_48: 1246658312
+      Ikan Kadal_49: -363789085
+      Ikan Kadal_5: -360395745
+      Ikan Kadal_50: 1860500356
+      Ikan Kadal_51: 1327313788
+      Ikan Kadal_6: 1919131452
+      Ikan Kadal_7: -412825217
+      Ikan Kadal_8: -1364114720
+      Ikan Kadal_9: 316732909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

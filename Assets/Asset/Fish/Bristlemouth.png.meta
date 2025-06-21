@@ -1,0 +1,1778 @@
+fileFormatVersion: 2
+guid: 1339edc8f545e9242916ceb3fbc90aba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4054098432861703677
+    second: Bristlemouth_0
+  - first:
+      213: -3608887048391053033
+    second: Bristlemouth_1
+  - first:
+      213: -7013368963275541204
+    second: Bristlemouth_2
+  - first:
+      213: -3482215901350287180
+    second: Bristlemouth_3
+  - first:
+      213: -7539645913132450922
+    second: Bristlemouth_4
+  - first:
+      213: 8882374899295164388
+    second: Bristlemouth_5
+  - first:
+      213: -6790523408114163152
+    second: Bristlemouth_6
+  - first:
+      213: 4304898402695465947
+    second: Bristlemouth_7
+  - first:
+      213: 4689380220363074977
+    second: Bristlemouth_8
+  - first:
+      213: -8359099666410008193
+    second: Bristlemouth_9
+  - first:
+      213: -7077439732216150687
+    second: Bristlemouth_10
+  - first:
+      213: 5906986671313854986
+    second: Bristlemouth_11
+  - first:
+      213: -8145655856084838083
+    second: Bristlemouth_12
+  - first:
+      213: 4978542825771153588
+    second: Bristlemouth_13
+  - first:
+      213: -1027779587975576688
+    second: Bristlemouth_14
+  - first:
+      213: 7685932295062091075
+    second: Bristlemouth_15
+  - first:
+      213: 5098637950757859742
+    second: Bristlemouth_16
+  - first:
+      213: 5504866736067135446
+    second: Bristlemouth_17
+  - first:
+      213: -8691457670075709640
+    second: Bristlemouth_18
+  - first:
+      213: -5918243236447758763
+    second: Bristlemouth_19
+  - first:
+      213: 2428621159674619219
+    second: Bristlemouth_20
+  - first:
+      213: -7604758273629148842
+    second: Bristlemouth_21
+  - first:
+      213: -8303241931740945137
+    second: Bristlemouth_22
+  - first:
+      213: -1239478066239481084
+    second: Bristlemouth_23
+  - first:
+      213: 7844764519360984138
+    second: Bristlemouth_24
+  - first:
+      213: 4899708446010552239
+    second: Bristlemouth_25
+  - first:
+      213: -7553699320777427342
+    second: Bristlemouth_26
+  - first:
+      213: -5329940150971242698
+    second: Bristlemouth_27
+  - first:
+      213: 4277628012806032098
+    second: Bristlemouth_28
+  - first:
+      213: 809221910014784561
+    second: Bristlemouth_29
+  - first:
+      213: -2818082925834388032
+    second: Bristlemouth_30
+  - first:
+      213: 8585033986037895785
+    second: Bristlemouth_31
+  - first:
+      213: 3139974538876903426
+    second: Bristlemouth_32
+  - first:
+      213: -931474149751612042
+    second: Bristlemouth_33
+  - first:
+      213: 3772235866600531673
+    second: Bristlemouth_34
+  - first:
+      213: 1010236274540603769
+    second: Bristlemouth_35
+  - first:
+      213: -4157921931581020090
+    second: Bristlemouth_36
+  - first:
+      213: -5734647140300513941
+    second: Bristlemouth_37
+  - first:
+      213: -1178412221617783385
+    second: Bristlemouth_38
+  - first:
+      213: -6763100352535862014
+    second: Bristlemouth_39
+  - first:
+      213: -4953441360061827904
+    second: Bristlemouth_40
+  - first:
+      213: 8113176563235490894
+    second: Bristlemouth_41
+  - first:
+      213: -975653213764590865
+    second: Bristlemouth_42
+  - first:
+      213: -2841490728690763236
+    second: Bristlemouth_43
+  - first:
+      213: -4763692638906295460
+    second: Bristlemouth_44
+  - first:
+      213: 7998574947330417403
+    second: Bristlemouth_45
+  - first:
+      213: 4560178882790031592
+    second: Bristlemouth_46
+  - first:
+      213: 1031427329909673519
+    second: Bristlemouth_47
+  - first:
+      213: 2680768553579720647
+    second: Bristlemouth_48
+  - first:
+      213: -6012742958806452917
+    second: Bristlemouth_49
+  - first:
+      213: -841441405498681458
+    second: Bristlemouth_50
+  - first:
+      213: 7557872093516253893
+    second: Bristlemouth_51
+  - first:
+      213: -6266890804901586256
+    second: Bristlemouth_52
+  - first:
+      213: -963239217800868909
+    second: Bristlemouth_53
+  - first:
+      213: -7045865156238776293
+    second: Bristlemouth_54
+  - first:
+      213: -2108927444044687548
+    second: Bristlemouth_55
+  - first:
+      213: 8714198635277034141
+    second: Bristlemouth_56
+  - first:
+      213: 1448657066134689520
+    second: Bristlemouth_57
+  - first:
+      213: 1228040488004162655
+    second: Bristlemouth_58
+  - first:
+      213: 1430359177520373297
+    second: Bristlemouth_59
+  - first:
+      213: -1099764677845750890
+    second: Bristlemouth_60
+  - first:
+      213: 8855777345731554634
+    second: Bristlemouth_61
+  - first:
+      213: 4387365600098163921
+    second: Bristlemouth_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bristlemouth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a8b1b70fcee747850b96277ec259f
+      internalID: -790920942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5ba68d08fd25c41bf55a52ad2095b2
+      internalID: 1898421083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01ec8d665f4fd43bf88c5d2cb83544
+      internalID: 921506117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512037404509f041a66aec4a9dd5c4e
+      internalID: -825472304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_4
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf37877c7b6b4c448ccc8655577cf72
+      internalID: -1348288694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_5
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882323b2570e604eb14adf699367af1
+      internalID: -770625969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96fd8126e9850c469f2df7a6eba6860
+      internalID: 1885092061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7446a1746edc01468ba1c1909e2debb
+      internalID: -1611330087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_8
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff5f7b1c0ed47f489cebecf5966c3c5
+      internalID: 1559051537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_9
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6fae31bc1b1b844a0d11cc014f5d9b
+      internalID: -1470375215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_10
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90cf346dbfd1a749aee25b9ec8d7a91
+      internalID: -154242710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_11
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df7d53f49e6902488c938cd71966bd2
+      internalID: -1468909784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1edb7662212d4883affa0246c2529
+      internalID: 1786317712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76487a998811f448c5d4fceaf0ff76
+      internalID: 1852967717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_14
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1071ac542acb984ab775185add435d0
+      internalID: -1943280806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_15
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9171c6ea8b3ed542954a2862814e828
+      internalID: -1492601115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_16
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7d08a4ed4b5e44a01cb3bef634dab
+      internalID: -2122059700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_17
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a56b167699337429842321ba49949c
+      internalID: 1836519364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac526c4c797ee3745bb2e2053c0d927f
+      internalID: -90629801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15990f01936ce2d4c9fba920475e3253
+      internalID: 1269578332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_20
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b1845c324cc14088308f304898e33
+      internalID: -1646923804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_21
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5a21e18c47d047be818797ce8735e
+      internalID: 1515440289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_22
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60df0ad67828294f8e3d011c1989956
+      internalID: -1371555649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_23
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b28e60bc7285a4ab7ab4436009a481
+      internalID: 1977998478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590f6e3869c28149ba2ce87d0555355
+      internalID: -1248707317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8d294022544b4baccb9ff8d6ae72b
+      internalID: 60730411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_26
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4dca16c6e625842a42099fe2075c68
+      internalID: -536982120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_27
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24bfb77f1ee36468b25eb8422062cc
+      internalID: 1070107292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_28
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa053240ce4fb6440996c5a0af7ac745
+      internalID: 19482189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_29
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b7665f51db2149bf2f6dcc0ea330f
+      internalID: 477864806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5009b61c439e449cce90c8f014ee8
+      internalID: 313784294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_31
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea2c4ed98e4d24a8d2fc8a51393083
+      internalID: -1357452618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_32
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b2e3f3a525d244a83ebe329b33013
+      internalID: -515181272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_33
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67106477fbb229488615e74c566d3f7
+      internalID: 1065941706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_34
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd5dd33b1cd41438e84ef05560395a
+      internalID: 1153805585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_35
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d01c68a329a454aab005e2876c1445
+      internalID: -2028893512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404bb7d4b6e32a4188aaab69bd7f382
+      internalID: -67049576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_37
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd09b0fc6abd5f45b6dfe6543bbff51
+      internalID: -80119914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_38
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85306fa70227e3b47831f69f743f21e4
+      internalID: 977782324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_39
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12deb930f70a741948431b3aa7ac35
+      internalID: 2042059039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_40
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89ef687b9d3b8489fd5ec21691db51
+      internalID: -1493146904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_41
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68aa4210b29d1b4d96c7cb39e93cd55
+      internalID: 1426565054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644dd719f0815648a9058a49d6ec170
+      internalID: 1947126482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_43
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3bd8c36c8bee4c9fc3f06b37abaa4
+      internalID: -1843479279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_44
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fef0779a06d2641847d553e743cf42
+      internalID: 257976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_45
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097761dcdd3ed240ac0243f6ff52259
+      internalID: 1345233885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_46
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19a67332ac3244fbac312b3600537f
+      internalID: 779141618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_47
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692d29aefe873d4dbc077d4b30362ec
+      internalID: 859231579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ad240c56d20041b8f24ef5a14e871
+      internalID: -981920180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c97e327caaec429e619d5f77dd8e7
+      internalID: 203318275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_50
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876140a1205c4f4785a48dd5bf30f37
+      internalID: 1184324449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_51
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228b29df2a93db41b7a1fdbb3dcabae
+      internalID: -742808335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_52
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde3bab3e2cd83488132ec274f62608
+      internalID: -1880049979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_53
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1dcd7b7dff21346a008f6761c10486
+      internalID: -1538647889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839314bcb3c3ac4282ec6d2349e1972
+      internalID: 935856205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_55
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f5a8189cc17ff43b02579261f65b4a
+      internalID: -1383308865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_56
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c992034f7084f24d8832212212dcde8
+      internalID: -1430660663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_57
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc92bff3287fb241a7bdafd62b59619
+      internalID: -1022944184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_58
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bced47d47b3740846abf32e0a20ffb00
+      internalID: 1833007244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_59
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d133503b89dce2841bf3ac5b0967fc04
+      internalID: -1670554948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c60a406cae51a4aa75429ece43b501
+      internalID: 913666054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_61
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4281098cce69b45ac2c5c04ff93175
+      internalID: -462824020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_62
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc8a80719804e449492460dd652ed1
+      internalID: 256076672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bristlemouth_63
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f5c51c5ca1fd469ca5bb413580e9f
+      internalID: -2133607863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec72c80972bf7814a83246368cbea1a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bristlemouth_0: -790920942
+      Bristlemouth_1: 1898421083
+      Bristlemouth_10: -154242710
+      Bristlemouth_11: -1468909784
+      Bristlemouth_12: 1786317712
+      Bristlemouth_13: 1852967717
+      Bristlemouth_14: -1943280806
+      Bristlemouth_15: -1492601115
+      Bristlemouth_16: -2122059700
+      Bristlemouth_17: 1836519364
+      Bristlemouth_18: -90629801
+      Bristlemouth_19: 1269578332
+      Bristlemouth_2: 921506117
+      Bristlemouth_20: -1646923804
+      Bristlemouth_21: 1515440289
+      Bristlemouth_22: -1371555649
+      Bristlemouth_23: 1977998478
+      Bristlemouth_24: -1248707317
+      Bristlemouth_25: 60730411
+      Bristlemouth_26: -536982120
+      Bristlemouth_27: 1070107292
+      Bristlemouth_28: 19482189
+      Bristlemouth_29: 477864806
+      Bristlemouth_3: -825472304
+      Bristlemouth_30: 313784294
+      Bristlemouth_31: -1357452618
+      Bristlemouth_32: -515181272
+      Bristlemouth_33: 1065941706
+      Bristlemouth_34: 1153805585
+      Bristlemouth_35: -2028893512
+      Bristlemouth_36: -67049576
+      Bristlemouth_37: -80119914
+      Bristlemouth_38: 977782324
+      Bristlemouth_39: 2042059039
+      Bristlemouth_4: -1348288694
+      Bristlemouth_40: -1493146904
+      Bristlemouth_41: 1426565054
+      Bristlemouth_42: 1947126482
+      Bristlemouth_43: -1843479279
+      Bristlemouth_44: 257976926
+      Bristlemouth_45: 1345233885
+      Bristlemouth_46: 779141618
+      Bristlemouth_47: 859231579
+      Bristlemouth_48: -981920180
+      Bristlemouth_49: 203318275
+      Bristlemouth_5: -770625969
+      Bristlemouth_50: 1184324449
+      Bristlemouth_51: -742808335
+      Bristlemouth_52: -1880049979
+      Bristlemouth_53: -1538647889
+      Bristlemouth_54: 935856205
+      Bristlemouth_55: -1383308865
+      Bristlemouth_56: -1430660663
+      Bristlemouth_57: -1022944184
+      Bristlemouth_58: 1833007244
+      Bristlemouth_59: -1670554948
+      Bristlemouth_6: 1885092061
+      Bristlemouth_60: 913666054
+      Bristlemouth_61: -462824020
+      Bristlemouth_62: 256076672
+      Bristlemouth_63: -2133607863
+      Bristlemouth_7: -1611330087
+      Bristlemouth_8: 1559051537
+      Bristlemouth_9: -1470375215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4537 @@
+fileFormatVersion: 2
+guid: 5e3812fc280d0524595311ee710e36b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9193512904393615597
+    second: Ikan Bandeng_0
+  - first:
+      213: 8583648868603962740
+    second: Ikan Bandeng_1
+  - first:
+      213: 1465491937377920119
+    second: Ikan Bandeng_2
+  - first:
+      213: -9038559945606186379
+    second: Ikan Bandeng_3
+  - first:
+      213: -8430837617526072680
+    second: Ikan Bandeng_4
+  - first:
+      213: 7617610051857492991
+    second: Ikan Bandeng_5
+  - first:
+      213: -9189395459238580672
+    second: Ikan Bandeng_6
+  - first:
+      213: 5237216323965060800
+    second: Ikan Bandeng_7
+  - first:
+      213: -4888286458704204051
+    second: Ikan Bandeng_8
+  - first:
+      213: 4275419954100834369
+    second: Ikan Bandeng_9
+  - first:
+      213: 4983046252821011413
+    second: Ikan Bandeng_10
+  - first:
+      213: -8249195709122356180
+    second: Ikan Bandeng_11
+  - first:
+      213: -761118485730043225
+    second: Ikan Bandeng_12
+  - first:
+      213: -751104197791976007
+    second: Ikan Bandeng_13
+  - first:
+      213: -8878123958828179013
+    second: Ikan Bandeng_14
+  - first:
+      213: 7110376568102825197
+    second: Ikan Bandeng_15
+  - first:
+      213: 334777826789226983
+    second: Ikan Bandeng_16
+  - first:
+      213: 945187357030716774
+    second: Ikan Bandeng_17
+  - first:
+      213: -3179916684077621354
+    second: Ikan Bandeng_18
+  - first:
+      213: 6073006543936809604
+    second: Ikan Bandeng_19
+  - first:
+      213: 4039112651360778916
+    second: Ikan Bandeng_20
+  - first:
+      213: 7183036992050765715
+    second: Ikan Bandeng_21
+  - first:
+      213: -1826084922026471170
+    second: Ikan Bandeng_22
+  - first:
+      213: -1837442782660955454
+    second: Ikan Bandeng_23
+  - first:
+      213: -5161352746586094526
+    second: Ikan Bandeng_24
+  - first:
+      213: -1836195713887604853
+    second: Ikan Bandeng_25
+  - first:
+      213: 221653985279824323
+    second: Ikan Bandeng_26
+  - first:
+      213: -3008608228825699006
+    second: Ikan Bandeng_27
+  - first:
+      213: 2151083476877525619
+    second: Ikan Bandeng_28
+  - first:
+      213: 4886218714819638508
+    second: Ikan Bandeng_29
+  - first:
+      213: -466430487194676316
+    second: Ikan Bandeng_30
+  - first:
+      213: -6375385507429979450
+    second: Ikan Bandeng_31
+  - first:
+      213: 4454967219771281488
+    second: Ikan Bandeng_32
+  - first:
+      213: -8260275105899653475
+    second: Ikan Bandeng_33
+  - first:
+      213: -8478991274402187009
+    second: Ikan Bandeng_34
+  - first:
+      213: -3684138745797087345
+    second: Ikan Bandeng_35
+  - first:
+      213: -6282230294646970597
+    second: Ikan Bandeng_36
+  - first:
+      213: 7364981309428063719
+    second: Ikan Bandeng_37
+  - first:
+      213: -1878185179208548996
+    second: Ikan Bandeng_38
+  - first:
+      213: -413153502670179522
+    second: Ikan Bandeng_39
+  - first:
+      213: -9071294077990694660
+    second: Ikan Bandeng_40
+  - first:
+      213: 653148322178587361
+    second: Ikan Bandeng_41
+  - first:
+      213: 5741581788976300287
+    second: Ikan Bandeng_42
+  - first:
+      213: -4870302500726602215
+    second: Ikan Bandeng_43
+  - first:
+      213: -8208078067545765666
+    second: Ikan Bandeng_44
+  - first:
+      213: -6087590739047532873
+    second: Ikan Bandeng_45
+  - first:
+      213: -3353731957321810473
+    second: Ikan Bandeng_46
+  - first:
+      213: 7468004798015681159
+    second: Ikan Bandeng_47
+  - first:
+      213: -6831359564507547051
+    second: Ikan Bandeng_48
+  - first:
+      213: -1260364259630709717
+    second: Ikan Bandeng_49
+  - first:
+      213: -5838739617525737657
+    second: Ikan Bandeng_50
+  - first:
+      213: 6770595511379442635
+    second: Ikan Bandeng_51
+  - first:
+      213: -2300667277937205130
+    second: Ikan Bandeng_52
+  - first:
+      213: 399928971064801859
+    second: Ikan Bandeng_53
+  - first:
+      213: 2206653518849500057
+    second: Ikan Bandeng_54
+  - first:
+      213: -1503881950331624056
+    second: Ikan Bandeng_55
+  - first:
+      213: -6160426657486127583
+    second: Ikan Bandeng_56
+  - first:
+      213: -1348345872977666483
+    second: Ikan Bandeng_57
+  - first:
+      213: 5708243296032989002
+    second: Ikan Bandeng_58
+  - first:
+      213: -2108716381396374780
+    second: Ikan Bandeng_59
+  - first:
+      213: -2722467242289861977
+    second: Ikan Bandeng_60
+  - first:
+      213: 8361823807000873662
+    second: Ikan Bandeng_61
+  - first:
+      213: -1688570202581904193
+    second: Ikan Bandeng_62
+  - first:
+      213: -524939788960229113
+    second: Ikan Bandeng_63
+  - first:
+      213: -567290707054956495
+    second: Ikan Bandeng_64
+  - first:
+      213: 1068378199006080358
+    second: Ikan Bandeng_65
+  - first:
+      213: -6508954171475923372
+    second: Ikan Bandeng_66
+  - first:
+      213: -3208173675234638453
+    second: Ikan Bandeng_67
+  - first:
+      213: 503747260087639658
+    second: Ikan Bandeng_68
+  - first:
+      213: 2909402134349552855
+    second: Ikan Bandeng_69
+  - first:
+      213: -670094407557241963
+    second: Ikan Bandeng_70
+  - first:
+      213: 1563128444887054460
+    second: Ikan Bandeng_71
+  - first:
+      213: -2641000197738475560
+    second: Ikan Bandeng_72
+  - first:
+      213: 4425837926842167584
+    second: Ikan Bandeng_73
+  - first:
+      213: -7941237708856546844
+    second: Ikan Bandeng_74
+  - first:
+      213: -1428466165399707929
+    second: Ikan Bandeng_75
+  - first:
+      213: -3023292185324705438
+    second: Ikan Bandeng_76
+  - first:
+      213: 7149118296939936965
+    second: Ikan Bandeng_77
+  - first:
+      213: 2524256825097261451
+    second: Ikan Bandeng_78
+  - first:
+      213: 3252410878106031967
+    second: Ikan Bandeng_79
+  - first:
+      213: 9161811536758917645
+    second: Ikan Bandeng_80
+  - first:
+      213: -1700846213854396714
+    second: Ikan Bandeng_81
+  - first:
+      213: -1463505190807490630
+    second: Ikan Bandeng_82
+  - first:
+      213: 6100319722976443725
+    second: Ikan Bandeng_83
+  - first:
+      213: -8351185372601569657
+    second: Ikan Bandeng_84
+  - first:
+      213: 1838869171902416606
+    second: Ikan Bandeng_85
+  - first:
+      213: -3349863440140148164
+    second: Ikan Bandeng_86
+  - first:
+      213: -4944239893985492147
+    second: Ikan Bandeng_87
+  - first:
+      213: 4980707214885168447
+    second: Ikan Bandeng_88
+  - first:
+      213: 2530659443879455330
+    second: Ikan Bandeng_89
+  - first:
+      213: -3570242189264174529
+    second: Ikan Bandeng_90
+  - first:
+      213: -1487660646724726844
+    second: Ikan Bandeng_91
+  - first:
+      213: 4962452522557652623
+    second: Ikan Bandeng_92
+  - first:
+      213: -4521690262820388259
+    second: Ikan Bandeng_93
+  - first:
+      213: 2080408841906036084
+    second: Ikan Bandeng_94
+  - first:
+      213: 2676915993303148283
+    second: Ikan Bandeng_95
+  - first:
+      213: -6356679570627939273
+    second: Ikan Bandeng_96
+  - first:
+      213: 1806796299050968125
+    second: Ikan Bandeng_97
+  - first:
+      213: 2458174412998572516
+    second: Ikan Bandeng_98
+  - first:
+      213: -6625851213550025882
+    second: Ikan Bandeng_99
+  - first:
+      213: -4040108782194733778
+    second: Ikan Bandeng_100
+  - first:
+      213: 659072391435308694
+    second: Ikan Bandeng_101
+  - first:
+      213: 252951705195320466
+    second: Ikan Bandeng_102
+  - first:
+      213: -4558505351561679911
+    second: Ikan Bandeng_103
+  - first:
+      213: 1029697869021105136
+    second: Ikan Bandeng_104
+  - first:
+      213: 2643236959202027308
+    second: Ikan Bandeng_105
+  - first:
+      213: -5913810799083947613
+    second: Ikan Bandeng_106
+  - first:
+      213: -490571776572473061
+    second: Ikan Bandeng_107
+  - first:
+      213: -3332309200690062621
+    second: Ikan Bandeng_108
+  - first:
+      213: -1656062976150004708
+    second: Ikan Bandeng_109
+  - first:
+      213: -4176734053723346446
+    second: Ikan Bandeng_110
+  - first:
+      213: 3358622047690734033
+    second: Ikan Bandeng_111
+  - first:
+      213: -4905934728595775929
+    second: Ikan Bandeng_112
+  - first:
+      213: 1304680968762727336
+    second: Ikan Bandeng_113
+  - first:
+      213: 1177729006975109402
+    second: Ikan Bandeng_114
+  - first:
+      213: -8850927003728064412
+    second: Ikan Bandeng_115
+  - first:
+      213: 1398470010038199458
+    second: Ikan Bandeng_116
+  - first:
+      213: 5843357653485284386
+    second: Ikan Bandeng_117
+  - first:
+      213: -1590556826261771744
+    second: Ikan Bandeng_118
+  - first:
+      213: 3763981988993103260
+    second: Ikan Bandeng_119
+  - first:
+      213: 2494614919047310195
+    second: Ikan Bandeng_120
+  - first:
+      213: 6140441582235729819
+    second: Ikan Bandeng_121
+  - first:
+      213: 5947489097733926290
+    second: Ikan Bandeng_122
+  - first:
+      213: -4253507400595784214
+    second: Ikan Bandeng_123
+  - first:
+      213: -4219029308089324239
+    second: Ikan Bandeng_124
+  - first:
+      213: -8102508567696937637
+    second: Ikan Bandeng_125
+  - first:
+      213: 1653026501516307450
+    second: Ikan Bandeng_126
+  - first:
+      213: -5997908142255450098
+    second: Ikan Bandeng_127
+  - first:
+      213: 8276434955302357083
+    second: Ikan Bandeng_128
+  - first:
+      213: -299307570886674243
+    second: Ikan Bandeng_129
+  - first:
+      213: 2524169316290644301
+    second: Ikan Bandeng_130
+  - first:
+      213: 8606259387191730041
+    second: Ikan Bandeng_131
+  - first:
+      213: -5725081876803334658
+    second: Ikan Bandeng_132
+  - first:
+      213: -6472529636848910256
+    second: Ikan Bandeng_133
+  - first:
+      213: -6055072273225090137
+    second: Ikan Bandeng_134
+  - first:
+      213: 9137897621237157059
+    second: Ikan Bandeng_135
+  - first:
+      213: 1524890846020433097
+    second: Ikan Bandeng_136
+  - first:
+      213: 7415063129881844793
+    second: Ikan Bandeng_137
+  - first:
+      213: 8657911746523467837
+    second: Ikan Bandeng_138
+  - first:
+      213: -185966326309016077
+    second: Ikan Bandeng_139
+  - first:
+      213: -112239075314597415
+    second: Ikan Bandeng_140
+  - first:
+      213: 4039923915933272520
+    second: Ikan Bandeng_141
+  - first:
+      213: 6277462775761425833
+    second: Ikan Bandeng_142
+  - first:
+      213: -2261807547858355134
+    second: Ikan Bandeng_143
+  - first:
+      213: 7720998432156418585
+    second: Ikan Bandeng_144
+  - first:
+      213: 665847128078364950
+    second: Ikan Bandeng_145
+  - first:
+      213: 8168847370422202150
+    second: Ikan Bandeng_146
+  - first:
+      213: -9042052088054701175
+    second: Ikan Bandeng_147
+  - first:
+      213: -6378694659094714833
+    second: Ikan Bandeng_148
+  - first:
+      213: 1300701161714001003
+    second: Ikan Bandeng_149
+  - first:
+      213: -1443587141680961169
+    second: Ikan Bandeng_150
+  - first:
+      213: -4038760972910965682
+    second: Ikan Bandeng_151
+  - first:
+      213: 1416689477532392998
+    second: Ikan Bandeng_152
+  - first:
+      213: -565979802775369717
+    second: Ikan Bandeng_153
+  - first:
+      213: 3017569159781940375
+    second: Ikan Bandeng_154
+  - first:
+      213: -4188300102057209432
+    second: Ikan Bandeng_155
+  - first:
+      213: -6398290010427969001
+    second: Ikan Bandeng_156
+  - first:
+      213: -6601455310644876709
+    second: Ikan Bandeng_157
+  - first:
+      213: -8327283927523053861
+    second: Ikan Bandeng_158
+  - first:
+      213: 4032271983876251581
+    second: Ikan Bandeng_159
+  - first:
+      213: -2785681841109091091
+    second: Ikan Bandeng_160
+  - first:
+      213: -1827292511472237980
+    second: Ikan Bandeng_161
+  - first:
+      213: 8356459409715871419
+    second: Ikan Bandeng_162
+  - first:
+      213: -1709920965373459370
+    second: Ikan Bandeng_163
+  - first:
+      213: -4517101476845902041
+    second: Ikan Bandeng_164
+  - first:
+      213: -1279853968932078905
+    second: Ikan Bandeng_165
+  - first:
+      213: 7743707655925936410
+    second: Ikan Bandeng_166
+  - first:
+      213: -6680964692607081712
+    second: Ikan Bandeng_167
+  - first:
+      213: 7650527067705555517
+    second: Ikan Bandeng_168
+  - first:
+      213: -5187400556664506378
+    second: Ikan Bandeng_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ikan Bandeng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b1eed0beb997448eaed5b16c3adf2
+      internalID: -2047953139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c9e878e6016bb43aac20c512973bb0
+      internalID: 397164057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0f4babd19f7043b634ed39bcb7ffd
+      internalID: 1602932120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f5dcc6410c6a409ee8330ce725bbe
+      internalID: 1551840443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490fb32a7452d0647bea0b88ae72a285
+      internalID: -1541302918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8648433b6947f49889228f9b870ef5
+      internalID: -1667837923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8828a0acd0dbe846ba23e4eab334aff
+      internalID: -1733008073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13071fbcde4869449dee9b1ddbd6b16
+      internalID: -1311632084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325bad3013f6e34a8d4cc42f2d30a1b
+      internalID: 81542283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734962fe2269dd4c80734da11d4ae1a
+      internalID: 1132596356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ba3d2fe441c174a81bb1ab441fd2b3
+      internalID: -1855137046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f08800c1958b45914ae18ae348c22
+      internalID: -653773930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f6742bd7f3d24fba60c79f317b6cb
+      internalID: -1976552886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7565d98bf2a4e4f91863980aa8175e
+      internalID: -814083310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e7f3427bb73042b9b1ea03cc7c163
+      internalID: 641190321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca7f433a7f62a42a1e0324ab037c9c
+      internalID: 2090432710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a10bb393d5c9e41b3fb8b977d5e8ad
+      internalID: -2090694037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc2a09efe94d3d40bb274c409ab0b0b
+      internalID: 2139731031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc550093b943c4aa699c1fd243decc
+      internalID: 434949067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951681f35fc21754ba1cea0463bbd59f
+      internalID: 1332289897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7556f5a37dc24cb311343b9b766e6
+      internalID: -1539061303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d5f4e61397178439616f400b2a0566
+      internalID: 1034892336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952bc7e0f5ba244f8e8c540663e182a
+      internalID: -53477194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_23
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc61ba716880048bf4b4a21efe7637
+      internalID: 1892616829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_24
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be138a5c840e1446b3be7239f109de3
+      internalID: 2056590303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_25
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce530536c6b8bd747bd52e4ff171f7c4
+      internalID: -572966876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290bf0767171d040ad191d33b581966
+      internalID: -527835698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_27
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f1066c2ffb5345b0815de56872ee4
+      internalID: 777622715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_28
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e967e5f48bc3340bb8e55143d44539
+      internalID: 541989474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_29
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92efe30592e5747498e2e58cc9e07eca
+      internalID: 2066181469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7b34432f2030d499eb0864ea052d88
+      internalID: -1899795745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_31
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66698e7fdbdae4385c67733fe9413a
+      internalID: -994401596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_32
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa07fa98db835674580629468a2d847f
+      internalID: -1798107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_33
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc721ccc3234c846bcb53c2680701ad
+      internalID: -471224933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_34
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747a57f8ede3fd4d8462a1c7e3ac63e
+      internalID: -187153201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_35
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14702b2edf8ee646989045ac34a2877
+      internalID: -556783042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32308bb579daee546aaf721417916131
+      internalID: -1651924273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952eb954856be7b498b3b665c6b4ae15
+      internalID: 2143811228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026a1b9d510763e429f36890d5f00f3f
+      internalID: 1907746074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99498b10a52f004ba0b1bd2f1de6138
+      internalID: -1490404973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb315898305d9a24c9ba4bb32415d0ed
+      internalID: -1110531758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f878ab4b3722343bcd315ee598e5cd
+      internalID: -1328377055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b2806fe8e77447ad3f9d117c6fe4c
+      internalID: -1290666152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37192c1fac9023a4c91271c5bd38c75c
+      internalID: 1358577914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b57cef74d50c448be07c1026bebea0
+      internalID: 1232188914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_45
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c24cdd4e4ca324d8bc05eb0fd603de
+      internalID: -1802511287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_46
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b262ce348516a4bb3dcf1c2adea6ac
+      internalID: 1911904722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_47
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee0476160844d49a9c9cdf2685aff8
+      internalID: -36593785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_48
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37a8f24af03df44800a940802c237d
+      internalID: 633262911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_49
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa650636ea61a449d3877d08ab0c4e
+      internalID: -1432660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_50
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6866617d5487d48827e6bdc7c9aedc
+      internalID: 1942450908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_51
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93bf08e5fda0944bdd3526c260d152
+      internalID: 1604107987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_52
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6dcdb8056a32642af7d7fdbf610753
+      internalID: -396227402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_53
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750edf35608b1240818d888a08d5936
+      internalID: -1558954606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b148bcfbcb8b43904e2125c7a7c2e
+      internalID: 1859753658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb486cbfd109d043bd227396f785f55
+      internalID: 1849605556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ea21feb2ed464a8cba5bd2493f485
+      internalID: 665860672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a79092216774b499ead54036ed60f5
+      internalID: -1973170038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e281835ae178f4548ae5fc1b7b373376
+      internalID: -1731365193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_59
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93069c3e2bf8d146a643fea088f4657
+      internalID: 1497956831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_60
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe610d6ce1af964da1ad6b316a99f57
+      internalID: 155913727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_61
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec768c560d79546b2c95f986df5cc2
+      internalID: -146044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_62
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c09cd5e1d54e742a34e38f3bdc31ed
+      internalID: 235764560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_63
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b66039b34bd04fb409b01183ddd6c
+      internalID: 1423358429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_64
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a9a702952ece4caeb5659d5715815
+      internalID: -918062855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_65
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f9d3d0f451fe4faada5af9b62683e
+      internalID: 1514814939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_66
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6339eb7bcedca942851d1c8c12aa532
+      internalID: -2006189246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_67
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a0d0042d3fd245be9440f21d1b128
+      internalID: 1145490601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_68
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162498892b146344f89e73e6d27a0fcd
+      internalID: 1533142657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_69
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead073ce141809943b3093de5b6c58b2
+      internalID: -586551539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_70
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f690ebfd23f794a84b340e4255217b
+      internalID: -1752738887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_71
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb38a7b55d87b843bbff5fb1798103b
+      internalID: 1864150436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2b7bb37f49274e845eeb878fd5888
+      internalID: 982951456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06dee8bf78dcaa44898f51d870f75ca
+      internalID: 1961777258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dac7bba0856924885c88c21891335a
+      internalID: -1660489661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43bfd5cfa870144bf53cb927db930d
+      internalID: -25417363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592300f35e4936b438439510545d43af
+      internalID: 12590206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_77
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940f9186f2af9c479bcbd00f88957a6
+      internalID: 1804026901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b8afa81bd95e54e89d5c1707ab39b3
+      internalID: -1965643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070a66fddd2c444c8511eb8f3080cc7
+      internalID: -1237753434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_80
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e116d9a74ced16478b918c8a8531c05
+      internalID: 1231820267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_81
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b36cd38f1ace468623ade5c573bcd
+      internalID: 932121113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_82
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d10997c6a33db4697f7e3220a05be7
+      internalID: -110443236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_83
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da6f8cce849ab4180c5b63b431092e
+      internalID: 1821062283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_84
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c1acb242b801428c747618be25243
+      internalID: -967232001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_85
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95967dabfe1d374caee955bc8ad2625
+      internalID: -1017771139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_86
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4dd47db0fad5e4c8fee9d00f2998ae
+      internalID: -271262972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_87
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044841150a9d4954986094c9379149bb
+      internalID: -1927099098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_88
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f63e76fef1e1940a55625df195bf5a
+      internalID: 1195403174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_89
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293f390a678dc54a9b4dd8299e3b2be
+      internalID: -270319251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521db5f652357b640a5f37cf69e5f23d
+      internalID: 1604404562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77effb596f505409c5d8601f11591d
+      internalID: -1530323116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee74246f53d07049a168d895120ece5
+      internalID: -1017431023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff7bde2581dac9419c5b29473df4751
+      internalID: 1858039423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d718ddac449f2b4ebb54c8b469937b4
+      internalID: -1344232987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_95
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e45524db3cbf6439891775ea78f17f
+      internalID: 165963443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_96
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b6ba335c3e7e4dba36d943319ae46
+      internalID: -790058669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_97
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d03a899683599498d0fbce33ca7de2
+      internalID: 474412005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_98
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10cc8d12f1b64141a9366a9d696af0e
+      internalID: 1633777516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_99
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b2d9e5d2a55db4b8fa39cbd485adf6
+      internalID: 150456985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_100
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1ae29549c3a140a0be9a1956426c1
+      internalID: 1323043875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_101
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9dfbe3bf8e064fa791d001270d6aa
+      internalID: 90479170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_102
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385afbbf85eff0643ae104681eca4575
+      internalID: 974586097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_103
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07acb80b566764db0c2004352d0f11
+      internalID: 1504430026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_104
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849339e0802fee446a9a128521b69dfd
+      internalID: 753482204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_105
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7176c8c2e24a774ca17034c7fbbe88f
+      internalID: -1886936858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_106
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9f1b7e3a54f34a9abdaf250d0d004
+      internalID: -215242692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_107
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466cb8f05efe6324c93329af263238d2
+      internalID: -1995866033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa3803fb4e3f949a09301a6a51ce6b
+      internalID: 1171604497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad27051fb8e064fb9b7549c570b35b
+      internalID: -1698712706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab43f1bf486fc47bd00e20a7923de0
+      internalID: 1100938804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_111
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d60cfeb46e02342a23de1b20212848
+      internalID: -1685545304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_112
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7f04d17a14f64caae63b11967a0bb
+      internalID: -1116906834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_113
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752022c0f223df4b93e5b282a2dd22c
+      internalID: -1597919370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_114
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5931a9a318230c4dbe19cb640eeaf8d
+      internalID: -1922582284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_115
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9493b793858cb4f8bbbb4f4c8971a9
+      internalID: 546059782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_116
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11d9b1333531364f8f59e213475c6dc
+      internalID: -1207471047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_117
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8f967d3a9a31459619686e35eb524
+      internalID: 1958811330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_118
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae5ce72cb531748bdc68a456f39edd
+      internalID: 1323761693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_119
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e458502347cc14d908495a06597ffe
+      internalID: 297142853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_120
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc60475a1f24149a3f418d35f15311
+      internalID: 384051836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_121
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fbdb3a9b9dd7749b2981488aeaa9ba
+      internalID: -502538483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_122
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d7d701e7988e4c92a4fd7a8b8fbfd
+      internalID: 1445936433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_123
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25206b199492941847af320f7b11b1
+      internalID: 1154086737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_124
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10c0fc6ccb2ea478dbae82a194ba27
+      internalID: -48161538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_125
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a711fa6e16db4a92960936c798310
+      internalID: -120366058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58c333136e2cb4fac91f6256d49e37
+      internalID: 530872525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d4a15b000eef45b7e3adb41761b2a
+      internalID: -1706342212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_128
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed122b83541f09b4ea34614f87f23873
+      internalID: 1730089869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b345ffc277967b4d873e1d461cd2fbb
+      internalID: 367330654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc092ec3af6e24e8aaf714ae3a1745
+      internalID: -1216516422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_131
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1859516df20e243a01e65fa6079bf2
+      internalID: 1656009100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_132
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ed40f19f595e4b9b1b2e44058d8d3
+      internalID: -1986726144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_133
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcd230fc36b104a8c5349ddf2ee478
+      internalID: 283802486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_134
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b42a70b0b2304787114c8c86c0ada
+      internalID: 1565224138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_135
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a352bac4112cd04fb03f6827967185e
+      internalID: 648749344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_136
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c4e26a9c8d3584cb008bf58b8b731f
+      internalID: 1774515212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_137
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8f8e57a6378143bb5c34fe85e7cac
+      internalID: 1357186257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_138
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9454603ddae154886095f6b51d3061
+      internalID: 1288950657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_139
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd234f37c561594e9aa625cab1c0a64
+      internalID: -236904813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_140
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197585eb49aec84d85e7aa2e496d461
+      internalID: 440577465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_141
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8071ce7b162ca46911e03a91774cf4
+      internalID: 260349790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb21902c6191314ab32c08254884097
+      internalID: -184951615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_143
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c8f7f14c403446996a9c27992edd6
+      internalID: -1484009729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652844d98f547b41940b7e719fe844c
+      internalID: -1180565812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_145
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289e647e010ba7947b217d9a68d766bb
+      internalID: -142818505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_146
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ff2f1037b28e4c914d7389f3ba55c
+      internalID: 1930361640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_147
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcf22a0393ed7469ef8c0377dc8c98
+      internalID: 1389319057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_148
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39457fda216e224d92eb333c9a77ca4
+      internalID: 84890142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_149
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75aeb2b0a8be3c4a8bb2964a839f3b8
+      internalID: -1171531286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_150
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68804ca9f3634944c9e21ee223b3056b
+      internalID: 761615391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_151
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278a456586cc47498a2d5eac490950d
+      internalID: -1471549027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_152
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a6c8991826aa4ebd602259e2d3421
+      internalID: 4555448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_153
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b32d5f1d8eefd4f861ef401eca5adb
+      internalID: 593605345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_154
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe3a44e404cbc43befce07d58b15c2
+      internalID: -1115137671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_155
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af9a825d0182e46bcd9b59fe1ca073
+      internalID: -1829721269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_156
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86328bee9a674f24294012594abed467
+      internalID: -757196457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_157
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed7e69ad6314c442b8fbdf620c4d26a
+      internalID: 1747658183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_158
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70209aa34ec3f7f4c87296ba04187137
+      internalID: 1368098547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_159
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d500c796e1fc45901db826f2a5fee
+      internalID: 676814400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_160
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226243ab3a74b844b79b705e3b567b5
+      internalID: 1509390296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_161
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5106f2c23c0380846853850623a21c4b
+      internalID: -833866098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30321e0d5849541b09eef1a262704f
+      internalID: 1534313229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_163
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71584aaa40b0f7743bdeb8b82ac600b0
+      internalID: 1348761906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_164
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfebb440faf45149a822f95e7e14ae6
+      internalID: -1602453614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_165
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb42668641d3e741b30d51d601028a3
+      internalID: 2118560220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_166
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add75be8d1ffa1349a6db13ddfbecc65
+      internalID: -480610273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_167
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de69da8ac666114195ec01c6a1cd8cd
+      internalID: 1787789945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_168
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816e854b94b6b44ab6984e3111046e2
+      internalID: 416891924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Bandeng_169
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69d2d61f3f6d147be0e539d2fc1d90
+      internalID: 1473458911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 025279fa8eb812845a23c38a25e71a1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ikan Bandeng_0: -2047953139
+      Ikan Bandeng_1: 397164057
+      Ikan Bandeng_10: -1855137046
+      Ikan Bandeng_100: 1323043875
+      Ikan Bandeng_101: 90479170
+      Ikan Bandeng_102: 974586097
+      Ikan Bandeng_103: 1504430026
+      Ikan Bandeng_104: 753482204
+      Ikan Bandeng_105: -1886936858
+      Ikan Bandeng_106: -215242692
+      Ikan Bandeng_107: -1995866033
+      Ikan Bandeng_108: 1171604497
+      Ikan Bandeng_109: -1698712706
+      Ikan Bandeng_11: -653773930
+      Ikan Bandeng_110: 1100938804
+      Ikan Bandeng_111: -1685545304
+      Ikan Bandeng_112: -1116906834
+      Ikan Bandeng_113: -1597919370
+      Ikan Bandeng_114: -1922582284
+      Ikan Bandeng_115: 546059782
+      Ikan Bandeng_116: -1207471047
+      Ikan Bandeng_117: 1958811330
+      Ikan Bandeng_118: 1323761693
+      Ikan Bandeng_119: 297142853
+      Ikan Bandeng_12: -1976552886
+      Ikan Bandeng_120: 384051836
+      Ikan Bandeng_121: -502538483
+      Ikan Bandeng_122: 1445936433
+      Ikan Bandeng_123: 1154086737
+      Ikan Bandeng_124: -48161538
+      Ikan Bandeng_125: -120366058
+      Ikan Bandeng_126: 530872525
+      Ikan Bandeng_127: -1706342212
+      Ikan Bandeng_128: 1730089869
+      Ikan Bandeng_129: 367330654
+      Ikan Bandeng_13: -814083310
+      Ikan Bandeng_130: -1216516422
+      Ikan Bandeng_131: 1656009100
+      Ikan Bandeng_132: -1986726144
+      Ikan Bandeng_133: 283802486
+      Ikan Bandeng_134: 1565224138
+      Ikan Bandeng_135: 648749344
+      Ikan Bandeng_136: 1774515212
+      Ikan Bandeng_137: 1357186257
+      Ikan Bandeng_138: 1288950657
+      Ikan Bandeng_139: -236904813
+      Ikan Bandeng_14: 641190321
+      Ikan Bandeng_140: 440577465
+      Ikan Bandeng_141: 260349790
+      Ikan Bandeng_142: -184951615
+      Ikan Bandeng_143: -1484009729
+      Ikan Bandeng_144: -1180565812
+      Ikan Bandeng_145: -142818505
+      Ikan Bandeng_146: 1930361640
+      Ikan Bandeng_147: 1389319057
+      Ikan Bandeng_148: 84890142
+      Ikan Bandeng_149: -1171531286
+      Ikan Bandeng_15: 2090432710
+      Ikan Bandeng_150: 761615391
+      Ikan Bandeng_151: -1471549027
+      Ikan Bandeng_152: 4555448
+      Ikan Bandeng_153: 593605345
+      Ikan Bandeng_154: -1115137671
+      Ikan Bandeng_155: -1829721269
+      Ikan Bandeng_156: -757196457
+      Ikan Bandeng_157: 1747658183
+      Ikan Bandeng_158: 1368098547
+      Ikan Bandeng_159: 676814400
+      Ikan Bandeng_16: -2090694037
+      Ikan Bandeng_160: 1509390296
+      Ikan Bandeng_161: -833866098
+      Ikan Bandeng_162: 1534313229
+      Ikan Bandeng_163: 1348761906
+      Ikan Bandeng_164: -1602453614
+      Ikan Bandeng_165: 2118560220
+      Ikan Bandeng_166: -480610273
+      Ikan Bandeng_167: 1787789945
+      Ikan Bandeng_168: 416891924
+      Ikan Bandeng_169: 1473458911
+      Ikan Bandeng_17: 2139731031
+      Ikan Bandeng_18: 434949067
+      Ikan Bandeng_19: 1332289897
+      Ikan Bandeng_2: 1602932120
+      Ikan Bandeng_20: -1539061303
+      Ikan Bandeng_21: 1034892336
+      Ikan Bandeng_22: -53477194
+      Ikan Bandeng_23: 1892616829
+      Ikan Bandeng_24: 2056590303
+      Ikan Bandeng_25: -572966876
+      Ikan Bandeng_26: -527835698
+      Ikan Bandeng_27: 777622715
+      Ikan Bandeng_28: 541989474
+      Ikan Bandeng_29: 2066181469
+      Ikan Bandeng_3: 1551840443
+      Ikan Bandeng_30: -1899795745
+      Ikan Bandeng_31: -994401596
+      Ikan Bandeng_32: -1798107850
+      Ikan Bandeng_33: -471224933
+      Ikan Bandeng_34: -187153201
+      Ikan Bandeng_35: -556783042
+      Ikan Bandeng_36: -1651924273
+      Ikan Bandeng_37: 2143811228
+      Ikan Bandeng_38: 1907746074
+      Ikan Bandeng_39: -1490404973
+      Ikan Bandeng_4: -1541302918
+      Ikan Bandeng_40: -1110531758
+      Ikan Bandeng_41: -1328377055
+      Ikan Bandeng_42: -1290666152
+      Ikan Bandeng_43: 1358577914
+      Ikan Bandeng_44: 1232188914
+      Ikan Bandeng_45: -1802511287
+      Ikan Bandeng_46: 1911904722
+      Ikan Bandeng_47: -36593785
+      Ikan Bandeng_48: 633262911
+      Ikan Bandeng_49: -1432660193
+      Ikan Bandeng_5: -1667837923
+      Ikan Bandeng_50: 1942450908
+      Ikan Bandeng_51: 1604107987
+      Ikan Bandeng_52: -396227402
+      Ikan Bandeng_53: -1558954606
+      Ikan Bandeng_54: 1859753658
+      Ikan Bandeng_55: 1849605556
+      Ikan Bandeng_56: 665860672
+      Ikan Bandeng_57: -1973170038
+      Ikan Bandeng_58: -1731365193
+      Ikan Bandeng_59: 1497956831
+      Ikan Bandeng_6: -1733008073
+      Ikan Bandeng_60: 155913727
+      Ikan Bandeng_61: -146044379
+      Ikan Bandeng_62: 235764560
+      Ikan Bandeng_63: 1423358429
+      Ikan Bandeng_64: -918062855
+      Ikan Bandeng_65: 1514814939
+      Ikan Bandeng_66: -2006189246
+      Ikan Bandeng_67: 1145490601
+      Ikan Bandeng_68: 1533142657
+      Ikan Bandeng_69: -586551539
+      Ikan Bandeng_7: -1311632084
+      Ikan Bandeng_70: -1752738887
+      Ikan Bandeng_71: 1864150436
+      Ikan Bandeng_72: 982951456
+      Ikan Bandeng_73: 1961777258
+      Ikan Bandeng_74: -1660489661
+      Ikan Bandeng_75: -25417363
+      Ikan Bandeng_76: 12590206
+      Ikan Bandeng_77: 1804026901
+      Ikan Bandeng_78: -1965643126
+      Ikan Bandeng_79: -1237753434
+      Ikan Bandeng_8: 81542283
+      Ikan Bandeng_80: 1231820267
+      Ikan Bandeng_81: 932121113
+      Ikan Bandeng_82: -110443236
+      Ikan Bandeng_83: 1821062283
+      Ikan Bandeng_84: -967232001
+      Ikan Bandeng_85: -1017771139
+      Ikan Bandeng_86: -271262972
+      Ikan Bandeng_87: -1927099098
+      Ikan Bandeng_88: 1195403174
+      Ikan Bandeng_89: -270319251
+      Ikan Bandeng_9: 1132596356
+      Ikan Bandeng_90: 1604404562
+      Ikan Bandeng_91: -1530323116
+      Ikan Bandeng_92: -1017431023
+      Ikan Bandeng_93: 1858039423
+      Ikan Bandeng_94: -1344232987
+      Ikan Bandeng_95: 165963443
+      Ikan Bandeng_96: -790058669
+      Ikan Bandeng_97: 474412005
+      Ikan Bandeng_98: 1633777516
+      Ikan Bandeng_99: 150456985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

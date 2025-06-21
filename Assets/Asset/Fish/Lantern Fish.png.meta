@@ -1,0 +1,6402 @@
+fileFormatVersion: 2
+guid: db5c16ca9fae56f499bd9df0902258dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4460243346773475055
+    second: Lantern Fish_0
+  - first:
+      213: -8189367518860045092
+    second: Lantern Fish_1
+  - first:
+      213: -6242810970027879242
+    second: Lantern Fish_2
+  - first:
+      213: -5611644157539334927
+    second: Lantern Fish_3
+  - first:
+      213: -8179885597390039850
+    second: Lantern Fish_4
+  - first:
+      213: -2685682637154989173
+    second: Lantern Fish_5
+  - first:
+      213: 8550665093878010581
+    second: Lantern Fish_6
+  - first:
+      213: -6452300967296461295
+    second: Lantern Fish_7
+  - first:
+      213: 1796939668149593779
+    second: Lantern Fish_8
+  - first:
+      213: -3388308177936540628
+    second: Lantern Fish_9
+  - first:
+      213: -1752613553784196320
+    second: Lantern Fish_10
+  - first:
+      213: -5561671803368850189
+    second: Lantern Fish_11
+  - first:
+      213: 952787136692549582
+    second: Lantern Fish_12
+  - first:
+      213: -6826145325700855892
+    second: Lantern Fish_13
+  - first:
+      213: 5327126497732129550
+    second: Lantern Fish_14
+  - first:
+      213: -7399839477540319939
+    second: Lantern Fish_15
+  - first:
+      213: -1188351331647835730
+    second: Lantern Fish_16
+  - first:
+      213: 1703519039863229987
+    second: Lantern Fish_17
+  - first:
+      213: 2063332819374024282
+    second: Lantern Fish_18
+  - first:
+      213: 7587247386472619748
+    second: Lantern Fish_19
+  - first:
+      213: 6401963407752068465
+    second: Lantern Fish_20
+  - first:
+      213: 2495562318552618161
+    second: Lantern Fish_21
+  - first:
+      213: -7776087029579632331
+    second: Lantern Fish_22
+  - first:
+      213: -5531760689239509468
+    second: Lantern Fish_23
+  - first:
+      213: 9096989273735861292
+    second: Lantern Fish_24
+  - first:
+      213: 6395903521142620927
+    second: Lantern Fish_25
+  - first:
+      213: 8560103877516299113
+    second: Lantern Fish_26
+  - first:
+      213: -2953692465138865981
+    second: Lantern Fish_27
+  - first:
+      213: 6674681453214702709
+    second: Lantern Fish_28
+  - first:
+      213: -5005851455352533676
+    second: Lantern Fish_29
+  - first:
+      213: 2379242134269653804
+    second: Lantern Fish_30
+  - first:
+      213: -7074285988966981502
+    second: Lantern Fish_31
+  - first:
+      213: 147620624196430440
+    second: Lantern Fish_32
+  - first:
+      213: 8470652201037720215
+    second: Lantern Fish_33
+  - first:
+      213: 889542348000580436
+    second: Lantern Fish_34
+  - first:
+      213: -6123169556797896625
+    second: Lantern Fish_35
+  - first:
+      213: -4714741297235193995
+    second: Lantern Fish_36
+  - first:
+      213: -71464922261000037
+    second: Lantern Fish_37
+  - first:
+      213: 2365314006752487133
+    second: Lantern Fish_38
+  - first:
+      213: 2376000828816866693
+    second: Lantern Fish_39
+  - first:
+      213: 7264888670054816757
+    second: Lantern Fish_40
+  - first:
+      213: 6126015024881428084
+    second: Lantern Fish_41
+  - first:
+      213: 3936611681363929715
+    second: Lantern Fish_42
+  - first:
+      213: -7275743986125347587
+    second: Lantern Fish_43
+  - first:
+      213: -6215376519411702814
+    second: Lantern Fish_44
+  - first:
+      213: 102745616959697553
+    second: Lantern Fish_45
+  - first:
+      213: -6084539043710765083
+    second: Lantern Fish_46
+  - first:
+      213: 6804401105775309062
+    second: Lantern Fish_47
+  - first:
+      213: -7777853039869591769
+    second: Lantern Fish_48
+  - first:
+      213: 1825366043864187744
+    second: Lantern Fish_49
+  - first:
+      213: 970998166782593415
+    second: Lantern Fish_50
+  - first:
+      213: -4356768515037053054
+    second: Lantern Fish_51
+  - first:
+      213: -2623078068732506312
+    second: Lantern Fish_52
+  - first:
+      213: -4792009649987861398
+    second: Lantern Fish_53
+  - first:
+      213: -6032340564814617553
+    second: Lantern Fish_54
+  - first:
+      213: 3612212469885600447
+    second: Lantern Fish_55
+  - first:
+      213: 1108315043581571185
+    second: Lantern Fish_56
+  - first:
+      213: -2812519292191771281
+    second: Lantern Fish_57
+  - first:
+      213: 1431249916121069548
+    second: Lantern Fish_58
+  - first:
+      213: -3938702980651060888
+    second: Lantern Fish_59
+  - first:
+      213: -4764033412234562765
+    second: Lantern Fish_60
+  - first:
+      213: -8857434688354170726
+    second: Lantern Fish_61
+  - first:
+      213: -7498111706027756982
+    second: Lantern Fish_62
+  - first:
+      213: 5917145518264310144
+    second: Lantern Fish_63
+  - first:
+      213: 5559972047926639132
+    second: Lantern Fish_64
+  - first:
+      213: -8319084940127670544
+    second: Lantern Fish_65
+  - first:
+      213: -4777928253805581352
+    second: Lantern Fish_66
+  - first:
+      213: 8116324658692507349
+    second: Lantern Fish_67
+  - first:
+      213: 3338288038310417088
+    second: Lantern Fish_68
+  - first:
+      213: -6941445351834659330
+    second: Lantern Fish_69
+  - first:
+      213: -5620203588514863797
+    second: Lantern Fish_70
+  - first:
+      213: -9178773158903147124
+    second: Lantern Fish_71
+  - first:
+      213: 7039848195438697042
+    second: Lantern Fish_72
+  - first:
+      213: -2290451614050268017
+    second: Lantern Fish_73
+  - first:
+      213: -3757312834392219767
+    second: Lantern Fish_74
+  - first:
+      213: 6466263339478218418
+    second: Lantern Fish_75
+  - first:
+      213: 3825465695373493891
+    second: Lantern Fish_76
+  - first:
+      213: -3379213858294252594
+    second: Lantern Fish_77
+  - first:
+      213: -2826734062978567860
+    second: Lantern Fish_78
+  - first:
+      213: 2717655597135436428
+    second: Lantern Fish_79
+  - first:
+      213: 4926464405485864354
+    second: Lantern Fish_80
+  - first:
+      213: -9002982961773227021
+    second: Lantern Fish_81
+  - first:
+      213: -4918012589362249682
+    second: Lantern Fish_82
+  - first:
+      213: 8711272714874944242
+    second: Lantern Fish_83
+  - first:
+      213: -196057457778207335
+    second: Lantern Fish_84
+  - first:
+      213: -1616420391083574032
+    second: Lantern Fish_85
+  - first:
+      213: -7083529391233651864
+    second: Lantern Fish_86
+  - first:
+      213: -7424973082098468690
+    second: Lantern Fish_87
+  - first:
+      213: 5127327180165240102
+    second: Lantern Fish_88
+  - first:
+      213: -3197665635180556991
+    second: Lantern Fish_89
+  - first:
+      213: -2668008823596006396
+    second: Lantern Fish_90
+  - first:
+      213: -4824953607924130658
+    second: Lantern Fish_91
+  - first:
+      213: 333078867136513296
+    second: Lantern Fish_92
+  - first:
+      213: 7668472004288421300
+    second: Lantern Fish_93
+  - first:
+      213: -7374937122087993639
+    second: Lantern Fish_94
+  - first:
+      213: 2966913448511454685
+    second: Lantern Fish_95
+  - first:
+      213: -2439421586603925737
+    second: Lantern Fish_96
+  - first:
+      213: 3233884397423029184
+    second: Lantern Fish_97
+  - first:
+      213: 973173156811869330
+    second: Lantern Fish_98
+  - first:
+      213: -423264003033075319
+    second: Lantern Fish_99
+  - first:
+      213: -4521329925721500165
+    second: Lantern Fish_100
+  - first:
+      213: -3437975370079802746
+    second: Lantern Fish_101
+  - first:
+      213: -3354706704537721675
+    second: Lantern Fish_102
+  - first:
+      213: 3872653641770693883
+    second: Lantern Fish_103
+  - first:
+      213: 3558327056890787218
+    second: Lantern Fish_104
+  - first:
+      213: 1039841897576315965
+    second: Lantern Fish_105
+  - first:
+      213: -4307042152658178476
+    second: Lantern Fish_106
+  - first:
+      213: -5556766393418590808
+    second: Lantern Fish_107
+  - first:
+      213: 3314107054126657038
+    second: Lantern Fish_108
+  - first:
+      213: 7938517709006509417
+    second: Lantern Fish_109
+  - first:
+      213: -1959299113598386086
+    second: Lantern Fish_110
+  - first:
+      213: 6427418384723609398
+    second: Lantern Fish_111
+  - first:
+      213: 3744068205483767389
+    second: Lantern Fish_112
+  - first:
+      213: -7729830171636094324
+    second: Lantern Fish_113
+  - first:
+      213: 7404143221854420277
+    second: Lantern Fish_114
+  - first:
+      213: -8785846739455551517
+    second: Lantern Fish_115
+  - first:
+      213: 6783826487130472673
+    second: Lantern Fish_116
+  - first:
+      213: 4927061339266835945
+    second: Lantern Fish_117
+  - first:
+      213: -3613998357353893830
+    second: Lantern Fish_118
+  - first:
+      213: -6430804132845725013
+    second: Lantern Fish_119
+  - first:
+      213: 7415956828329902478
+    second: Lantern Fish_120
+  - first:
+      213: -9028630234154978531
+    second: Lantern Fish_121
+  - first:
+      213: -5980348141224525582
+    second: Lantern Fish_122
+  - first:
+      213: 2108281339578964362
+    second: Lantern Fish_123
+  - first:
+      213: 8901688152074056713
+    second: Lantern Fish_124
+  - first:
+      213: 6305184031183746817
+    second: Lantern Fish_125
+  - first:
+      213: 910215605858765033
+    second: Lantern Fish_126
+  - first:
+      213: -5001112728808983829
+    second: Lantern Fish_127
+  - first:
+      213: -4240602857187399895
+    second: Lantern Fish_128
+  - first:
+      213: 7081192138397537488
+    second: Lantern Fish_129
+  - first:
+      213: 5381239514217994914
+    second: Lantern Fish_130
+  - first:
+      213: 1671203831079635841
+    second: Lantern Fish_131
+  - first:
+      213: -7119912523670996227
+    second: Lantern Fish_132
+  - first:
+      213: -122911326524438348
+    second: Lantern Fish_133
+  - first:
+      213: -7114776529024927368
+    second: Lantern Fish_134
+  - first:
+      213: 2962945544132143162
+    second: Lantern Fish_135
+  - first:
+      213: 3082938854134351032
+    second: Lantern Fish_136
+  - first:
+      213: 7612018294156680994
+    second: Lantern Fish_137
+  - first:
+      213: -8621437787847015349
+    second: Lantern Fish_138
+  - first:
+      213: 6702032268212334964
+    second: Lantern Fish_139
+  - first:
+      213: -6896882995690579984
+    second: Lantern Fish_140
+  - first:
+      213: 3486563119932442099
+    second: Lantern Fish_141
+  - first:
+      213: -182785637108687281
+    second: Lantern Fish_142
+  - first:
+      213: -6349391726609071038
+    second: Lantern Fish_143
+  - first:
+      213: -9212790488529271848
+    second: Lantern Fish_144
+  - first:
+      213: 51672765835849527
+    second: Lantern Fish_145
+  - first:
+      213: 6555684276302351853
+    second: Lantern Fish_146
+  - first:
+      213: -768383960604636253
+    second: Lantern Fish_147
+  - first:
+      213: 7055843310417431597
+    second: Lantern Fish_148
+  - first:
+      213: 740097515663656245
+    second: Lantern Fish_149
+  - first:
+      213: 2890188201438110173
+    second: Lantern Fish_150
+  - first:
+      213: 6440232840681968786
+    second: Lantern Fish_151
+  - first:
+      213: -8337007145500813014
+    second: Lantern Fish_152
+  - first:
+      213: -8315401642206612646
+    second: Lantern Fish_153
+  - first:
+      213: -7583932189798287509
+    second: Lantern Fish_154
+  - first:
+      213: -1837323417246434298
+    second: Lantern Fish_155
+  - first:
+      213: 3787347461804368208
+    second: Lantern Fish_156
+  - first:
+      213: 6367697142776712276
+    second: Lantern Fish_157
+  - first:
+      213: 9207160191613166250
+    second: Lantern Fish_158
+  - first:
+      213: 5613359774642082606
+    second: Lantern Fish_159
+  - first:
+      213: 1322489878531970654
+    second: Lantern Fish_160
+  - first:
+      213: 1975243203300309310
+    second: Lantern Fish_161
+  - first:
+      213: 1286938610595497980
+    second: Lantern Fish_162
+  - first:
+      213: -4293072257214409941
+    second: Lantern Fish_163
+  - first:
+      213: -3338011554552755610
+    second: Lantern Fish_164
+  - first:
+      213: 7912458531929791452
+    second: Lantern Fish_165
+  - first:
+      213: 695104047256351565
+    second: Lantern Fish_166
+  - first:
+      213: 4269996896058351160
+    second: Lantern Fish_167
+  - first:
+      213: -113372935899150517
+    second: Lantern Fish_168
+  - first:
+      213: -5532251978087380370
+    second: Lantern Fish_169
+  - first:
+      213: 8051909443747969258
+    second: Lantern Fish_170
+  - first:
+      213: 2009937319175104418
+    second: Lantern Fish_171
+  - first:
+      213: 24679845984932549
+    second: Lantern Fish_172
+  - first:
+      213: 3589716322163393686
+    second: Lantern Fish_173
+  - first:
+      213: -3533453034897852602
+    second: Lantern Fish_174
+  - first:
+      213: -3194850976818314714
+    second: Lantern Fish_175
+  - first:
+      213: 3879798055893904119
+    second: Lantern Fish_176
+  - first:
+      213: 6433219108696449341
+    second: Lantern Fish_177
+  - first:
+      213: -1198750558031697705
+    second: Lantern Fish_178
+  - first:
+      213: -7341190769132712507
+    second: Lantern Fish_179
+  - first:
+      213: 4155838686762747167
+    second: Lantern Fish_180
+  - first:
+      213: 3474030295497340000
+    second: Lantern Fish_181
+  - first:
+      213: 4808000569355290937
+    second: Lantern Fish_182
+  - first:
+      213: -6169676694283041183
+    second: Lantern Fish_183
+  - first:
+      213: -3530535254605017900
+    second: Lantern Fish_184
+  - first:
+      213: 2176055315815381972
+    second: Lantern Fish_185
+  - first:
+      213: -5121144683357241091
+    second: Lantern Fish_186
+  - first:
+      213: -4853060058597135844
+    second: Lantern Fish_187
+  - first:
+      213: -8725965466732091487
+    second: Lantern Fish_188
+  - first:
+      213: -3950232122799586762
+    second: Lantern Fish_189
+  - first:
+      213: 7068921799837397642
+    second: Lantern Fish_190
+  - first:
+      213: 2422277504774126262
+    second: Lantern Fish_191
+  - first:
+      213: 5230992336290597691
+    second: Lantern Fish_192
+  - first:
+      213: -518676261853647485
+    second: Lantern Fish_193
+  - first:
+      213: 4618827836219426688
+    second: Lantern Fish_194
+  - first:
+      213: -1286848581702773456
+    second: Lantern Fish_195
+  - first:
+      213: -1123905835118691435
+    second: Lantern Fish_196
+  - first:
+      213: -6970586980758763626
+    second: Lantern Fish_197
+  - first:
+      213: -2511979926826470504
+    second: Lantern Fish_198
+  - first:
+      213: -8087818744696107582
+    second: Lantern Fish_199
+  - first:
+      213: 3178078404626310257
+    second: Lantern Fish_200
+  - first:
+      213: 7430268959977546853
+    second: Lantern Fish_201
+  - first:
+      213: 6312237312666351966
+    second: Lantern Fish_202
+  - first:
+      213: -5978630561176152569
+    second: Lantern Fish_203
+  - first:
+      213: -5795752355274120495
+    second: Lantern Fish_204
+  - first:
+      213: 5397481143924124581
+    second: Lantern Fish_205
+  - first:
+      213: 5879990392220160752
+    second: Lantern Fish_206
+  - first:
+      213: 4373281387537070600
+    second: Lantern Fish_207
+  - first:
+      213: 1841745548784520121
+    second: Lantern Fish_208
+  - first:
+      213: 5970454131372815431
+    second: Lantern Fish_209
+  - first:
+      213: -7766932761691097335
+    second: Lantern Fish_210
+  - first:
+      213: 8493180217901648590
+    second: Lantern Fish_211
+  - first:
+      213: -2394669879407741513
+    second: Lantern Fish_212
+  - first:
+      213: -3726681961819491227
+    second: Lantern Fish_213
+  - first:
+      213: 222538150794947119
+    second: Lantern Fish_214
+  - first:
+      213: 3018609004718580304
+    second: Lantern Fish_215
+  - first:
+      213: 8685690282799375632
+    second: Lantern Fish_216
+  - first:
+      213: 7736943035196972165
+    second: Lantern Fish_217
+  - first:
+      213: -371336919532479991
+    second: Lantern Fish_218
+  - first:
+      213: -918378617969952175
+    second: Lantern Fish_219
+  - first:
+      213: 2256900091577090673
+    second: Lantern Fish_220
+  - first:
+      213: -6318562962527476819
+    second: Lantern Fish_221
+  - first:
+      213: 6093057972952009878
+    second: Lantern Fish_222
+  - first:
+      213: 7048902097898689949
+    second: Lantern Fish_223
+  - first:
+      213: 4583264501587309259
+    second: Lantern Fish_224
+  - first:
+      213: -4295543224595052051
+    second: Lantern Fish_225
+  - first:
+      213: -1889338873972270421
+    second: Lantern Fish_226
+  - first:
+      213: 713081134497647436
+    second: Lantern Fish_227
+  - first:
+      213: 5786884509548795028
+    second: Lantern Fish_228
+  - first:
+      213: -4163037431138867865
+    second: Lantern Fish_229
+  - first:
+      213: 8050521585225096448
+    second: Lantern Fish_230
+  - first:
+      213: 2836310993760020190
+    second: Lantern Fish_231
+  - first:
+      213: -5727856876644602825
+    second: Lantern Fish_232
+  - first:
+      213: 4292725093997500529
+    second: Lantern Fish_233
+  - first:
+      213: -3930222973295919688
+    second: Lantern Fish_234
+  - first:
+      213: 2017117737293087517
+    second: Lantern Fish_235
+  - first:
+      213: -9046202385266598262
+    second: Lantern Fish_236
+  - first:
+      213: 4051994740691236690
+    second: Lantern Fish_237
+  - first:
+      213: -3785377281276525715
+    second: Lantern Fish_238
+  - first:
+      213: -7129242977810356796
+    second: Lantern Fish_239
+  - first:
+      213: -5814090568966847586
+    second: Lantern Fish_240
+  - first:
+      213: 5491126223546512568
+    second: Lantern Fish_241
+  - first:
+      213: 8911207121202620218
+    second: Lantern Fish_242
+  - first:
+      213: -272528461127169993
+    second: Lantern Fish_243
+  - first:
+      213: -1485299937773791526
+    second: Lantern Fish_244
+  - first:
+      213: -6624914296065649037
+    second: Lantern Fish_245
+  - first:
+      213: 9029160886864847130
+    second: Lantern Fish_246
+  - first:
+      213: -406418362566980983
+    second: Lantern Fish_247
+  - first:
+      213: 49776417398017021
+    second: Lantern Fish_248
+  - first:
+      213: -5097976692132962128
+    second: Lantern Fish_249
+  - first:
+      213: 5009109019477861440
+    second: Lantern Fish_250
+  - first:
+      213: 7826879277611999003
+    second: Lantern Fish_251
+  - first:
+      213: 8998591341120079940
+    second: Lantern Fish_252
+  - first:
+      213: -3532995937044056195
+    second: Lantern Fish_253
+  - first:
+      213: -5151801724087259375
+    second: Lantern Fish_254
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lantern Fish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10285c2183240b4986834dec5e41d25
+      internalID: 1562260316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc951e936b668439552f30b3600668
+      internalID: -310851416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203594ffddbd284c9b7b640bdaf65f3
+      internalID: 986432950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9929a6b3515b040b68a6c8137cebe1
+      internalID: 2013355500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823db9912235b5649919eaad7f96745a
+      internalID: -262230520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cea4f1136dd09143a462dfb78fc3195
+      internalID: -129439370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c1586185834c4b8a0615ea0a059e2
+      internalID: -922845604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc85607afeab94cb8f76d54dd8ec15
+      internalID: 625086552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d302bacb622ce4fa724fe51468aec3
+      internalID: 551079062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634dc269e4f9dc4ea9098c30dd946c0
+      internalID: -1373597207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3bd0925e1bcbf49ad9d440aea85693
+      internalID: 789584196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830cb661ae0f122428c0b001ca9e52dd
+      internalID: -1058013500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3bfb5180715e440801946a3482f7f3
+      internalID: -578522305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a323f093e475a1f4d9ef479f40de56b2
+      internalID: 2110853721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de2663e7d109547abdc886664099d7
+      internalID: 1444580446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678568e622e87904abd0fa4bf3c90e3d
+      internalID: 221879457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c354ebf3e83380499888ec0020be7da
+      internalID: -1971894800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4da9fd1c3989846aa95ef1c8fccc0d
+      internalID: -76712866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_18
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e01cb79e067e4a9d0ed39625011c5
+      internalID: 1940640826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_19
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5451a4c1089c2349a5d1c39689f3eb5
+      internalID: 1882097984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_20
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed1c20001352945bc7510c38905a42
+      internalID: -241838838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212543f8cc271f34ca6c1db7c06dfb0b
+      internalID: 637639510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df14adc332e89a458515c57c022efa4
+      internalID: -94703275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fed9a13a58d4a4c989e88c3d12c9fb
+      internalID: -1724746362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70513c7f83ff65443ad61cb162adf611
+      internalID: 424679794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300100572a8308948b9b6f317524e7b8
+      internalID: -1429245966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a077d280dbbe6429d33d29d642f6b5
+      internalID: 1862187414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547efe7911441b4da536fc9b8db8fb8
+      internalID: 1680414662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_28
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99b20624aec224ca3652f0add4f83c
+      internalID: -1198044065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb85f95e88c9d41a0cfa6b173fc191
+      internalID: 624260788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095b147ee7afb24787ec837e4aa5624
+      internalID: -155410876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_31
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ed33c3b71f234c84984c355a4965b
+      internalID: 1846387696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_32
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85ef4f13bab47f4fbde7c97c0c8f8a8
+      internalID: 314918614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_33
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95381a95cc0764d9fde2270d5352f1
+      internalID: -485785070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_34
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c098edecfafe049b74adc016f1cde5
+      internalID: -380952981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_35
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981fcc40f28cc24a835872c30e350c3
+      internalID: 651973560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_36
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e768a7b65c33b8041ab22efa16710f4f
+      internalID: 1439989839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_37
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb89655fcb22684b9e75c8d76d2030d
+      internalID: 161815644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_38
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2d9f8833bc94489921b68708349df
+      internalID: 1108927850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_39
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d2d896a850664aa958a14382a57d0
+      internalID: 1207803204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_40
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd508b587d496e6499251118005ddfdf
+      internalID: 423542638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_41
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76e0cf042941e40aa6044577cee2e4
+      internalID: 1537551807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a22502e904397c4db22d5be88d2431a
+      internalID: 1645962438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0a5a23e3dce8408d349dc90063cac
+      internalID: 1492313245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01215e26e3e276a41a92796e45d24c4c
+      internalID: 818537119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4f0b12c6c9604d95f305acc941a78
+      internalID: 970744316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334f91d54a2a174d9ed93aaf9209353
+      internalID: 972063458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279e11e3863aca42be8c03455d648fc
+      internalID: -1069620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bcd81e1c1c5e4ca513961c0d77948
+      internalID: 994089635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98289aaa33f519d438035540eb30fcc7
+      internalID: 1459231383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_50
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c5a2ea635bed4c851909e3fafadd0
+      internalID: -397384522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_51
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01ea6f6982e744283a63fbbb498176
+      internalID: -1172553314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_52
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b9b379aa3b8f4f8032518d36f055b
+      internalID: -1707030606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_53
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da38bd6b2e08d14fb073e49c25b70ad
+      internalID: -1709838753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3115c251af0eb34a838341934686111
+      internalID: 2005195295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_55
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf626a039a9115d41aeaa5d59d817e01
+      internalID: -1797198486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_56
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5153277c5ed844b734e123a08dad5
+      internalID: 1195281950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_57
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3382a0d68f3946aaa8a5c5ff0522d
+      internalID: -514641637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b17bc0de0c43047959f50cec9167e4
+      internalID: -328658760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_59
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb43843f810fa41872839859eba138
+      internalID: 52213707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_60
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b2961f98b82349b36406f23f308d0
+      internalID: -1466288806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_61
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55be1f3b545b26948bd34f91f12165c1
+      internalID: 225895443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_62
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f42476c9800244a6da30d01ab7a17
+      internalID: -1793411991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391360302eba9746afcbadcca913c4d
+      internalID: -694460891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac542409a040d242b15365d295d3f19
+      internalID: 1171803145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560484a8f4c85f3449812703fb875b3e
+      internalID: 100562469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72029801d93c54587a1c334b2b7f62
+      internalID: 796832510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5898325ffc62b04b8bda421f0ba3a6f
+      internalID: 996978756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_68
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e2b8f5b888bd44ba3e2d4db910358
+      internalID: -793493764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230faea7dcd344649ac2f18258565b00
+      internalID: -1958622321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_70
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420fdead23b2b84083cbf9342cf225c
+      internalID: -818663831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_71
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4a2f349ce31c45abb460a94c3746b
+      internalID: -546353619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_72
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8eca563cdd96439cbe41c2dc8a8a6
+      internalID: 236766310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_73
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b07549ef9cb54486c330d729c068d
+      internalID: -2079277509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_74
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec9519f1fb59545b7dff8749dbbe0f
+      internalID: -1453225841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_75
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5c348e60fa754fb9ec86bba270c8a
+      internalID: 1384838450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_76
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2d37610b46b14287766357fe7e1b2
+      internalID: 520117635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_77
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78daa69220230134889772044b633eb0
+      internalID: 1315471133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_78
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47489668ccd38d44aaab44cfd5c5e1ab
+      internalID: -690749081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_79
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d40c449f97bab245b4144e5a3a02205
+      internalID: -1642051421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_80
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e4b91d4937584ab180f907566add5
+      internalID: -53736772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_81
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f15b7072936e4daebd297836e0abd
+      internalID: 229329525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_82
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd3c42194208f40abb4229d6bd1f2b
+      internalID: -1589252363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_83
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0aad60864b57c4e80f6a738bb3ab58
+      internalID: 1667217978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1126b001a9c854586c054be3059bd0
+      internalID: 1757866985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55651108366411e428a3aa91d02f8543
+      internalID: -1211567643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5adef2d5f6421845b9868d74b6c1779
+      internalID: -1479455932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7017f528060024c850f8a3f2560ca0
+      internalID: -1499932643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee199ef2a41b04384147543b4fbb3f
+      internalID: -1434176044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_89
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b8464b51081d4aa891bb5e05704f1
+      internalID: 1941359327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_90
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866e3796b3940546a6a7edad4a6c6ae
+      internalID: -313074770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_91
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997a787d09e5514e83d87003bd1c49b
+      internalID: 1921872012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0cc0812220d2f4cb7c282f6cd81783
+      internalID: 1424777566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_93
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00623b083b4d248bd9807f2b1603ad
+      internalID: 231539283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_94
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d211ca31fa04eb1499c25deebe4a6bad
+      internalID: 397220640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_95
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1022dc2fd8de43458e26246dd1d841f
+      internalID: 76870812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_96
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4e76e9447ac4b4f9ba707bcb4b1e35
+      internalID: 1345762829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_97
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac91d280eeb7c43b4a2273225b4700
+      internalID: -1000121032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_98
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1275b9eae1f5b5c419b063511e3ba547
+      internalID: -1919497937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_99
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027146653ffe29946b10b49a6ce843c8
+      internalID: 1217597771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_100
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebbf5f1015ea1349bb9739f26b2185a
+      internalID: -1292121163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_101
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13f4211843f7c4a9dcb557aaba0d0d
+      internalID: -1660425081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_102
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928308ff6285bff47a34f3192699b5fa
+      internalID: -1537183726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_103
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eef94ab62055c46b3f7ab01777b19f
+      internalID: 79972233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_104
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e514258df5c414c85a99eaefbfe029
+      internalID: 8847694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc15344a3d4bd4a8a6c88fb1671c8a
+      internalID: 1105775893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6166b656f676f334eb126964908caa18
+      internalID: 1856217646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bb45a77157324f9eb5777b6dfbe73
+      internalID: 775461578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_108
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af7c7f9e4874544aa9fa0f345ba8e1
+      internalID: 1448634351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491ac14d460fda42bf740ef1a446ef8
+      internalID: -711477105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73574dad2f29ac041a709f5724d6d0db
+      internalID: 1571383094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_111
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687de0bc10b78b4cbf5a184d575172b
+      internalID: -73856876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_112
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4e677ee46e75498363b984a7f4d40
+      internalID: -1059563557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b52fc438969d40b2f36a190d8c12f
+      internalID: 1462537048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_114
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc291f7ec4cf6f41b1977d1f4d30c31
+      internalID: 72207489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d73b0a329d5374f93cec47c29bb865
+      internalID: 173894417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_116
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0f423e942894478a08c7d859cfcff
+      internalID: 146907907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8311fbdb7bcb03844846d2ccaa86167d
+      internalID: 1592850769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_118
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1298e701098efa4a96e64204400b7ef
+      internalID: 1720144649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_119
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ad74956fec0042b56b16e127f2476
+      internalID: -1081055436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_120
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a84f725899065740ad3068066cb1709
+      internalID: 986367008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_121
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3cc79fcc94af47b2f30fe5b7523e9
+      internalID: 1218076847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_122
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafba33a103751449f750a305712f24
+      internalID: -155020626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_123
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f0d8819b6d6a448b7cdb343be08012
+      internalID: -1127792448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_124
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb3aa410dc675469af08457f209613
+      internalID: -1565870105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_125
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27238ec1deac14438e368772706c2f6
+      internalID: -922661322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7fd2cf07494f45adfdd81fe259d98
+      internalID: -1723259443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1e7fa00c41554ab4e47230feb98e5
+      internalID: 872999278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_128
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796fd2f1b6bf144da08f415a8079d46
+      internalID: -1921364260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d68289b94bac4b8bdf78292afbf60
+      internalID: 1747096584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7abea237daa0c4289ac38ce767fc56
+      internalID: 99629471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_131
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af64e736c3948ab429c336b4c72f4bf5
+      internalID: 928298024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_132
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa229599b580e644a48f5dfd770b862
+      internalID: -1041517669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_133
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf713ef4f12a144aa39caeab06cde75
+      internalID: 1400654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_134
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a1016114ca68844b003f83285c736a
+      internalID: -221188644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_135
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a38189fade9d4391ec8e7e1eefb95
+      internalID: 1369381382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_136
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2eeb6fcc37e5249a5a7ecc3205fab0
+      internalID: -335217694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_137
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b254079c536645878b9875bad04a8
+      internalID: -910645852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_138
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93827d25eedc19c4ea94911f5c655afb
+      internalID: -1110810904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_139
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083cf390e3cca4441ae32a355866417b
+      internalID: -72501922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_140
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639f15736b1e9664980c0445330d898b
+      internalID: -578164258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_141
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081320b945516c4a814612734d7602b
+      internalID: 1884998179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc04ab5a0420e41955d14f76581298
+      internalID: -462571968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_143
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1308f85845c2b4783f9fd1e828db1e
+      internalID: 521482480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_144
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5edd409ab9e09340be4b9897cd3dcb2
+      internalID: 150549259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_145
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09b15dd28fddf478ab234ce1778f60
+      internalID: -1450490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_146
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad21dc436d2294597b8981666e93f9
+      internalID: 1936291569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236315ee19bf6454eb03c5162c97e96b
+      internalID: -625732945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfbed24fabbeb4583e1d0960d2706d
+      internalID: 884379441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52558557c735c645890005c211cc5a2
+      internalID: -1316365931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_150
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcdcdcd372bc5e4ba85c123dafc4615
+      internalID: 128876827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_151
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e093791ba4fe42aea025015c5f5f9
+      internalID: -1758398524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_152
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163b6fb580ec3f49b361725a0441323
+      internalID: 161554340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_153
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5badbb78b4f4f7843af9fda64be52504
+      internalID: -198686743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_154
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1bbd9c197ee048aee2def6f174bf9
+      internalID: 393513097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_155
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b4c58033c17d4f821a6d8071f3a52
+      internalID: -1881249931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_156
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adfa51a18efc624eb803c3f6579729a
+      internalID: -2058144337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_157
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36d4b0076970b4fbdf3241d3395c2c
+      internalID: 205971888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_158
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c431e67f963b36542ab86c0140094822
+      internalID: -1001263757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_159
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6659f646fefc4fa0a64757d1d1e0b
+      internalID: 1178977673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_160
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f7e79541e86544b43efeba836ef1d
+      internalID: -1697658202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_161
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed2688d3fe0da46b6c92dd8dcaf84e
+      internalID: 1930774282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_162
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f9ad0872e2d0448deb647eb1ad3b2
+      internalID: 11586625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_163
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2152c0843cbd3479e6e6785a0ce07d
+      internalID: 1211946235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_164
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08c89907ad13f47af9625255885d2d
+      internalID: -1453531358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_165
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855993027c6cfdc4fb946f4c124bd1c9
+      internalID: -1019553987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_166
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83657cb22e397f4b9ba91ff62de99bf
+      internalID: 544692952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_167
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cf2bf28d2233468e530c179f24e08
+      internalID: -1835758471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add9e6a571b046f4abb64b4b83a1fd63
+      internalID: -163225465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_169
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fb0d0a585aa0488741076c8badd4a
+      internalID: 1579447499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_170
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20a4db8334850f4dab0371f5e8a504b
+      internalID: 1925657209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_171
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d8470896463e41a0b0a3a0e4df312
+      internalID: 620431557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_172
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462e1e032581df44a070d00de5f76ee
+      internalID: 1147017889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_173
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ef68a404237a47bba64868d817deb
+      internalID: -1931719021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_174
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adc316356feee4d9c98a613ff37e6f
+      internalID: 1819639553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_175
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b8fc27b61ffe4a9587404f2192c5a
+      internalID: -293338698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_176
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4635d08c1780d46981d46607f86169
+      internalID: -1442689006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_177
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0273677111dba459bdffe505591964
+      internalID: 1330643750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_178
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa58ec721e44b246890d579700d1d36
+      internalID: -1379596390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_179
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d689117c561a428996f12eb4d66aa
+      internalID: 2087792580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_180
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86cb6cb9acebba42badd12fbe738497
+      internalID: 425135814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_181
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da05ae42df05dc45ab3581aa73cce6c
+      internalID: -832624364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_182
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb731ede6e61f4f86bc59cc2296119
+      internalID: -1841434358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_183
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75685a51f292046b460a3fd05329b6
+      internalID: 1902061763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_184
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac97cc6f7e169ac43a74977ba4b89b2b
+      internalID: -583967728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_185
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329ec5cd34531d4bb28b113450cc152
+      internalID: -1800035331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_186
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73666fc280ceb654681fac39948cbbbe
+      internalID: 1470340388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_187
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6524391cf85c3409d45eef012bb974
+      internalID: 2011133616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_188
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e0950372509d45bd29b0466bcad03
+      internalID: -1960795074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4211de82f90244a46dcb0a3ebb59b
+      internalID: -970780771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_190
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a680db39cf3bf944391381120c432c0b
+      internalID: -1215850287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_191
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f2273e5422c8428f87fe184a45826
+      internalID: -1022359175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_192
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40afd9b5ce3484fa154358953d70b4
+      internalID: 118979367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_193
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a997918a0ab7428b64be8a0ae4da3
+      internalID: 2043573614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_194
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d72db0737c104696f5eaf0facdc2a
+      internalID: -2036297640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_195
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09015d35c82d5e241892ab1ed54dba0b
+      internalID: -2118372588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_196
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0057a9d4e7a065448d9601f6429c6a7
+      internalID: 88626064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_197
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54515a4ae0082a74f8d7f67fe28f43ca
+      internalID: 583219826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_198
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed06e4fff9a121242b037b2849ce1417
+      internalID: 2108206047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_199
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ee08d9d23ed642948ad72c61288b5
+      internalID: 16646048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_200
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f351ddd6fc51449f1d569d00705c0
+      internalID: -260116037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_201
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64bdf770f88ec47a9a310b26706e05
+      internalID: -66013436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_202
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f356e78579384ba8e1633c76de0f7
+      internalID: 303181070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_203
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09509c8e15b7114f835605218d18b6d
+      internalID: -1385462337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_204
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d97602ef2b83a41af77b1cb00d7eba
+      internalID: 609033741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_205
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9997bef33e08164d9c2dc6eb6c2f238
+      internalID: 1508651223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_206
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390624d4841068440a49356ac41e8bbe
+      internalID: 1715560635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_207
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0187ce6c78601f45aae62732be58a38
+      internalID: -851617800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_208
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9316806cff0e4bbe6992f7dbdb6a8
+      internalID: -1536065963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_209
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9b632d0af767488f23d7a2702f0c7
+      internalID: 1056821071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d8b4f88d3ffd4690a57c2be690284
+      internalID: 1347450948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_211
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732150503f48ac4cbb747e9ecef6a98
+      internalID: -1353299532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_212
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3a0192daf0a4498e794d7c722fa41
+      internalID: 743542853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_213
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59aece2288971d419c5d0728dda1a55
+      internalID: 1017817923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_214
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55a8fbe8d74d9409582fbba763f841
+      internalID: 119031327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_215
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b36d40ed2bcc9439effcebe37cdeab
+      internalID: 924206040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_216
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9df0d805fefa4a89c75523b6ed0c4
+      internalID: -1202398430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_217
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf2c427cb07ef42bef53a08b121aa6
+      internalID: -1889502003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_218
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4c9af0c32ffd459bfe1cce270e4ac
+      internalID: -32145875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_219
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e1521d6da93f0439c39d4a110b8abc
+      internalID: -1755788780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_220
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa665771f769324daffd5a0bbe42003
+      internalID: 1683900514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_221
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989cde1b81f17d241804fce4c1423d30
+      internalID: 1574996468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_222
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a58641d70acf848b34518c4af7c6ba
+      internalID: 346112895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_223
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68745c10fe870e74d9e9858e3611f2c8
+      internalID: -1628330349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_224
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99968e8a21c4040a98cb865d4e58bf
+      internalID: -960672089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_225
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba10b8f6ed5e04b905f374b680bd66
+      internalID: -166936998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_226
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4470514ee415641a4169922e5fd9b7
+      internalID: -1763639511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_227
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a67111bfbdb04c84d0a399b76c825
+      internalID: 983239376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_228
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c852ee65f69dd468558306392aedd3
+      internalID: -1147140372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_229
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4982d3b35778a242bd422c47b886f12
+      internalID: -933753452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_230
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ddb70f963edc43b44aa6314589c5c
+      internalID: 190881869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51cd73c0a400a0448286d457e277cb2
+      internalID: -821352022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_232
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e361743761107459561e1d83f030ad
+      internalID: -1453482087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_233
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b3e46483f9a54ab882b85e50a4d35
+      internalID: -1766730943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_234
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beee68f13713e04f8aaac3cba5552bb
+      internalID: 835154408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_235
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7d58f0ae958f41b96080dd6111347
+      internalID: 99762139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_236
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7ac4b131b40f47b574ff5b9883ff4
+      internalID: -284881476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_237
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff820615484694db6244fafacadfa6
+      internalID: 33772744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_238
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a1614b921b664a803719501f8c7c6
+      internalID: -457223785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern Fish_239
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5560c6cd1e8349b8882c569736941
+      internalID: -1387019063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8af18abe5bb566c42926d1ebf93126cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lantern Fish_0: 1562260316
+      Lantern Fish_1: -310851416
+      Lantern Fish_10: 789584196
+      Lantern Fish_100: -1292121163
+      Lantern Fish_101: -1660425081
+      Lantern Fish_102: -1537183726
+      Lantern Fish_103: 79972233
+      Lantern Fish_104: 8847694
+      Lantern Fish_105: 1105775893
+      Lantern Fish_106: 1856217646
+      Lantern Fish_107: 775461578
+      Lantern Fish_108: 1448634351
+      Lantern Fish_109: -711477105
+      Lantern Fish_11: -1058013500
+      Lantern Fish_110: 1571383094
+      Lantern Fish_111: -73856876
+      Lantern Fish_112: -1059563557
+      Lantern Fish_113: 1462537048
+      Lantern Fish_114: 72207489
+      Lantern Fish_115: 173894417
+      Lantern Fish_116: 146907907
+      Lantern Fish_117: 1592850769
+      Lantern Fish_118: 1720144649
+      Lantern Fish_119: -1081055436
+      Lantern Fish_12: -578522305
+      Lantern Fish_120: 986367008
+      Lantern Fish_121: 1218076847
+      Lantern Fish_122: -155020626
+      Lantern Fish_123: -1127792448
+      Lantern Fish_124: -1565870105
+      Lantern Fish_125: -922661322
+      Lantern Fish_126: -1723259443
+      Lantern Fish_127: 872999278
+      Lantern Fish_128: -1921364260
+      Lantern Fish_129: 1747096584
+      Lantern Fish_13: 2110853721
+      Lantern Fish_130: 99629471
+      Lantern Fish_131: 928298024
+      Lantern Fish_132: -1041517669
+      Lantern Fish_133: 1400654116
+      Lantern Fish_134: -221188644
+      Lantern Fish_135: 1369381382
+      Lantern Fish_136: -335217694
+      Lantern Fish_137: -910645852
+      Lantern Fish_138: -1110810904
+      Lantern Fish_139: -72501922
+      Lantern Fish_14: 1444580446
+      Lantern Fish_140: -578164258
+      Lantern Fish_141: 1884998179
+      Lantern Fish_142: -462571968
+      Lantern Fish_143: 521482480
+      Lantern Fish_144: 150549259
+      Lantern Fish_145: -1450490598
+      Lantern Fish_146: 1936291569
+      Lantern Fish_147: -625732945
+      Lantern Fish_148: 884379441
+      Lantern Fish_149: -1316365931
+      Lantern Fish_15: 221879457
+      Lantern Fish_150: 128876827
+      Lantern Fish_151: -1758398524
+      Lantern Fish_152: 161554340
+      Lantern Fish_153: -198686743
+      Lantern Fish_154: 393513097
+      Lantern Fish_155: -1881249931
+      Lantern Fish_156: -2058144337
+      Lantern Fish_157: 205971888
+      Lantern Fish_158: -1001263757
+      Lantern Fish_159: 1178977673
+      Lantern Fish_16: -1971894800
+      Lantern Fish_160: -1697658202
+      Lantern Fish_161: 1930774282
+      Lantern Fish_162: 11586625
+      Lantern Fish_163: 1211946235
+      Lantern Fish_164: -1453531358
+      Lantern Fish_165: -1019553987
+      Lantern Fish_166: 544692952
+      Lantern Fish_167: -1835758471
+      Lantern Fish_168: -163225465
+      Lantern Fish_169: 1579447499
+      Lantern Fish_17: -76712866
+      Lantern Fish_170: 1925657209
+      Lantern Fish_171: 620431557
+      Lantern Fish_172: 1147017889
+      Lantern Fish_173: -1931719021
+      Lantern Fish_174: 1819639553
+      Lantern Fish_175: -293338698
+      Lantern Fish_176: -1442689006
+      Lantern Fish_177: 1330643750
+      Lantern Fish_178: -1379596390
+      Lantern Fish_179: 2087792580
+      Lantern Fish_18: 1940640826
+      Lantern Fish_180: 425135814
+      Lantern Fish_181: -832624364
+      Lantern Fish_182: -1841434358
+      Lantern Fish_183: 1902061763
+      Lantern Fish_184: -583967728
+      Lantern Fish_185: -1800035331
+      Lantern Fish_186: 1470340388
+      Lantern Fish_187: 2011133616
+      Lantern Fish_188: -1960795074
+      Lantern Fish_189: -970780771
+      Lantern Fish_19: 1882097984
+      Lantern Fish_190: -1215850287
+      Lantern Fish_191: -1022359175
+      Lantern Fish_192: 118979367
+      Lantern Fish_193: 2043573614
+      Lantern Fish_194: -2036297640
+      Lantern Fish_195: -2118372588
+      Lantern Fish_196: 88626064
+      Lantern Fish_197: 583219826
+      Lantern Fish_198: 2108206047
+      Lantern Fish_199: 16646048
+      Lantern Fish_2: 986432950
+      Lantern Fish_20: -241838838
+      Lantern Fish_200: -260116037
+      Lantern Fish_201: -66013436
+      Lantern Fish_202: 303181070
+      Lantern Fish_203: -1385462337
+      Lantern Fish_204: 609033741
+      Lantern Fish_205: 1508651223
+      Lantern Fish_206: 1715560635
+      Lantern Fish_207: -851617800
+      Lantern Fish_208: -1536065963
+      Lantern Fish_209: 1056821071
+      Lantern Fish_21: 637639510
+      Lantern Fish_210: 1347450948
+      Lantern Fish_211: -1353299532
+      Lantern Fish_212: 743542853
+      Lantern Fish_213: 1017817923
+      Lantern Fish_214: 119031327
+      Lantern Fish_215: 924206040
+      Lantern Fish_216: -1202398430
+      Lantern Fish_217: -1889502003
+      Lantern Fish_218: -32145875
+      Lantern Fish_219: -1755788780
+      Lantern Fish_22: -94703275
+      Lantern Fish_220: 1683900514
+      Lantern Fish_221: 1574996468
+      Lantern Fish_222: 346112895
+      Lantern Fish_223: -1628330349
+      Lantern Fish_224: -960672089
+      Lantern Fish_225: -166936998
+      Lantern Fish_226: -1763639511
+      Lantern Fish_227: 983239376
+      Lantern Fish_228: -1147140372
+      Lantern Fish_229: -933753452
+      Lantern Fish_23: -1724746362
+      Lantern Fish_230: 190881869
+      Lantern Fish_231: -821352022
+      Lantern Fish_232: -1453482087
+      Lantern Fish_233: -1766730943
+      Lantern Fish_234: 835154408
+      Lantern Fish_235: 99762139
+      Lantern Fish_236: -284881476
+      Lantern Fish_237: 33772744
+      Lantern Fish_238: -457223785
+      Lantern Fish_239: -1387019063
+      Lantern Fish_24: 424679794
+      Lantern Fish_25: -1429245966
+      Lantern Fish_26: 1862187414
+      Lantern Fish_27: 1680414662
+      Lantern Fish_28: -1198044065
+      Lantern Fish_29: 624260788
+      Lantern Fish_3: 2013355500
+      Lantern Fish_30: -155410876
+      Lantern Fish_31: 1846387696
+      Lantern Fish_32: 314918614
+      Lantern Fish_33: -485785070
+      Lantern Fish_34: -380952981
+      Lantern Fish_35: 651973560
+      Lantern Fish_36: 1439989839
+      Lantern Fish_37: 161815644
+      Lantern Fish_38: 1108927850
+      Lantern Fish_39: 1207803204
+      Lantern Fish_4: -262230520
+      Lantern Fish_40: 423542638
+      Lantern Fish_41: 1537551807
+      Lantern Fish_42: 1645962438
+      Lantern Fish_43: 1492313245
+      Lantern Fish_44: 818537119
+      Lantern Fish_45: 970744316
+      Lantern Fish_46: 972063458
+      Lantern Fish_47: -1069620648
+      Lantern Fish_48: 994089635
+      Lantern Fish_49: 1459231383
+      Lantern Fish_5: -129439370
+      Lantern Fish_50: -397384522
+      Lantern Fish_51: -1172553314
+      Lantern Fish_52: -1707030606
+      Lantern Fish_53: -1709838753
+      Lantern Fish_54: 2005195295
+      Lantern Fish_55: -1797198486
+      Lantern Fish_56: 1195281950
+      Lantern Fish_57: -514641637
+      Lantern Fish_58: -328658760
+      Lantern Fish_59: 52213707
+      Lantern Fish_6: -922845604
+      Lantern Fish_60: -1466288806
+      Lantern Fish_61: 225895443
+      Lantern Fish_62: -1793411991
+      Lantern Fish_63: -694460891
+      Lantern Fish_64: 1171803145
+      Lantern Fish_65: 100562469
+      Lantern Fish_66: 796832510
+      Lantern Fish_67: 996978756
+      Lantern Fish_68: -793493764
+      Lantern Fish_69: -1958622321
+      Lantern Fish_7: 625086552
+      Lantern Fish_70: -818663831
+      Lantern Fish_71: -546353619
+      Lantern Fish_72: 236766310
+      Lantern Fish_73: -2079277509
+      Lantern Fish_74: -1453225841
+      Lantern Fish_75: 1384838450
+      Lantern Fish_76: 520117635
+      Lantern Fish_77: 1315471133
+      Lantern Fish_78: -690749081
+      Lantern Fish_79: -1642051421
+      Lantern Fish_8: 551079062
+      Lantern Fish_80: -53736772
+      Lantern Fish_81: 229329525
+      Lantern Fish_82: -1589252363
+      Lantern Fish_83: 1667217978
+      Lantern Fish_84: 1757866985
+      Lantern Fish_85: -1211567643
+      Lantern Fish_86: -1479455932
+      Lantern Fish_87: -1499932643
+      Lantern Fish_88: -1434176044
+      Lantern Fish_89: 1941359327
+      Lantern Fish_9: -1373597207
+      Lantern Fish_90: -313074770
+      Lantern Fish_91: 1921872012
+      Lantern Fish_92: 1424777566
+      Lantern Fish_93: 231539283
+      Lantern Fish_94: 397220640
+      Lantern Fish_95: 76870812
+      Lantern Fish_96: 1345762829
+      Lantern Fish_97: -1000121032
+      Lantern Fish_98: -1919497937
+      Lantern Fish_99: 1217597771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

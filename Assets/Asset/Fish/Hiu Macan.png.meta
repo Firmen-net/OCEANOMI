@@ -1,0 +1,6403 @@
+fileFormatVersion: 2
+guid: 82b8a01243705dd47803152a234b70f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -167795142553373952
+    second: Hiu Macan_0
+  - first:
+      213: 4993978639112493002
+    second: Hiu Macan_1
+  - first:
+      213: 720195495998638167
+    second: Hiu Macan_2
+  - first:
+      213: 7131383339704318664
+    second: Hiu Macan_3
+  - first:
+      213: 3791299908415097204
+    second: Hiu Macan_4
+  - first:
+      213: 915950488690790744
+    second: Hiu Macan_5
+  - first:
+      213: 5143596814760466486
+    second: Hiu Macan_6
+  - first:
+      213: 4318195671594967816
+    second: Hiu Macan_7
+  - first:
+      213: -9078480466929476769
+    second: Hiu Macan_8
+  - first:
+      213: -4926392333369377781
+    second: Hiu Macan_9
+  - first:
+      213: 4903250015883856364
+    second: Hiu Macan_10
+  - first:
+      213: 7113661272200008368
+    second: Hiu Macan_11
+  - first:
+      213: -7114351949556236037
+    second: Hiu Macan_12
+  - first:
+      213: -6466743029724944080
+    second: Hiu Macan_13
+  - first:
+      213: -7434979128171695860
+    second: Hiu Macan_14
+  - first:
+      213: 6331502017414293134
+    second: Hiu Macan_15
+  - first:
+      213: -4595514540382741199
+    second: Hiu Macan_16
+  - first:
+      213: -3490795213548162833
+    second: Hiu Macan_17
+  - first:
+      213: 547259363463386088
+    second: Hiu Macan_18
+  - first:
+      213: -7940755447150296717
+    second: Hiu Macan_19
+  - first:
+      213: 680351702572814750
+    second: Hiu Macan_20
+  - first:
+      213: 4122819195748002577
+    second: Hiu Macan_21
+  - first:
+      213: -2476212275199125961
+    second: Hiu Macan_22
+  - first:
+      213: 5619345925563226765
+    second: Hiu Macan_23
+  - first:
+      213: -2188031294665224576
+    second: Hiu Macan_24
+  - first:
+      213: 8752474763536147319
+    second: Hiu Macan_25
+  - first:
+      213: -7740086750910459862
+    second: Hiu Macan_26
+  - first:
+      213: 1125201002496915187
+    second: Hiu Macan_27
+  - first:
+      213: 6783210112208373733
+    second: Hiu Macan_28
+  - first:
+      213: 9183830895757118673
+    second: Hiu Macan_29
+  - first:
+      213: 1681221551723577687
+    second: Hiu Macan_30
+  - first:
+      213: 7860327035151788913
+    second: Hiu Macan_31
+  - first:
+      213: -1906654254740972699
+    second: Hiu Macan_32
+  - first:
+      213: 2886678064593441112
+    second: Hiu Macan_33
+  - first:
+      213: 3946837232550880521
+    second: Hiu Macan_34
+  - first:
+      213: -6619605569891750282
+    second: Hiu Macan_35
+  - first:
+      213: -7828938267657801315
+    second: Hiu Macan_36
+  - first:
+      213: -567647557131932219
+    second: Hiu Macan_37
+  - first:
+      213: -6148183553380670751
+    second: Hiu Macan_38
+  - first:
+      213: -4385767408491736645
+    second: Hiu Macan_39
+  - first:
+      213: 3097393154187454293
+    second: Hiu Macan_40
+  - first:
+      213: 2365908906554331025
+    second: Hiu Macan_41
+  - first:
+      213: -4994989950616845178
+    second: Hiu Macan_42
+  - first:
+      213: -3927349941934918425
+    second: Hiu Macan_43
+  - first:
+      213: 1200201675070285136
+    second: Hiu Macan_44
+  - first:
+      213: 6987343391825477603
+    second: Hiu Macan_45
+  - first:
+      213: 2617277662266381527
+    second: Hiu Macan_46
+  - first:
+      213: 5361643428862104994
+    second: Hiu Macan_47
+  - first:
+      213: 2664409462375761972
+    second: Hiu Macan_48
+  - first:
+      213: -4398838127114484070
+    second: Hiu Macan_49
+  - first:
+      213: 1022543366413926136
+    second: Hiu Macan_50
+  - first:
+      213: -5338201743057986084
+    second: Hiu Macan_51
+  - first:
+      213: 5495612831812177590
+    second: Hiu Macan_52
+  - first:
+      213: 5291311802918297284
+    second: Hiu Macan_53
+  - first:
+      213: -8549223147599320310
+    second: Hiu Macan_54
+  - first:
+      213: -7202402309539565511
+    second: Hiu Macan_55
+  - first:
+      213: 8178357015636312590
+    second: Hiu Macan_56
+  - first:
+      213: 7524717992645612593
+    second: Hiu Macan_57
+  - first:
+      213: 8511489535018399886
+    second: Hiu Macan_58
+  - first:
+      213: -8635928609270218588
+    second: Hiu Macan_59
+  - first:
+      213: -3028073075714751411
+    second: Hiu Macan_60
+  - first:
+      213: 949097466854480127
+    second: Hiu Macan_61
+  - first:
+      213: -3949473040048348172
+    second: Hiu Macan_62
+  - first:
+      213: 304894338913199
+    second: Hiu Macan_63
+  - first:
+      213: 1063215427297871939
+    second: Hiu Macan_64
+  - first:
+      213: 7755097560676032821
+    second: Hiu Macan_65
+  - first:
+      213: 4997897268630492766
+    second: Hiu Macan_66
+  - first:
+      213: -687722017141483474
+    second: Hiu Macan_67
+  - first:
+      213: 3439196499889000003
+    second: Hiu Macan_68
+  - first:
+      213: 2504305664289140349
+    second: Hiu Macan_69
+  - first:
+      213: 3033589506514958802
+    second: Hiu Macan_70
+  - first:
+      213: 6873187690971601236
+    second: Hiu Macan_71
+  - first:
+      213: 2467843869107183405
+    second: Hiu Macan_72
+  - first:
+      213: -8493502145942441482
+    second: Hiu Macan_73
+  - first:
+      213: 1061889087729852555
+    second: Hiu Macan_74
+  - first:
+      213: 4540160163006759344
+    second: Hiu Macan_75
+  - first:
+      213: 6013070824105219927
+    second: Hiu Macan_76
+  - first:
+      213: -1327918311437579769
+    second: Hiu Macan_77
+  - first:
+      213: 8700389548278232943
+    second: Hiu Macan_78
+  - first:
+      213: 6904558272719367575
+    second: Hiu Macan_79
+  - first:
+      213: 3744179127476673553
+    second: Hiu Macan_80
+  - first:
+      213: 8894308756074233445
+    second: Hiu Macan_81
+  - first:
+      213: 3120116613916603449
+    second: Hiu Macan_82
+  - first:
+      213: -7462247051860071255
+    second: Hiu Macan_83
+  - first:
+      213: 3533232865225408570
+    second: Hiu Macan_84
+  - first:
+      213: 630629692870410693
+    second: Hiu Macan_85
+  - first:
+      213: -6364315346832498416
+    second: Hiu Macan_86
+  - first:
+      213: -8248310317862714
+    second: Hiu Macan_87
+  - first:
+      213: -3539190571202826421
+    second: Hiu Macan_88
+  - first:
+      213: 5655916110615658624
+    second: Hiu Macan_89
+  - first:
+      213: -3797824270138377206
+    second: Hiu Macan_90
+  - first:
+      213: 8560408406553881177
+    second: Hiu Macan_91
+  - first:
+      213: -4536847558445377173
+    second: Hiu Macan_92
+  - first:
+      213: -4602765512904407393
+    second: Hiu Macan_93
+  - first:
+      213: -8824617823495107076
+    second: Hiu Macan_94
+  - first:
+      213: 2584639520249572832
+    second: Hiu Macan_95
+  - first:
+      213: 527352846335274813
+    second: Hiu Macan_96
+  - first:
+      213: -6247434439949082092
+    second: Hiu Macan_97
+  - first:
+      213: 260883213466807968
+    second: Hiu Macan_98
+  - first:
+      213: 7176673955964438922
+    second: Hiu Macan_99
+  - first:
+      213: 6674673229412816534
+    second: Hiu Macan_100
+  - first:
+      213: -8544120620925757085
+    second: Hiu Macan_101
+  - first:
+      213: -3628711738021259149
+    second: Hiu Macan_102
+  - first:
+      213: 2535140418506130199
+    second: Hiu Macan_103
+  - first:
+      213: -5751745991895455231
+    second: Hiu Macan_104
+  - first:
+      213: -4353651617324337630
+    second: Hiu Macan_105
+  - first:
+      213: -5491373443766737145
+    second: Hiu Macan_106
+  - first:
+      213: 5991823692012049910
+    second: Hiu Macan_107
+  - first:
+      213: 5374902817100277825
+    second: Hiu Macan_108
+  - first:
+      213: 1179510165353009430
+    second: Hiu Macan_109
+  - first:
+      213: 7730659353427879474
+    second: Hiu Macan_110
+  - first:
+      213: 2587712297486793196
+    second: Hiu Macan_111
+  - first:
+      213: 510406563677453981
+    second: Hiu Macan_112
+  - first:
+      213: 7311520957390044298
+    second: Hiu Macan_113
+  - first:
+      213: 3384274411138970418
+    second: Hiu Macan_114
+  - first:
+      213: -2496643063350646604
+    second: Hiu Macan_115
+  - first:
+      213: -8030600674351052710
+    second: Hiu Macan_116
+  - first:
+      213: -5542274684863542093
+    second: Hiu Macan_117
+  - first:
+      213: -2644685946002606177
+    second: Hiu Macan_118
+  - first:
+      213: 54937043412619213
+    second: Hiu Macan_119
+  - first:
+      213: 8436086370742151586
+    second: Hiu Macan_120
+  - first:
+      213: 3700282012843265012
+    second: Hiu Macan_121
+  - first:
+      213: 4180263386727432543
+    second: Hiu Macan_122
+  - first:
+      213: -5123360072308914996
+    second: Hiu Macan_123
+  - first:
+      213: -8005313028804218126
+    second: Hiu Macan_124
+  - first:
+      213: 5868862055811059727
+    second: Hiu Macan_125
+  - first:
+      213: 587875406235537761
+    second: Hiu Macan_126
+  - first:
+      213: -470601257027650528
+    second: Hiu Macan_127
+  - first:
+      213: 7402539323274802065
+    second: Hiu Macan_128
+  - first:
+      213: -5318873161157714478
+    second: Hiu Macan_129
+  - first:
+      213: 1929770015594963854
+    second: Hiu Macan_130
+  - first:
+      213: 9215058237092172927
+    second: Hiu Macan_131
+  - first:
+      213: -7739710328933863570
+    second: Hiu Macan_132
+  - first:
+      213: 2593345724685112638
+    second: Hiu Macan_133
+  - first:
+      213: 196594259603545930
+    second: Hiu Macan_134
+  - first:
+      213: 8914405195178236894
+    second: Hiu Macan_135
+  - first:
+      213: -7910689474359825123
+    second: Hiu Macan_136
+  - first:
+      213: 2853053462721397631
+    second: Hiu Macan_137
+  - first:
+      213: 2604139328570853974
+    second: Hiu Macan_138
+  - first:
+      213: -5077925977641185312
+    second: Hiu Macan_139
+  - first:
+      213: 5829976172239970624
+    second: Hiu Macan_140
+  - first:
+      213: -470785304196454163
+    second: Hiu Macan_141
+  - first:
+      213: -8781858126981751449
+    second: Hiu Macan_142
+  - first:
+      213: 4592651076524831784
+    second: Hiu Macan_143
+  - first:
+      213: 8931703599753435264
+    second: Hiu Macan_144
+  - first:
+      213: 4429096681024306002
+    second: Hiu Macan_145
+  - first:
+      213: -6945445499633579295
+    second: Hiu Macan_146
+  - first:
+      213: 6076678898264045123
+    second: Hiu Macan_147
+  - first:
+      213: -4018552094754985615
+    second: Hiu Macan_148
+  - first:
+      213: -4848255629085969995
+    second: Hiu Macan_149
+  - first:
+      213: -7424430842110428696
+    second: Hiu Macan_150
+  - first:
+      213: 8496969603326677972
+    second: Hiu Macan_151
+  - first:
+      213: -7313360343615757294
+    second: Hiu Macan_152
+  - first:
+      213: 6844647412817744649
+    second: Hiu Macan_153
+  - first:
+      213: -526587311731500198
+    second: Hiu Macan_154
+  - first:
+      213: -780862050525484609
+    second: Hiu Macan_155
+  - first:
+      213: -9207670945468354148
+    second: Hiu Macan_156
+  - first:
+      213: -5834711787096327493
+    second: Hiu Macan_157
+  - first:
+      213: 8660313035670970800
+    second: Hiu Macan_158
+  - first:
+      213: 2313029483054803005
+    second: Hiu Macan_159
+  - first:
+      213: -4133032204914616754
+    second: Hiu Macan_160
+  - first:
+      213: -8486626498960142042
+    second: Hiu Macan_161
+  - first:
+      213: -8636764788775838268
+    second: Hiu Macan_162
+  - first:
+      213: -1879447909195192509
+    second: Hiu Macan_163
+  - first:
+      213: -3474097986738865547
+    second: Hiu Macan_164
+  - first:
+      213: 1902983617072172653
+    second: Hiu Macan_165
+  - first:
+      213: 6350679016845629866
+    second: Hiu Macan_166
+  - first:
+      213: 2433704369273576595
+    second: Hiu Macan_167
+  - first:
+      213: 2803641002796455224
+    second: Hiu Macan_168
+  - first:
+      213: -5976714658625211150
+    second: Hiu Macan_169
+  - first:
+      213: 3131600213062388980
+    second: Hiu Macan_170
+  - first:
+      213: -5195193157294768492
+    second: Hiu Macan_171
+  - first:
+      213: -5975875954039048053
+    second: Hiu Macan_172
+  - first:
+      213: 6979341192723324171
+    second: Hiu Macan_173
+  - first:
+      213: 633325489590262901
+    second: Hiu Macan_174
+  - first:
+      213: -6697678296186933028
+    second: Hiu Macan_175
+  - first:
+      213: -5429174290151049850
+    second: Hiu Macan_176
+  - first:
+      213: -1744742456055961605
+    second: Hiu Macan_177
+  - first:
+      213: -6236053531463677505
+    second: Hiu Macan_178
+  - first:
+      213: 3634879592763637242
+    second: Hiu Macan_179
+  - first:
+      213: 8709239793072816795
+    second: Hiu Macan_180
+  - first:
+      213: -1237620034076827483
+    second: Hiu Macan_181
+  - first:
+      213: 5599820087346538320
+    second: Hiu Macan_182
+  - first:
+      213: 498612462607863225
+    second: Hiu Macan_183
+  - first:
+      213: -7135248530157881381
+    second: Hiu Macan_184
+  - first:
+      213: -4677651776702513769
+    second: Hiu Macan_185
+  - first:
+      213: 1199205533980605849
+    second: Hiu Macan_186
+  - first:
+      213: -189958096920046970
+    second: Hiu Macan_187
+  - first:
+      213: 4715201030388456566
+    second: Hiu Macan_188
+  - first:
+      213: -1540680426862082992
+    second: Hiu Macan_189
+  - first:
+      213: -3284037898435576110
+    second: Hiu Macan_190
+  - first:
+      213: 3529746699003754386
+    second: Hiu Macan_191
+  - first:
+      213: 8445226008958803697
+    second: Hiu Macan_192
+  - first:
+      213: 7581597552546947464
+    second: Hiu Macan_193
+  - first:
+      213: 4774610199023665287
+    second: Hiu Macan_194
+  - first:
+      213: 4504521048146706513
+    second: Hiu Macan_195
+  - first:
+      213: -4520856224032036277
+    second: Hiu Macan_196
+  - first:
+      213: -2297637049511894070
+    second: Hiu Macan_197
+  - first:
+      213: -2157722518499015624
+    second: Hiu Macan_198
+  - first:
+      213: 6137101095054047149
+    second: Hiu Macan_199
+  - first:
+      213: -4951336553800488634
+    second: Hiu Macan_200
+  - first:
+      213: -2585878583754469749
+    second: Hiu Macan_201
+  - first:
+      213: 3453437252041853183
+    second: Hiu Macan_202
+  - first:
+      213: -2705683342466755305
+    second: Hiu Macan_203
+  - first:
+      213: -6151499173366248607
+    second: Hiu Macan_204
+  - first:
+      213: -6598294112322895809
+    second: Hiu Macan_205
+  - first:
+      213: 2674702504989980003
+    second: Hiu Macan_206
+  - first:
+      213: -1474337647367650767
+    second: Hiu Macan_207
+  - first:
+      213: 7312707162976082130
+    second: Hiu Macan_208
+  - first:
+      213: 1913890749185255041
+    second: Hiu Macan_209
+  - first:
+      213: -3847112026374357877
+    second: Hiu Macan_210
+  - first:
+      213: -8315086372963946152
+    second: Hiu Macan_211
+  - first:
+      213: 3987135027650897797
+    second: Hiu Macan_212
+  - first:
+      213: -6731392059849661515
+    second: Hiu Macan_213
+  - first:
+      213: 6001645430802055824
+    second: Hiu Macan_214
+  - first:
+      213: 1523206332379896310
+    second: Hiu Macan_215
+  - first:
+      213: -3122149576645981534
+    second: Hiu Macan_216
+  - first:
+      213: -5474892195867226603
+    second: Hiu Macan_217
+  - first:
+      213: -3116403453959469591
+    second: Hiu Macan_218
+  - first:
+      213: -7462813559016809133
+    second: Hiu Macan_219
+  - first:
+      213: 7878446512729982600
+    second: Hiu Macan_220
+  - first:
+      213: -1380452116467815245
+    second: Hiu Macan_221
+  - first:
+      213: -6849714887509548153
+    second: Hiu Macan_222
+  - first:
+      213: 1240992192317084827
+    second: Hiu Macan_223
+  - first:
+      213: -2586920436481950693
+    second: Hiu Macan_224
+  - first:
+      213: 3363508416221564145
+    second: Hiu Macan_225
+  - first:
+      213: -8896489017750446885
+    second: Hiu Macan_226
+  - first:
+      213: -6818831175125216373
+    second: Hiu Macan_227
+  - first:
+      213: -8404116535539114618
+    second: Hiu Macan_228
+  - first:
+      213: 4731635379858056153
+    second: Hiu Macan_229
+  - first:
+      213: 7110678967172534338
+    second: Hiu Macan_230
+  - first:
+      213: 3743500062639608999
+    second: Hiu Macan_231
+  - first:
+      213: 2447005629406516385
+    second: Hiu Macan_232
+  - first:
+      213: -4268345032392499037
+    second: Hiu Macan_233
+  - first:
+      213: -4770302155398512755
+    second: Hiu Macan_234
+  - first:
+      213: 2229549260711650096
+    second: Hiu Macan_235
+  - first:
+      213: 7511404142477592133
+    second: Hiu Macan_236
+  - first:
+      213: 8289993237888692151
+    second: Hiu Macan_237
+  - first:
+      213: 8771067673993738193
+    second: Hiu Macan_238
+  - first:
+      213: 6918018163548020292
+    second: Hiu Macan_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hiu Macan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f0bc3667de77479753ce5afe07f2e
+      internalID: -470931339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd05a8287ebea4e9fa586e96d07764
+      internalID: 1789483272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07132b1a8ed67554c96bb97cc738576d
+      internalID: 295236072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753ef194956bcf4fa21eb461bb6311c
+      internalID: -270330955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2f04557d422046a132526b5072779
+      internalID: -1306264612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d150f75bed09541aeabe6111556b12
+      internalID: 1444470292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b0b55a71b5b14daeca8bcd1acc958
+      internalID: -1579409889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3605dfef46a99f40ad1099d3d5320bf
+      internalID: 289940168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c720c4a918bd434bb0f22d6e5e35638
+      internalID: 1904090413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8cff7aeccd02f479ce0d711c703bd1
+      internalID: 421643100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d87cb6c5df7b94c98a9708f9f7b698
+      internalID: -661510012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271aae8d4cbeef246a55f9f970a3e1bb
+      internalID: 1984322775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5bd2acd00cee4b8ff2c494614c9cc
+      internalID: 117068362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e8b7438ae0494582094c0a4653f6b
+      internalID: 693320047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019614664c301b45b90076779b4f75c
+      internalID: 2143517313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e2601dee52d74fa5c5cc37e2dd1fb
+      internalID: -1642405690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb41d82d7e77924d9e42071e0969f5d
+      internalID: 1247995769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d3652e32c7ba4597c53b7e02d832a
+      internalID: -1674115316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_18
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0696ac7f7cfda4f9c08f318213159e
+      internalID: -411131140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_19
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678082f58bf945548a5b59e811def8d7
+      internalID: -2118943745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_20
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcdeff3c660a94a9c41011768c163c
+      internalID: -32994128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa5656a968bf647becd5da2b436d5d
+      internalID: -102634532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0448e00de240d84ba1282dee00419a8
+      internalID: -44847062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451337e0b89009e4e980e2d811589445
+      internalID: 420133736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed5e9c07caf4642a73638318ab5848
+      internalID: 1539045292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a376a107cdb8474d9687ed02beb0b37
+      internalID: 658899420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d209b7a97ca74ea498d589bfc6ddf
+      internalID: -1996392216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef622f2fc00ede04f86593d830987f23
+      internalID: -1245603574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_28
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345eb2de85484d49864c5a21f7ee2a1
+      internalID: 857036577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790e59daf2cc0f44baa185ee8b7b0c4
+      internalID: -343640050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d4afc532551b40bc37dc9f2054cf4
+      internalID: -774644493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_31
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ccb96adf5b5945aa8abb3a8644d97
+      internalID: -1352794332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_32
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977041a42843d864aa1d1dd084ecfafd
+      internalID: 1305997653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_33
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591c2871ed8d3f4da3cea13494594f1
+      internalID: 1218402883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_34
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2580304dc60961c44bbce0581059c0b8
+      internalID: 1820651763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_35
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8f51fb938dac43994a6c132d9a022
+      internalID: 854947768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_36
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d319e2af08e2d44851b4a9fd502d5e
+      internalID: 9453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_37
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2735b79986f6ec479fd619e50d98081
+      internalID: -1840587154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_38
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa59ee2429a819418b97b2a7a7d832c
+      internalID: -344992713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_39
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d643734bb017e54a9fb3d0b9169da65
+      internalID: 380135127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_40
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338eac98e2bbbe4a82574d7adb77297
+      internalID: -878133218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_41
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06711cb8121d3c40960b9ec846bfeb0
+      internalID: -303226468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34867a97430943648917986c4767400e
+      internalID: 643557399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4669b458620004f8083d19545a666b
+      internalID: 1064482902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24942598d48ac408deb7e3d73fb5ab
+      internalID: -670902700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b6d32a9441b543838ecfba639fd59
+      internalID: -2043158896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c503e417227742a0dfa8098422d9a
+      internalID: -546700412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fd9abfcbd7304fa6515bf9534dd2c
+      internalID: -1707341753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82798ec93bd25ed4185f840a1b419ffc
+      internalID: -428361769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70cfdb3ec389984abccab87ec54f32c
+      internalID: -760860604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_50
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd412b1e78918a145929de6ca491b248
+      internalID: 1653643267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_51
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913b8591a4b5f446b87461ab296aa01
+      internalID: 1035467556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_52
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006dd14314a1f054191542e8a8bd7a58
+      internalID: 1720342566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_53
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e211d5f962474e4f8498a98abf44cf4
+      internalID: 846685633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa178ddd515429e4ea48121b3c43d75c
+      internalID: 1843981410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_55
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0ca272f94d5a44a48a1fa75e044b3
+      internalID: -366068805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_56
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbce2cec5738d44895d2b2d1a00a24
+      internalID: -889256535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_57
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d72966c6a31a43aef9a6675f9a202
+      internalID: -534160647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6127cbdf18e1514eb5e74227906939a
+      internalID: -271046755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_59
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9683ed603fb5b64e82253323df4939c
+      internalID: -169433958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_60
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb616864a3f674d8ef90114acef560
+      internalID: 1288164347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_61
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce2b2f1187f7d44b588b48aa18e3ce
+      internalID: -1573490373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_62
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8fad714972e8944bcbe4941c7954fc
+      internalID: -2081852178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db83b09d18a7034cb0241fda79b5ae8
+      internalID: -675124495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d91bb4dfde99341a066617bd069787
+      internalID: -1065135460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc66480cd32e66428c4f59c17f7c168
+      internalID: -455728938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4a3da9b3d931498f5b71291b1b771
+      internalID: 2077426361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931248963b27ba4693f991cc31e065a
+      internalID: 2043863954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_68
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5bbbb23032aa4ba06b5180e480e9d
+      internalID: 667930987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413815cc781e954ba5b50c7cce9ded3
+      internalID: 120632116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_70
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab2ea9cf0c1174e9cc811418ffb695
+      internalID: -1687110403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_71
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7961c12d21b2d4bbe675e181ed88ed
+      internalID: -4767287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_72
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d411b88b76f1694ba261a2d18aca03c
+      internalID: -497115275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_73
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf5585312036e4bbed97c24031e451
+      internalID: -1760769676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_74
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011aeb3f9dfee04294836514eaa974b
+      internalID: 1554375329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_75
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99379496604eaec4cae930e1c8131218
+      internalID: 1403324611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_76
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2472efb6eb4ed34cb8df674a730fc62
+      internalID: -953850327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_77
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81654499f0f65104fbf2c2ea261ff175
+      internalID: 1263341830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_78
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6c1b8f3c08ad469ebec035f49b561
+      internalID: 1654762481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_79
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef4945b9286644186ebd54e1ba5643
+      internalID: -123017675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_80
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b8ce88da6a1f4da502204650ce853
+      internalID: -1600223402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_81
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db0282a57996e84e8a54df0c0ef63e4
+      internalID: 1362944170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_82
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912ac7f4ea7dd545a0943c5589f8baf
+      internalID: -516874666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_83
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b9317b35bd3c43a64f4774f510987
+      internalID: -1369281570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74542b4b35fe644918450ad1fa27cc
+      internalID: -1680291463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b03d7c9dd4a99408528172e58194cb
+      internalID: 1509796862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d47c8c108cb2c45adad35af06f0a36
+      internalID: 1527134719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e09f4a074a561e4393c1d367db362f3
+      internalID: -1685551911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8551ebca3f7fd4b80c00d84db14271
+      internalID: -1810942484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_89
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2d7816959d5e449df98c513d5773b
+      internalID: 749026589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_90
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f701547c4f944db97b618c180c8da
+      internalID: -1216083910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_91
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c23b7f4880a342abb049407897267
+      internalID: 936548692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8f9232e8dcec418e926f2cac068e1
+      internalID: -917252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_93
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efac3db4e9ab314c886829a65866707
+      internalID: -125845594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_94
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0255411b947b47af1f3a50d61bfbe
+      internalID: -1421077097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_95
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63239839fa344774297321e8a8cfaa26
+      internalID: 2063274121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_96
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b3b05c18fc1e4bb807c528653ce84
+      internalID: -1882963352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_97
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c088258a786d947ac4b2f2b0ff890c
+      internalID: 458642176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_98
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa09c640250324d9fb0e4791cc422e
+      internalID: 95395497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_99
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302164829f8bfd44a33e48e296d8f15
+      internalID: -959016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_100
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65875e06826a08447a64a0512434fd7e
+      internalID: 1865458247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_101
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7db384ac8631449fb67af1f1fe8dd
+      internalID: 2073680890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_102
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7a4e72faac1d4f98c59956567135b
+      internalID: -1033832940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_103
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce250770acc06d142ae4767e35c63afe
+      internalID: 168336191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_104
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098795b7c95b6ff498f37c7f6953f331
+      internalID: 622422727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d23e0d64d1a0247bdfc00bd3cb4502
+      internalID: 1364745550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646eaebc98a6bc47ab17b133138d000
+      internalID: 1789141549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9db270971994842bf36d372c04079e
+      internalID: 1323250696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_108
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce17a15abb4124dba7aec73f1165b6
+      internalID: -1343123933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a48cb8a571ac648b7a1b0d77f23394
+      internalID: 1354349956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e198a0e0143f9142a0a34c532894563
+      internalID: -876754665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_111
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039c51ee1b49a4419187cd6d808de89
+      internalID: -248618403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_112
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800e65084a41c34ca40f08612bc95a9
+      internalID: -241096724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2af0d6427eb4d43ae796ae99ecbddf
+      internalID: -690762951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_114
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56dde94d0637748bf083ecf457b73a
+      internalID: -2134328549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522c72e03613e047ba3ac00c4cdb968
+      internalID: 801001750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_116
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ecc2ca2b0308f469c59491b0e03d3f
+      internalID: -1369742044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3556b20ad4d354f92e090b0b2c6933
+      internalID: -2139664210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_118
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02870a3a6e73a5429b6a79c7928b8c1
+      internalID: -1045913728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_119
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccae39c4e2123947b514e0749759a1d
+      internalID: 859448202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_120
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d2587a59ecae488d77b86c22d5dc8
+      internalID: -196968303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_121
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd116bb838dc0d740a915c1a850c8ed0
+      internalID: 881915140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_122
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343577689140ed144943c4b66ff9eb92
+      internalID: -105329604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_123
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6969087c67bb4d43801f22cfc8537fb
+      internalID: -375647694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_124
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031875f85bb574c4c8b72e3becfd7a7b
+      internalID: 277646823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_125
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3becfe9ae3fc488ecc9751d0d1f8e
+      internalID: -1924648019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec90e44b58dbd4f957c206af40c43b
+      internalID: -131707412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428709e324111d429c24951aea2be12
+      internalID: 862025869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_128
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff1ea8782d4774b9ba7f2598c8ea43
+      internalID: 542118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b694b882c26bc4b45b068f3ec76bed59
+      internalID: -631754282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc161ef3c677e04d96f90bef205e033
+      internalID: -1056743510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_131
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9bfc26478ae24c858f4df3a8463af
+      internalID: -1320997004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_132
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bfc857ea08bb4b90fbf59a344fdce
+      internalID: 369686855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_133
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f4f5a15e68b0e4a998489e2257c9af
+      internalID: 406255955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_134
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8945d90856fb44b7a78a97c459217
+      internalID: -1341706860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_135
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb86aee0c1400b408edf6305d17c3e6
+      internalID: 1279620222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_136
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2ec5f43eeb7743a59d6da924f5871
+      internalID: -24628384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_137
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca3a0b7f25b7e45af98071121c1b89
+      internalID: 943136008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_138
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3527435e6f1942bee812bf8122ffb
+      internalID: 2058244784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_139
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c231d65dff1b714787c4630b4b35474
+      internalID: 372394628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_140
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e19936855183d498a8b199c04e9701
+      internalID: -1220511379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_141
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f746ec852149342aa4ed3bdbeeee51
+      internalID: -810535034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f364274755ff46876a9190921859e
+      internalID: -288188865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_143
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9616546ffaeb26f47b8f0f2c4343184c
+      internalID: 132095093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_144
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b28e0fb23ec494a8457f4d53adb533
+      internalID: -389473635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_145
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544316e5585bcc94a97a243c27903c9a
+      internalID: -1111390940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_146
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a6b41f2c1253446b6df1b0d32a10a8
+      internalID: -1726977117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6ad07ba7cfcc4992b03fed8d1d5a2
+      internalID: 1855856497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd728edb81f07554991898d73641b50f
+      internalID: -168566073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741757b313cf9234e8af43a8e09232ed
+      internalID: -522731086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_150
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3f9de3d3193142b8919eb7537d0f3
+      internalID: 549421205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_151
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1048d9bf2e504eb8e4c61f3b67d7a
+      internalID: 766577939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_152
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4acd304ab5333418750a68e6065e53
+      internalID: -221791503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_153
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162128a54534e5c4a843504d67d8b4ff
+      internalID: -335835947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_154
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d725f79109f9cd418b6c4aa98074075
+      internalID: -1643856289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_155
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cde657726968449af0ea6698ba1cfa
+      internalID: 580017787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_156
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2185861bbcd5d04d9349b7bd2223dbd
+      internalID: -203543796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_157
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f778bcf007944041b7b7a386826cd42
+      internalID: -1076188138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_158
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f02d5a59af32624d8240e44c644417f
+      internalID: 1903058396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_159
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9008cf9e525041b85a02791095d08
+      internalID: -1599473669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_160
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd88bd7f442204d8c83da012b7021e
+      internalID: -1394402545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_161
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19cbe04cc37424488841ac261e67bd
+      internalID: 480354029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_162
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5086a1339767a042894cd1ce2749560
+      internalID: -1447331373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_163
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf7125fb57c9fe4d998794680d23961
+      internalID: -1613099985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_164
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d977d4770716aaf44acb06e5a3405869
+      internalID: -292590169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_165
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c9ee00a0b96040b78d8a6d595aba7
+      internalID: -1067519552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_166
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4bdfd9530e8e49b17c665cc1b8e93
+      internalID: 627906345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_167
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5425a153066e9b6478ee76236be6ccf6
+      internalID: -1363968172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d998b543008f46b55371b45c27dc0
+      internalID: 1612888610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_169
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bfa4df7a30e34d94f9f3b9f5d7858
+      internalID: 1852653094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_170
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b819f85b6ed24e9a9622ce01b395f
+      internalID: -394398757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_171
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408626788cd0ef14e8b78ea1d317c383
+      internalID: 1335948647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_172
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb161ad38a82d47a21c0a583c5d5fc
+      internalID: -1470826844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_173
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e020141f441d4782be663a1934b64
+      internalID: -2006706124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_174
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371a2b2b1d429c47a79889044876daf
+      internalID: -1201808764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_175
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7254f5fe775ec984ea33ee49d43285bd
+      internalID: 365662663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_176
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacfce4ae42bcc746b6ba3b378d8fce2
+      internalID: 411591493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_177
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8132028eddfc146957edfe77f22e58
+      internalID: -65923383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_178
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6858bb043addc4daeec72c7d7b2a4b
+      internalID: -1840549190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_179
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f49827da8616b489f792709e779481
+      internalID: -608391996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_180
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08998784a40194aa1aa9907c8d45fe
+      internalID: 1092902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_181
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde10312fcf9564694abfdeb163439f
+      internalID: -1809557108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_182
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638976d8fb5b69479c99e0b953e1d1d
+      internalID: -1301799454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_183
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4d53222bf19242aa9bc3adea484a5
+      internalID: -743266921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_184
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01fea139f435294ea379116c90b1598
+      internalID: -380686369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_185
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695eb8feadbdd5945b534ffd74842dfa
+      internalID: 1507217674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_186
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202549c26d61a74282ac89447ce2dc6
+      internalID: 1334843247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_187
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba617ef7bd23cc4f8243af046cd91c4
+      internalID: 1679282017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_188
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7c78e60151104b91bae6906256cdb
+      internalID: 1045471692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191f9bd90d72d9438a7150ea84a34c1
+      internalID: -1318001135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_190
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593522c3078d02049add78069e078a16
+      internalID: -956685283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_191
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37733bdc2b928459b9703ec7ff8595
+      internalID: 99222975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_192
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0b47f7b8884d4987463a4f4778926
+      internalID: 177881276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_193
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21034f467fa61144931e83d892c7fe3
+      internalID: -1703570116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_194
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1fee4bec52314fafb8620a83a234b
+      internalID: 2136263656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_195
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bedd101b41c3b4fa2d5a9b5cda9ac5
+      internalID: -974377458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_196
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa6a64d6d51be45ba0b243f7ff7776
+      internalID: -2140364472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_197
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74ba8b29f54c645a4f77959b400243
+      internalID: -830671777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_198
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5674eb8554f74f8c826adbd27db35
+      internalID: 2068998194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_199
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c09393bebb4244b2226ac72ccdac7
+      internalID: -223876484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_200
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9fbad1e52d7324c91016488365a3b1
+      internalID: 545271687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_201
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913dbdc855fbc5d4bbccaf5aabbee347
+      internalID: 581539541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_202
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901090bc7d548244ba656ecdf5b8734c
+      internalID: -1841546238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_203
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c78b1cfc3b6740877ea824571825a
+      internalID: -1545344164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_204
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4332b1a884b64e8cb33f4935a38dd
+      internalID: 1995203564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_205
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f52bdbe576aa4e9c0b5fa3ced1866
+      internalID: -446274521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_206
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5885b23576e1147bc9c273cde9e822
+      internalID: 2125766638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_207
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64290c46be2bf54ea4be67332ecdef4
+      internalID: -2049533940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_208
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed37101326c3ea4fbd45239a006ed6c
+      internalID: -444875847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_209
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c02cfc4a531994b81cad47ced0470e
+      internalID: -1837938246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7ccc0e49ef774b8997c51c4a19e84
+      internalID: -1207388775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_211
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752cf9b44763f44993e5af1c5d37fa1
+      internalID: -38014181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_212
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca304389192b3b341b5706cffec2aeeb
+      internalID: 1564595191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_213
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2b231ab2a54d49a860e4e89cca2dc
+      internalID: -2119868299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_214
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae13072bbf2e3714c8073ea0036ed39d
+      internalID: -631047675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_215
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31058bf351e61614dad6532b8d7fea21
+      internalID: -1426650573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_216
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86300f776bc6e354ba5dfea2d622842d
+      internalID: -897155836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_217
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f222009e8e9a4ba3481d7f28c90c9
+      internalID: 539542563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_218
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab51eb1e908ea74a8a3e1dde4f64201
+      internalID: -227089536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_219
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8aa8378c90eee428c88391e9aebca4
+      internalID: 1805219240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_220
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af582cd1427c2e240a50f151c942a086
+      internalID: -2043722054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_221
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b538dca8812348aced13e492d84e4
+      internalID: 1426356791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_222
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da143b2ed1ca64e82c80d641941ed8
+      internalID: -409376586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_223
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f752f72403c944911cc19b64c6f44
+      internalID: -338407562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_224
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7f6c781ca08449a0ad702e4a48af6
+      internalID: 1694715270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_225
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d714b65079dd5438beb0f023779e93
+      internalID: 1943515123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_226
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f53ea87517a1c4290b24340e006b0f
+      internalID: -1955399448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_227
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b64394552fc9641a53927d2b6b0089
+      internalID: 729281920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_228
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd484574afa1c24186e8b340cece420
+      internalID: -191680191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_229
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da958b59452122479c2f10c01df1dc4
+      internalID: -1349436711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_230
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94059f108d82d07418bd81b59f9cbf61
+      internalID: 180983441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a60b217a2d9f6448884aa766940307
+      internalID: -2081468774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_232
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd3adc340af8114fad9828f8a126c95
+      internalID: 1684922188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_233
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928e79287d740c4a8dbb7957565a2fb
+      internalID: 508442296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_234
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79209f087b3dcd4c8a6a74594a2bfde
+      internalID: -783324225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_235
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8683ec961ab30c42bcdfd018ddfcd32
+      internalID: -1717283117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_236
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9171b4d941b6d45868b965b0afc383
+      internalID: -1324334282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_237
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde0f23bc3d2b341994ffa5ddeaeff9
+      internalID: 389208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_238
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91619383f8976bd47b4f72d5e4c8dc2c
+      internalID: 445031487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_239
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92110976d842d984f812506c7fc9f871
+      internalID: 1440176956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_240
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb3eccc891fe646adcc13d20287f39
+      internalID: 154569904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiu Macan_241
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7b683edc18db4f955d58b7bd8dcf8
+      internalID: -263519404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3ba111487e7702544ba75b9d14d80b17
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hiu Macan_0: -470931339
+      Hiu Macan_1: 1789483272
+      Hiu Macan_10: -661510012
+      Hiu Macan_100: 1865458247
+      Hiu Macan_101: 2073680890
+      Hiu Macan_102: -1033832940
+      Hiu Macan_103: 168336191
+      Hiu Macan_104: 622422727
+      Hiu Macan_105: 1364745550
+      Hiu Macan_106: 1789141549
+      Hiu Macan_107: 1323250696
+      Hiu Macan_108: -1343123933
+      Hiu Macan_109: 1354349956
+      Hiu Macan_11: 1984322775
+      Hiu Macan_110: -876754665
+      Hiu Macan_111: -248618403
+      Hiu Macan_112: -241096724
+      Hiu Macan_113: -690762951
+      Hiu Macan_114: -2134328549
+      Hiu Macan_115: 801001750
+      Hiu Macan_116: -1369742044
+      Hiu Macan_117: -2139664210
+      Hiu Macan_118: -1045913728
+      Hiu Macan_119: 859448202
+      Hiu Macan_12: 117068362
+      Hiu Macan_120: -196968303
+      Hiu Macan_121: 881915140
+      Hiu Macan_122: -105329604
+      Hiu Macan_123: -375647694
+      Hiu Macan_124: 277646823
+      Hiu Macan_125: -1924648019
+      Hiu Macan_126: -131707412
+      Hiu Macan_127: 862025869
+      Hiu Macan_128: 542118527
+      Hiu Macan_129: -631754282
+      Hiu Macan_13: 693320047
+      Hiu Macan_130: -1056743510
+      Hiu Macan_131: -1320997004
+      Hiu Macan_132: 369686855
+      Hiu Macan_133: 406255955
+      Hiu Macan_134: -1341706860
+      Hiu Macan_135: 1279620222
+      Hiu Macan_136: -24628384
+      Hiu Macan_137: 943136008
+      Hiu Macan_138: 2058244784
+      Hiu Macan_139: 372394628
+      Hiu Macan_14: 2143517313
+      Hiu Macan_140: -1220511379
+      Hiu Macan_141: -810535034
+      Hiu Macan_142: -288188865
+      Hiu Macan_143: 132095093
+      Hiu Macan_144: -389473635
+      Hiu Macan_145: -1111390940
+      Hiu Macan_146: -1726977117
+      Hiu Macan_147: 1855856497
+      Hiu Macan_148: -168566073
+      Hiu Macan_149: -522731086
+      Hiu Macan_15: -1642405690
+      Hiu Macan_150: 549421205
+      Hiu Macan_151: 766577939
+      Hiu Macan_152: -221791503
+      Hiu Macan_153: -335835947
+      Hiu Macan_154: -1643856289
+      Hiu Macan_155: 580017787
+      Hiu Macan_156: -203543796
+      Hiu Macan_157: -1076188138
+      Hiu Macan_158: 1903058396
+      Hiu Macan_159: -1599473669
+      Hiu Macan_16: 1247995769
+      Hiu Macan_160: -1394402545
+      Hiu Macan_161: 480354029
+      Hiu Macan_162: -1447331373
+      Hiu Macan_163: -1613099985
+      Hiu Macan_164: -292590169
+      Hiu Macan_165: -1067519552
+      Hiu Macan_166: 627906345
+      Hiu Macan_167: -1363968172
+      Hiu Macan_168: 1612888610
+      Hiu Macan_169: 1852653094
+      Hiu Macan_17: -1674115316
+      Hiu Macan_170: -394398757
+      Hiu Macan_171: 1335948647
+      Hiu Macan_172: -1470826844
+      Hiu Macan_173: -2006706124
+      Hiu Macan_174: -1201808764
+      Hiu Macan_175: 365662663
+      Hiu Macan_176: 411591493
+      Hiu Macan_177: -65923383
+      Hiu Macan_178: -1840549190
+      Hiu Macan_179: -608391996
+      Hiu Macan_18: -411131140
+      Hiu Macan_180: 1092902404
+      Hiu Macan_181: -1809557108
+      Hiu Macan_182: -1301799454
+      Hiu Macan_183: -743266921
+      Hiu Macan_184: -380686369
+      Hiu Macan_185: 1507217674
+      Hiu Macan_186: 1334843247
+      Hiu Macan_187: 1679282017
+      Hiu Macan_188: 1045471692
+      Hiu Macan_189: -1318001135
+      Hiu Macan_19: -2118943745
+      Hiu Macan_190: -956685283
+      Hiu Macan_191: 99222975
+      Hiu Macan_192: 177881276
+      Hiu Macan_193: -1703570116
+      Hiu Macan_194: 2136263656
+      Hiu Macan_195: -974377458
+      Hiu Macan_196: -2140364472
+      Hiu Macan_197: -830671777
+      Hiu Macan_198: 2068998194
+      Hiu Macan_199: -223876484
+      Hiu Macan_2: 295236072
+      Hiu Macan_20: -32994128
+      Hiu Macan_200: 545271687
+      Hiu Macan_201: 581539541
+      Hiu Macan_202: -1841546238
+      Hiu Macan_203: -1545344164
+      Hiu Macan_204: 1995203564
+      Hiu Macan_205: -446274521
+      Hiu Macan_206: 2125766638
+      Hiu Macan_207: -2049533940
+      Hiu Macan_208: -444875847
+      Hiu Macan_209: -1837938246
+      Hiu Macan_21: -102634532
+      Hiu Macan_210: -1207388775
+      Hiu Macan_211: -38014181
+      Hiu Macan_212: 1564595191
+      Hiu Macan_213: -2119868299
+      Hiu Macan_214: -631047675
+      Hiu Macan_215: -1426650573
+      Hiu Macan_216: -897155836
+      Hiu Macan_217: 539542563
+      Hiu Macan_218: -227089536
+      Hiu Macan_219: 1805219240
+      Hiu Macan_22: -44847062
+      Hiu Macan_220: -2043722054
+      Hiu Macan_221: 1426356791
+      Hiu Macan_222: -409376586
+      Hiu Macan_223: -338407562
+      Hiu Macan_224: 1694715270
+      Hiu Macan_225: 1943515123
+      Hiu Macan_226: -1955399448
+      Hiu Macan_227: 729281920
+      Hiu Macan_228: -191680191
+      Hiu Macan_229: -1349436711
+      Hiu Macan_23: 420133736
+      Hiu Macan_230: 180983441
+      Hiu Macan_231: -2081468774
+      Hiu Macan_232: 1684922188
+      Hiu Macan_233: 508442296
+      Hiu Macan_234: -783324225
+      Hiu Macan_235: -1717283117
+      Hiu Macan_236: -1324334282
+      Hiu Macan_237: 389208331
+      Hiu Macan_238: 445031487
+      Hiu Macan_239: 1440176956
+      Hiu Macan_24: 1539045292
+      Hiu Macan_240: 154569904
+      Hiu Macan_241: -263519404
+      Hiu Macan_25: 658899420
+      Hiu Macan_26: -1996392216
+      Hiu Macan_27: -1245603574
+      Hiu Macan_28: 857036577
+      Hiu Macan_29: -343640050
+      Hiu Macan_3: -270330955
+      Hiu Macan_30: -774644493
+      Hiu Macan_31: -1352794332
+      Hiu Macan_32: 1305997653
+      Hiu Macan_33: 1218402883
+      Hiu Macan_34: 1820651763
+      Hiu Macan_35: 854947768
+      Hiu Macan_36: 9453853
+      Hiu Macan_37: -1840587154
+      Hiu Macan_38: -344992713
+      Hiu Macan_39: 380135127
+      Hiu Macan_4: -1306264612
+      Hiu Macan_40: -878133218
+      Hiu Macan_41: -303226468
+      Hiu Macan_42: 643557399
+      Hiu Macan_43: 1064482902
+      Hiu Macan_44: -670902700
+      Hiu Macan_45: -2043158896
+      Hiu Macan_46: -546700412
+      Hiu Macan_47: -1707341753
+      Hiu Macan_48: -428361769
+      Hiu Macan_49: -760860604
+      Hiu Macan_5: 1444470292
+      Hiu Macan_50: 1653643267
+      Hiu Macan_51: 1035467556
+      Hiu Macan_52: 1720342566
+      Hiu Macan_53: 846685633
+      Hiu Macan_54: 1843981410
+      Hiu Macan_55: -366068805
+      Hiu Macan_56: -889256535
+      Hiu Macan_57: -534160647
+      Hiu Macan_58: -271046755
+      Hiu Macan_59: -169433958
+      Hiu Macan_6: -1579409889
+      Hiu Macan_60: 1288164347
+      Hiu Macan_61: -1573490373
+      Hiu Macan_62: -2081852178
+      Hiu Macan_63: -675124495
+      Hiu Macan_64: -1065135460
+      Hiu Macan_65: -455728938
+      Hiu Macan_66: 2077426361
+      Hiu Macan_67: 2043863954
+      Hiu Macan_68: 667930987
+      Hiu Macan_69: 120632116
+      Hiu Macan_7: 289940168
+      Hiu Macan_70: -1687110403
+      Hiu Macan_71: -4767287
+      Hiu Macan_72: -497115275
+      Hiu Macan_73: -1760769676
+      Hiu Macan_74: 1554375329
+      Hiu Macan_75: 1403324611
+      Hiu Macan_76: -953850327
+      Hiu Macan_77: 1263341830
+      Hiu Macan_78: 1654762481
+      Hiu Macan_79: -123017675
+      Hiu Macan_8: 1904090413
+      Hiu Macan_80: -1600223402
+      Hiu Macan_81: 1362944170
+      Hiu Macan_82: -516874666
+      Hiu Macan_83: -1369281570
+      Hiu Macan_84: -1680291463
+      Hiu Macan_85: 1509796862
+      Hiu Macan_86: 1527134719
+      Hiu Macan_87: -1685551911
+      Hiu Macan_88: -1810942484
+      Hiu Macan_89: 749026589
+      Hiu Macan_9: 421643100
+      Hiu Macan_90: -1216083910
+      Hiu Macan_91: 936548692
+      Hiu Macan_92: -917252754
+      Hiu Macan_93: -125845594
+      Hiu Macan_94: -1421077097
+      Hiu Macan_95: 2063274121
+      Hiu Macan_96: -1882963352
+      Hiu Macan_97: 458642176
+      Hiu Macan_98: 95395497
+      Hiu Macan_99: -959016683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

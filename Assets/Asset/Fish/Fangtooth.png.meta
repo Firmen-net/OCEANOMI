@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: f8d1e32b48b74744db3921903c025549
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1360731316258006689
+    second: Fangtooth_0
+  - first:
+      213: 7902519147133277507
+    second: Fangtooth_1
+  - first:
+      213: -1067349464639950951
+    second: Fangtooth_2
+  - first:
+      213: 3216217496928531946
+    second: Fangtooth_3
+  - first:
+      213: -2227120958455489983
+    second: Fangtooth_4
+  - first:
+      213: 7091023287079707574
+    second: Fangtooth_5
+  - first:
+      213: 2741391761706005816
+    second: Fangtooth_6
+  - first:
+      213: 8162285965392710395
+    second: Fangtooth_7
+  - first:
+      213: 5382168757932483663
+    second: Fangtooth_8
+  - first:
+      213: 5641451380282213408
+    second: Fangtooth_9
+  - first:
+      213: 2781985094284936541
+    second: Fangtooth_10
+  - first:
+      213: -4688522537178632582
+    second: Fangtooth_11
+  - first:
+      213: 1966226908226158350
+    second: Fangtooth_12
+  - first:
+      213: 3473832207141947726
+    second: Fangtooth_13
+  - first:
+      213: -4155093168619222180
+    second: Fangtooth_14
+  - first:
+      213: 4333919656505787913
+    second: Fangtooth_15
+  - first:
+      213: 8549673013350821109
+    second: Fangtooth_16
+  - first:
+      213: -7326692047294617098
+    second: Fangtooth_17
+  - first:
+      213: -5639314916374138503
+    second: Fangtooth_18
+  - first:
+      213: -201034166843345321
+    second: Fangtooth_19
+  - first:
+      213: -4800930456126445940
+    second: Fangtooth_20
+  - first:
+      213: -7485449172684680327
+    second: Fangtooth_21
+  - first:
+      213: 4273868817316229960
+    second: Fangtooth_22
+  - first:
+      213: 5533457111497747612
+    second: Fangtooth_23
+  - first:
+      213: -3241860755838123222
+    second: Fangtooth_24
+  - first:
+      213: 5088965059904329086
+    second: Fangtooth_25
+  - first:
+      213: 6900780465076059065
+    second: Fangtooth_26
+  - first:
+      213: 6327167785802841709
+    second: Fangtooth_27
+  - first:
+      213: 3267370259897919544
+    second: Fangtooth_28
+  - first:
+      213: 381601430333992029
+    second: Fangtooth_29
+  - first:
+      213: -270486025839834929
+    second: Fangtooth_30
+  - first:
+      213: -1925787091932551170
+    second: Fangtooth_31
+  - first:
+      213: -2740340288986775063
+    second: Fangtooth_32
+  - first:
+      213: 6424492986243405750
+    second: Fangtooth_33
+  - first:
+      213: -7589513781152365255
+    second: Fangtooth_34
+  - first:
+      213: -8182840936137597610
+    second: Fangtooth_35
+  - first:
+      213: 8479909071463499773
+    second: Fangtooth_36
+  - first:
+      213: -4761382517319775981
+    second: Fangtooth_37
+  - first:
+      213: -7838476074940023028
+    second: Fangtooth_38
+  - first:
+      213: -717623513122742965
+    second: Fangtooth_39
+  - first:
+      213: 3756110570187889521
+    second: Fangtooth_40
+  - first:
+      213: -5552606048912370477
+    second: Fangtooth_41
+  - first:
+      213: 6395004493841850301
+    second: Fangtooth_42
+  - first:
+      213: -482768067668455526
+    second: Fangtooth_43
+  - first:
+      213: 1927171220451462777
+    second: Fangtooth_44
+  - first:
+      213: 4972980251747917940
+    second: Fangtooth_45
+  - first:
+      213: -5723875982776504428
+    second: Fangtooth_46
+  - first:
+      213: -138093224671595719
+    second: Fangtooth_47
+  - first:
+      213: 1444868264008395684
+    second: Fangtooth_48
+  - first:
+      213: -2699009298479307604
+    second: Fangtooth_49
+  - first:
+      213: 8214864383529590709
+    second: Fangtooth_50
+  - first:
+      213: 3010179273759865828
+    second: Fangtooth_51
+  - first:
+      213: -8579972897252408343
+    second: Fangtooth_52
+  - first:
+      213: 6399415895731244470
+    second: Fangtooth_53
+  - first:
+      213: -3228916291491446803
+    second: Fangtooth_54
+  - first:
+      213: 4329851995585667902
+    second: Fangtooth_55
+  - first:
+      213: -1970539938102495930
+    second: Fangtooth_56
+  - first:
+      213: -5469478453243915048
+    second: Fangtooth_57
+  - first:
+      213: 4243971566382246708
+    second: Fangtooth_58
+  - first:
+      213: 5021244105718623406
+    second: Fangtooth_59
+  - first:
+      213: -1443087266765624815
+    second: Fangtooth_60
+  - first:
+      213: -8519913351560986166
+    second: Fangtooth_61
+  - first:
+      213: -835996818998043256
+    second: Fangtooth_62
+  - first:
+      213: -1120118875076758298
+    second: Fangtooth_63
+  - first:
+      213: 56035662764787629
+    second: Fangtooth_64
+  - first:
+      213: -7602426437800076128
+    second: Fangtooth_65
+  - first:
+      213: -1253540608833196663
+    second: Fangtooth_66
+  - first:
+      213: 4886965373842333330
+    second: Fangtooth_67
+  - first:
+      213: 1612361607477898928
+    second: Fangtooth_68
+  - first:
+      213: 6423680345777351202
+    second: Fangtooth_69
+  - first:
+      213: 1011995478915474673
+    second: Fangtooth_70
+  - first:
+      213: 2701752020768515596
+    second: Fangtooth_71
+  - first:
+      213: -331488309003711352
+    second: Fangtooth_72
+  - first:
+      213: -4947833007771705674
+    second: Fangtooth_73
+  - first:
+      213: 7241441865592699761
+    second: Fangtooth_74
+  - first:
+      213: -8297115786833632911
+    second: Fangtooth_75
+  - first:
+      213: 9212171998698249086
+    second: Fangtooth_76
+  - first:
+      213: -4518941325411716128
+    second: Fangtooth_77
+  - first:
+      213: 6797148314796668229
+    second: Fangtooth_78
+  - first:
+      213: 7281747911143829461
+    second: Fangtooth_79
+  - first:
+      213: 2508449719679113761
+    second: Fangtooth_80
+  - first:
+      213: -4814197199286675307
+    second: Fangtooth_81
+  - first:
+      213: -5488911882162895877
+    second: Fangtooth_82
+  - first:
+      213: 8563625532538763115
+    second: Fangtooth_83
+  - first:
+      213: -7313958768213637079
+    second: Fangtooth_84
+  - first:
+      213: 2322529643547705567
+    second: Fangtooth_85
+  - first:
+      213: -4994213144036716885
+    second: Fangtooth_86
+  - first:
+      213: 5804339361485022992
+    second: Fangtooth_87
+  - first:
+      213: 6519962433662268230
+    second: Fangtooth_88
+  - first:
+      213: -6016303490215900600
+    second: Fangtooth_89
+  - first:
+      213: -1846439437150201235
+    second: Fangtooth_90
+  - first:
+      213: 1583006281336028660
+    second: Fangtooth_91
+  - first:
+      213: 2010657299108254893
+    second: Fangtooth_92
+  - first:
+      213: 7447659872078169627
+    second: Fangtooth_93
+  - first:
+      213: -6721155010389953559
+    second: Fangtooth_94
+  - first:
+      213: 2757323107346429016
+    second: Fangtooth_95
+  - first:
+      213: 3183917714949357196
+    second: Fangtooth_96
+  - first:
+      213: 5007291677439802645
+    second: Fangtooth_97
+  - first:
+      213: 9196137900504339644
+    second: Fangtooth_98
+  - first:
+      213: -4998225876084542624
+    second: Fangtooth_99
+  - first:
+      213: 927335914095184884
+    second: Fangtooth_100
+  - first:
+      213: 598370596177743963
+    second: Fangtooth_101
+  - first:
+      213: -6312210888902432630
+    second: Fangtooth_102
+  - first:
+      213: -1367107707954777997
+    second: Fangtooth_103
+  - first:
+      213: 763152563358102544
+    second: Fangtooth_104
+  - first:
+      213: -1665338644407028474
+    second: Fangtooth_105
+  - first:
+      213: 2289571584111962824
+    second: Fangtooth_106
+  - first:
+      213: 482780364053730007
+    second: Fangtooth_107
+  - first:
+      213: -6838930924919056227
+    second: Fangtooth_108
+  - first:
+      213: -6150784246803310328
+    second: Fangtooth_109
+  - first:
+      213: -6293922027253600768
+    second: Fangtooth_110
+  - first:
+      213: 3543283475060258250
+    second: Fangtooth_111
+  - first:
+      213: 1804420028707932660
+    second: Fangtooth_112
+  - first:
+      213: 6729323881221495472
+    second: Fangtooth_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fangtooth_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59579f21fee346344ba3e257250d231c
+      internalID: 748025976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1f19cc295ab14cbabbfd32a5d7dae
+      internalID: 146808992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f4ea025aab8942a66687c9aa632fb
+      internalID: -6691387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418cb2c4bcca7d4589d5a3e196a9158
+      internalID: -1013954278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_4
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ade2ff1f434244b4297fc93815e22
+      internalID: 1784730984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_5
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539300b5920390a4691f4fd7a9b1d6e7
+      internalID: 133124428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_6
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071e3f3a099be24e84d2653145a654a
+      internalID: 326967258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_7
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d0c0315e66614ebf8adbd25f16dc5
+      internalID: -611816087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3db55809ae37a428204d217dbe383c
+      internalID: -1549455383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245c62a6cf03704e902f1d21cc5b795
+      internalID: 488436790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_10
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f05c44f7c9dd449c34b754011f8bf
+      internalID: 1234069668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_11
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4e55b8a207d74aa84e1d19f017c0a
+      internalID: -606763199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_12
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b0c4090be67547b04428e920b46ca
+      internalID: 2105036459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_13
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210e94471e66a44fbd759ce2e7701f3
+      internalID: 2036135730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_14
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982658f22cf85394a84fd174e09a402c
+      internalID: 1332967875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_15
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7291b8e117be6c4f9ec8c7436dd1a8d
+      internalID: 802377319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd6bd258fdfd04fb7e29a5fadd591b
+      internalID: 275663179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_17
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a9336baae4a84784114a3e859fecc
+      internalID: 1915644847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2dedb5c6b66d448980b83ea7975b23
+      internalID: 140021222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_19
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552b7a8206b7984facfefa375c3519e
+      internalID: 1644158024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_20
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c016f678e6674d8dfd1a0520ef6ea
+      internalID: -1066166409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_21
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9c5f0c36e79c4ba7a141c9aa5cc5c
+      internalID: -1829597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_22
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9aa252f017f7046ad0c7fbca7783e3
+      internalID: 484427693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_23
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b26c709f780f4e9043ec419079aad
+      internalID: 1397793513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340dc46de683f44890b1ef64c1c1357
+      internalID: -1607655238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c073ed92332b446bacf7fe80a13290
+      internalID: 749104852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_26
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4add9479d87ba24cb6241bec4292dab
+      internalID: 469724698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_27
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ef5722c167299498f65148cf6fcfc3
+      internalID: -353784653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_28
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474bba1016c900429d9c05444379c07
+      internalID: -1956537539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_29
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d2ce2134a20e45aef6baffa4f5f03
+      internalID: 869529761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_30
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5eabed865ded4589bfc289a5d47f8
+      internalID: -225283915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_31
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07362dca623cc34197d4aa0a0a3c6fc
+      internalID: 656835646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3fbfa1db6e8f4f8f6833e69318fc5
+      internalID: -945522187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_33
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ce41d84bccdc40a67ef2a9bd45d7b
+      internalID: 1319770017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_34
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640eedec4be01cd4fb477869b704fa99
+      internalID: -572534254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_35
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740bc900b7b6dd4bb3c547a5543ac6e
+      internalID: -261678042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_36
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5485371ae5c20bb4b9cd1d0d7508f80f
+      internalID: 1990948991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_37
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c2a8acc61c26479e63a29fa1e5de9
+      internalID: 2022591800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_38
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fde8e5d2995c6459e9f10c79e1072e
+      internalID: 1179695010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_39
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c025c85f9b7843a516c51d180c2a2
+      internalID: -1892011520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2941b5d88a5644b1e21f2cb19948b
+      internalID: 1189322444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_41
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d83fdbda53d6e43a416a3c6e32a40e
+      internalID: -1683477037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_42
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb48860f3894b346817690bc27e74e2
+      internalID: -2064430347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_43
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aface777241bc7f448503ba978fa96df
+      internalID: 2144534435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_44
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f119f9468794468ffcd55678af7d1
+      internalID: -485949845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_45
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9947978e82abe45bae0fcb94d53507
+      internalID: 651542004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_46
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f115a0810f24645a4250fc72d33190
+      internalID: 1473788342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_47
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649b3471d9978b49b16de9fda87701a
+      internalID: 1616799483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ccd54fd44f90f4eb8e9b65b5102367
+      internalID: -283250404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c66e4b30aabe468677955e3c972ed
+      internalID: -1709635947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_50
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b260cf252e744997dff815a00d597
+      internalID: -1972065456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_51
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b6877b19229b4d92cff31d287c988
+      internalID: -619890946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_52
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0fb5f3f2bab0646a46976d47dc29a0
+      internalID: 989667265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_53
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1ab8f0c6266d84c974ce089d17d34f
+      internalID: 632047468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_54
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc1a338a9079e418569477dc038f4d
+      internalID: 1365576448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_55
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104312b58374e5d4b93cb2e5ad61ae91
+      internalID: -959657736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7da28ebe9a068479ae6a6fdb07e384
+      internalID: 981518027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_57
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13ee02b30d15a4dbdb918d0241ffe1
+      internalID: 1765507935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_58
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1991d397a8df24aaba2f1f2811b985
+      internalID: 1660620333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_59
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f05f0dd898fb43bc4a0176e78e219
+      internalID: 868403412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_60
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796d5e87e4b15d469b1acfa64df34ca
+      internalID: 288270267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_61
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77fd078797ed70499235de07ee760f3
+      internalID: -1598016257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_62
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501046f49429ed340b0e6dea6a855eed
+      internalID: 260575454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_63
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0666e1e84885747b636aa854290eef
+      internalID: 595598770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0271767aa2a47246b27e912acd736a6
+      internalID: -1279547742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_65
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59436c14f5c23a44bc49c42646aec19
+      internalID: 1013486533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_66
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d953fc22a01df48826fc9ec3b92d92
+      internalID: 228678812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_67
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792bec7b3f17614d9fb24b51f95d2db
+      internalID: -990042852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_68
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70593df5e4f2224790b9d35d104ca16
+      internalID: -1432392825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_69
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d371c5e94b9eaa4a9be4c243451cc72
+      internalID: -303798956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_70
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d8525b29f14d4f8e45ea5b1b5f604
+      internalID: 22106761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_71
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad342863950c143bbade2b4da03dbe
+      internalID: 1760241587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701efbe6b86e114cb6c498611630715
+      internalID: -1355987085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_73
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb0932fb5d6dc4ab3d806b0f92de1f
+      internalID: 1639895864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_74
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535d72e09e061145983ea8e44b28359
+      internalID: 1506940797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_75
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080437d9be99fba4fb53b2c521160a4a
+      internalID: -1397439486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_76
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579e793343959440a2a79011b87566e
+      internalID: 1170791725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_77
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f177c3d97434764580ec7d302acbb23
+      internalID: -611607188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_78
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f7404a3fcd2b4c859689870df8bec
+      internalID: -1106943703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_79
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138c20f5bd036c4b9525091aee21db9
+      internalID: 530162126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66677b45eb9838498f416eb1f608e78
+      internalID: 726861184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_81
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c250a145be3842468153ea5c0f4ff38
+      internalID: -424600449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_82
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a932397cf3a3e4d9eaab48eeaab6ee
+      internalID: -1336739395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_83
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98576ff58721414ca8d6ab9e532bd28
+      internalID: 2042229844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_84
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68084acb330cda84fba70e0af923b5bb
+      internalID: -100838607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_85
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4980dea67f39ba04495b26c48c87df03
+      internalID: -1533874257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_86
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c787221aa2620e4429452060ea935093
+      internalID: -203781598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_87
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385770bf05436e24bae4fe8e697b4436
+      internalID: -2106494922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06758abed78bd374c93a8f622aed6b99
+      internalID: -858459517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_89
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c543c490622f4eb6494d2278f6819
+      internalID: 166397472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_90
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e48f5a9328824480a44d05394b48b
+      internalID: 1217655096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_91
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba41b2ea849934c9134d5088bb5ba2
+      internalID: 1012155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_92
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d660aed54c08ea8458be10cd04f27112
+      internalID: 1361232188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_93
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e8fd51bfa626478f9b85e70bb0d2a
+      internalID: 1229478463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_94
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e896d626e9d6404fb74eca9786a8592
+      internalID: 1840439753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_95
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc9de45ef36f84a8c584d5689606bf
+      internalID: 199907613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6bf8c9606599545b23f34a46bc8ab2
+      internalID: 1437036321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_97
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c9e2833ec5fdd4798db64db2a9fcd7
+      internalID: -1472799496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_98
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf65fbf3fd7f63246941a6d8e77b2286
+      internalID: 1374382995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_99
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9fa8a28d82f244a83044caa029e739
+      internalID: 376876039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_100
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77dc8f0d0640ae4eaef8dc43d3f26c6
+      internalID: -1214684332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_101
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a26865c80e5d43a382d68392c535a
+      internalID: 964698522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_102
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1619ff664cad54a8c5f434b940dff7
+      internalID: 1832197272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_103
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bce8ea27fef640a678280fcb8a782
+      internalID: -642735458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12013ef697eafd4f8966a82dbdec967
+      internalID: 372100900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_105
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d2f72207d8ed34db772ea80e97ccd3
+      internalID: -1727832454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_106
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6407ce4fc45306a46a3f85880161cdea
+      internalID: 1505516636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_107
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3f6b7bcf685342a38e172344a0deb
+      internalID: 2034022494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_108
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d1bb0f681e2144b13e803c488753f
+      internalID: -1046521780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_109
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db2b3af8128684e9b717324ce95fc8
+      internalID: 889662944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_110
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f1e5ccdd2aa2449bec1a3e9c3584d
+      internalID: 1698645737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_111
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f35bd86ca02844a467a81d47c663e
+      internalID: -1001410544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daac525e7041c4ca56841cc3d5f2f8
+      internalID: 1405623390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fangtooth_113
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15ebd6295d8f147baa7e46f0e58b84
+      internalID: -1813339244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a560a2a1114d9a346bb228285d2aa495
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fangtooth_0: 748025976
+      Fangtooth_1: 146808992
+      Fangtooth_10: 1234069668
+      Fangtooth_100: -1214684332
+      Fangtooth_101: 964698522
+      Fangtooth_102: 1832197272
+      Fangtooth_103: -642735458
+      Fangtooth_104: 372100900
+      Fangtooth_105: -1727832454
+      Fangtooth_106: 1505516636
+      Fangtooth_107: 2034022494
+      Fangtooth_108: -1046521780
+      Fangtooth_109: 889662944
+      Fangtooth_11: -606763199
+      Fangtooth_110: 1698645737
+      Fangtooth_111: -1001410544
+      Fangtooth_112: 1405623390
+      Fangtooth_113: -1813339244
+      Fangtooth_12: 2105036459
+      Fangtooth_13: 2036135730
+      Fangtooth_14: 1332967875
+      Fangtooth_15: 802377319
+      Fangtooth_16: 275663179
+      Fangtooth_17: 1915644847
+      Fangtooth_18: 140021222
+      Fangtooth_19: 1644158024
+      Fangtooth_2: -6691387
+      Fangtooth_20: -1066166409
+      Fangtooth_21: -1829597891
+      Fangtooth_22: 484427693
+      Fangtooth_23: 1397793513
+      Fangtooth_24: -1607655238
+      Fangtooth_25: 749104852
+      Fangtooth_26: 469724698
+      Fangtooth_27: -353784653
+      Fangtooth_28: -1956537539
+      Fangtooth_29: 869529761
+      Fangtooth_3: -1013954278
+      Fangtooth_30: -225283915
+      Fangtooth_31: 656835646
+      Fangtooth_32: -945522187
+      Fangtooth_33: 1319770017
+      Fangtooth_34: -572534254
+      Fangtooth_35: -261678042
+      Fangtooth_36: 1990948991
+      Fangtooth_37: 2022591800
+      Fangtooth_38: 1179695010
+      Fangtooth_39: -1892011520
+      Fangtooth_4: 1784730984
+      Fangtooth_40: 1189322444
+      Fangtooth_41: -1683477037
+      Fangtooth_42: -2064430347
+      Fangtooth_43: 2144534435
+      Fangtooth_44: -485949845
+      Fangtooth_45: 651542004
+      Fangtooth_46: 1473788342
+      Fangtooth_47: 1616799483
+      Fangtooth_48: -283250404
+      Fangtooth_49: -1709635947
+      Fangtooth_5: 133124428
+      Fangtooth_50: -1972065456
+      Fangtooth_51: -619890946
+      Fangtooth_52: 989667265
+      Fangtooth_53: 632047468
+      Fangtooth_54: 1365576448
+      Fangtooth_55: -959657736
+      Fangtooth_56: 981518027
+      Fangtooth_57: 1765507935
+      Fangtooth_58: 1660620333
+      Fangtooth_59: 868403412
+      Fangtooth_6: 326967258
+      Fangtooth_60: 288270267
+      Fangtooth_61: -1598016257
+      Fangtooth_62: 260575454
+      Fangtooth_63: 595598770
+      Fangtooth_64: -1279547742
+      Fangtooth_65: 1013486533
+      Fangtooth_66: 228678812
+      Fangtooth_67: -990042852
+      Fangtooth_68: -1432392825
+      Fangtooth_69: -303798956
+      Fangtooth_7: -611816087
+      Fangtooth_70: 22106761
+      Fangtooth_71: 1760241587
+      Fangtooth_72: -1355987085
+      Fangtooth_73: 1639895864
+      Fangtooth_74: 1506940797
+      Fangtooth_75: -1397439486
+      Fangtooth_76: 1170791725
+      Fangtooth_77: -611607188
+      Fangtooth_78: -1106943703
+      Fangtooth_79: 530162126
+      Fangtooth_8: -1549455383
+      Fangtooth_80: 726861184
+      Fangtooth_81: -424600449
+      Fangtooth_82: -1336739395
+      Fangtooth_83: 2042229844
+      Fangtooth_84: -100838607
+      Fangtooth_85: -1533874257
+      Fangtooth_86: -203781598
+      Fangtooth_87: -2106494922
+      Fangtooth_88: -858459517
+      Fangtooth_89: 166397472
+      Fangtooth_9: 488436790
+      Fangtooth_90: 1217655096
+      Fangtooth_91: 1012155862
+      Fangtooth_92: 1361232188
+      Fangtooth_93: 1229478463
+      Fangtooth_94: 1840439753
+      Fangtooth_95: 199907613
+      Fangtooth_96: 1437036321
+      Fangtooth_97: -1472799496
+      Fangtooth_98: 1374382995
+      Fangtooth_99: 376876039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

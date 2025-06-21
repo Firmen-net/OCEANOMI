@@ -1,0 +1,6381 @@
+fileFormatVersion: 2
+guid: b393f517956c3c446969312e4a292d4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9031121704812186248
+    second: Firefly Squid_0
+  - first:
+      213: 862945601182064722
+    second: Firefly Squid_1
+  - first:
+      213: 1606140172587221321
+    second: Firefly Squid_2
+  - first:
+      213: -7401821030646693309
+    second: Firefly Squid_3
+  - first:
+      213: -8082132101948971700
+    second: Firefly Squid_4
+  - first:
+      213: -569671609519629876
+    second: Firefly Squid_5
+  - first:
+      213: -6665077028804664952
+    second: Firefly Squid_6
+  - first:
+      213: 376175967776739634
+    second: Firefly Squid_7
+  - first:
+      213: -2304123113686611595
+    second: Firefly Squid_8
+  - first:
+      213: -6598261814457831557
+    second: Firefly Squid_9
+  - first:
+      213: -4636339629499763044
+    second: Firefly Squid_10
+  - first:
+      213: -8462635687878481156
+    second: Firefly Squid_11
+  - first:
+      213: 2346501267233007179
+    second: Firefly Squid_12
+  - first:
+      213: -6176057579584620330
+    second: Firefly Squid_13
+  - first:
+      213: 4816809303749260882
+    second: Firefly Squid_14
+  - first:
+      213: 5146904984996047742
+    second: Firefly Squid_15
+  - first:
+      213: -2661386525995016257
+    second: Firefly Squid_16
+  - first:
+      213: -6518274327883303532
+    second: Firefly Squid_17
+  - first:
+      213: -2589580662942545026
+    second: Firefly Squid_18
+  - first:
+      213: 7864367930910415455
+    second: Firefly Squid_19
+  - first:
+      213: -9113522284411654696
+    second: Firefly Squid_20
+  - first:
+      213: -8852660907105754843
+    second: Firefly Squid_21
+  - first:
+      213: 6787096590631200177
+    second: Firefly Squid_22
+  - first:
+      213: -1901407317955832202
+    second: Firefly Squid_23
+  - first:
+      213: -4981866675757807347
+    second: Firefly Squid_24
+  - first:
+      213: 1474530263725072196
+    second: Firefly Squid_25
+  - first:
+      213: -5060930932108827269
+    second: Firefly Squid_26
+  - first:
+      213: -392457057860874813
+    second: Firefly Squid_27
+  - first:
+      213: -4018839713120974963
+    second: Firefly Squid_28
+  - first:
+      213: -965180185671170884
+    second: Firefly Squid_29
+  - first:
+      213: -2201554737134086624
+    second: Firefly Squid_30
+  - first:
+      213: -6397375379915173193
+    second: Firefly Squid_31
+  - first:
+      213: -6422754786454304161
+    second: Firefly Squid_32
+  - first:
+      213: -5702971538723393614
+    second: Firefly Squid_33
+  - first:
+      213: 4154271347853423926
+    second: Firefly Squid_34
+  - first:
+      213: -3732792239156871361
+    second: Firefly Squid_35
+  - first:
+      213: -6071898737912296273
+    second: Firefly Squid_36
+  - first:
+      213: 5162226452070620730
+    second: Firefly Squid_37
+  - first:
+      213: -3750495598222009639
+    second: Firefly Squid_38
+  - first:
+      213: -1132478935499569246
+    second: Firefly Squid_39
+  - first:
+      213: 8187508585287365801
+    second: Firefly Squid_40
+  - first:
+      213: 4653547171884883893
+    second: Firefly Squid_41
+  - first:
+      213: 2607544088667816503
+    second: Firefly Squid_42
+  - first:
+      213: 1006021769436934120
+    second: Firefly Squid_43
+  - first:
+      213: 6622219509753427470
+    second: Firefly Squid_44
+  - first:
+      213: 4323350226807309913
+    second: Firefly Squid_45
+  - first:
+      213: -7079647181559291299
+    second: Firefly Squid_46
+  - first:
+      213: -4525167116042426602
+    second: Firefly Squid_47
+  - first:
+      213: 3532491004255680021
+    second: Firefly Squid_48
+  - first:
+      213: 913114140681635464
+    second: Firefly Squid_49
+  - first:
+      213: -4199816256088148448
+    second: Firefly Squid_50
+  - first:
+      213: -7254913174593846672
+    second: Firefly Squid_51
+  - first:
+      213: -4449372206895369187
+    second: Firefly Squid_52
+  - first:
+      213: -3439500907842377746
+    second: Firefly Squid_53
+  - first:
+      213: -2483671233816919926
+    second: Firefly Squid_54
+  - first:
+      213: 391398617307974625
+    second: Firefly Squid_55
+  - first:
+      213: 2012331375467158830
+    second: Firefly Squid_56
+  - first:
+      213: -3182587787861237938
+    second: Firefly Squid_57
+  - first:
+      213: 4293184781153873173
+    second: Firefly Squid_58
+  - first:
+      213: -3222456339696407345
+    second: Firefly Squid_59
+  - first:
+      213: 8931440965493111346
+    second: Firefly Squid_60
+  - first:
+      213: 3329360421052674969
+    second: Firefly Squid_61
+  - first:
+      213: 6469146048675871464
+    second: Firefly Squid_62
+  - first:
+      213: -6816935774769482111
+    second: Firefly Squid_63
+  - first:
+      213: 8363921506368077463
+    second: Firefly Squid_64
+  - first:
+      213: 6118122474534594578
+    second: Firefly Squid_65
+  - first:
+      213: -5938491152355030012
+    second: Firefly Squid_66
+  - first:
+      213: 5055084522790497434
+    second: Firefly Squid_67
+  - first:
+      213: -2505387765330231144
+    second: Firefly Squid_68
+  - first:
+      213: -4226898622610969677
+    second: Firefly Squid_69
+  - first:
+      213: 231186605255573706
+    second: Firefly Squid_70
+  - first:
+      213: 4420251958344579423
+    second: Firefly Squid_71
+  - first:
+      213: -5128324209142299549
+    second: Firefly Squid_72
+  - first:
+      213: 458296477356187234
+    second: Firefly Squid_73
+  - first:
+      213: 2021334490063777204
+    second: Firefly Squid_74
+  - first:
+      213: 642284121603816807
+    second: Firefly Squid_75
+  - first:
+      213: 909631125122422462
+    second: Firefly Squid_76
+  - first:
+      213: -5006753113058047074
+    second: Firefly Squid_77
+  - first:
+      213: 6735908783557258772
+    second: Firefly Squid_78
+  - first:
+      213: -3561818649286896087
+    second: Firefly Squid_79
+  - first:
+      213: -7398134030517974376
+    second: Firefly Squid_80
+  - first:
+      213: -432694050978490869
+    second: Firefly Squid_81
+  - first:
+      213: -3791735187924844768
+    second: Firefly Squid_82
+  - first:
+      213: 4698881525347571065
+    second: Firefly Squid_83
+  - first:
+      213: -1116899413476959442
+    second: Firefly Squid_84
+  - first:
+      213: 3495049625497784049
+    second: Firefly Squid_85
+  - first:
+      213: 8756946361967805176
+    second: Firefly Squid_86
+  - first:
+      213: 3681710467924421838
+    second: Firefly Squid_87
+  - first:
+      213: 3305375871689052277
+    second: Firefly Squid_88
+  - first:
+      213: 5201232041373691754
+    second: Firefly Squid_89
+  - first:
+      213: 763285406141804011
+    second: Firefly Squid_90
+  - first:
+      213: 7044834373458576735
+    second: Firefly Squid_91
+  - first:
+      213: -7426465770094151083
+    second: Firefly Squid_92
+  - first:
+      213: -341916188097039230
+    second: Firefly Squid_93
+  - first:
+      213: -4442290725934978924
+    second: Firefly Squid_94
+  - first:
+      213: -8724149584736365759
+    second: Firefly Squid_95
+  - first:
+      213: 1193724620442960898
+    second: Firefly Squid_96
+  - first:
+      213: 8910336197662847270
+    second: Firefly Squid_97
+  - first:
+      213: 3074657226571559257
+    second: Firefly Squid_98
+  - first:
+      213: 4863996095321449419
+    second: Firefly Squid_99
+  - first:
+      213: 3655478503189618035
+    second: Firefly Squid_100
+  - first:
+      213: 8194823533985222243
+    second: Firefly Squid_101
+  - first:
+      213: -6496640423456668850
+    second: Firefly Squid_102
+  - first:
+      213: -420422127628238758
+    second: Firefly Squid_103
+  - first:
+      213: 8218725916109937209
+    second: Firefly Squid_104
+  - first:
+      213: -5493021978151433700
+    second: Firefly Squid_105
+  - first:
+      213: -3270006789308870302
+    second: Firefly Squid_106
+  - first:
+      213: -3154381859574120375
+    second: Firefly Squid_107
+  - first:
+      213: -8733686785490210666
+    second: Firefly Squid_108
+  - first:
+      213: -8589626558350462749
+    second: Firefly Squid_109
+  - first:
+      213: 3338559467755284565
+    second: Firefly Squid_110
+  - first:
+      213: 5600203595988473567
+    second: Firefly Squid_111
+  - first:
+      213: 3344229468874494119
+    second: Firefly Squid_112
+  - first:
+      213: 6649212631559420241
+    second: Firefly Squid_113
+  - first:
+      213: 6067944429005025507
+    second: Firefly Squid_114
+  - first:
+      213: -7082030269014155405
+    second: Firefly Squid_115
+  - first:
+      213: 4514081805918655356
+    second: Firefly Squid_116
+  - first:
+      213: 2869027877650682565
+    second: Firefly Squid_117
+  - first:
+      213: -4687953426911230091
+    second: Firefly Squid_118
+  - first:
+      213: 3412218010009149424
+    second: Firefly Squid_119
+  - first:
+      213: -2253291211105424742
+    second: Firefly Squid_120
+  - first:
+      213: -1148236410003490710
+    second: Firefly Squid_121
+  - first:
+      213: -6612669528870782286
+    second: Firefly Squid_122
+  - first:
+      213: -5275121682729563410
+    second: Firefly Squid_123
+  - first:
+      213: -8631615355031184844
+    second: Firefly Squid_124
+  - first:
+      213: 2457114532612711081
+    second: Firefly Squid_125
+  - first:
+      213: -1087745112767112517
+    second: Firefly Squid_126
+  - first:
+      213: -7230877738478301551
+    second: Firefly Squid_127
+  - first:
+      213: -8388483921372493663
+    second: Firefly Squid_128
+  - first:
+      213: -7726325587080743594
+    second: Firefly Squid_129
+  - first:
+      213: 4470118740842703192
+    second: Firefly Squid_130
+  - first:
+      213: -3021338675113984488
+    second: Firefly Squid_131
+  - first:
+      213: 7970967864627291416
+    second: Firefly Squid_132
+  - first:
+      213: -7206021374056066363
+    second: Firefly Squid_133
+  - first:
+      213: 6594301346678175440
+    second: Firefly Squid_134
+  - first:
+      213: 2583578532021494611
+    second: Firefly Squid_135
+  - first:
+      213: 7363137831393710889
+    second: Firefly Squid_136
+  - first:
+      213: 5554359659382523280
+    second: Firefly Squid_137
+  - first:
+      213: -5071129054305228390
+    second: Firefly Squid_138
+  - first:
+      213: 1324173866329014222
+    second: Firefly Squid_139
+  - first:
+      213: -1091711220377133785
+    second: Firefly Squid_140
+  - first:
+      213: 4127124254075187320
+    second: Firefly Squid_141
+  - first:
+      213: 5418274735463583794
+    second: Firefly Squid_142
+  - first:
+      213: 4016036823733195108
+    second: Firefly Squid_143
+  - first:
+      213: -3506808737067313408
+    second: Firefly Squid_144
+  - first:
+      213: -5219646843538754908
+    second: Firefly Squid_145
+  - first:
+      213: 3559844249978621396
+    second: Firefly Squid_146
+  - first:
+      213: -1297729881457939926
+    second: Firefly Squid_147
+  - first:
+      213: 1215649394300466041
+    second: Firefly Squid_148
+  - first:
+      213: 740748645045833294
+    second: Firefly Squid_149
+  - first:
+      213: -6825583722636670736
+    second: Firefly Squid_150
+  - first:
+      213: -6696877924908616458
+    second: Firefly Squid_151
+  - first:
+      213: -2825430418362893465
+    second: Firefly Squid_152
+  - first:
+      213: 5707614651849358378
+    second: Firefly Squid_153
+  - first:
+      213: -4290139700470854666
+    second: Firefly Squid_154
+  - first:
+      213: -2014173885990572583
+    second: Firefly Squid_155
+  - first:
+      213: 4283462561241043467
+    second: Firefly Squid_156
+  - first:
+      213: 7327414075567815491
+    second: Firefly Squid_157
+  - first:
+      213: 3586194940719691102
+    second: Firefly Squid_158
+  - first:
+      213: -8063703516664546946
+    second: Firefly Squid_159
+  - first:
+      213: -5035166301528828773
+    second: Firefly Squid_160
+  - first:
+      213: 567552505673838073
+    second: Firefly Squid_161
+  - first:
+      213: 4950210718422900579
+    second: Firefly Squid_162
+  - first:
+      213: 1011178396766656073
+    second: Firefly Squid_163
+  - first:
+      213: 1756064394518972338
+    second: Firefly Squid_164
+  - first:
+      213: 3904668202825385400
+    second: Firefly Squid_165
+  - first:
+      213: -8325363533945750517
+    second: Firefly Squid_166
+  - first:
+      213: -1555003110750168430
+    second: Firefly Squid_167
+  - first:
+      213: -7140573743693759650
+    second: Firefly Squid_168
+  - first:
+      213: -6796860234764074007
+    second: Firefly Squid_169
+  - first:
+      213: -5454414939566237092
+    second: Firefly Squid_170
+  - first:
+      213: 8901291609208542431
+    second: Firefly Squid_171
+  - first:
+      213: 6455100539564159457
+    second: Firefly Squid_172
+  - first:
+      213: -530125895109764199
+    second: Firefly Squid_173
+  - first:
+      213: 4740299081736310356
+    second: Firefly Squid_174
+  - first:
+      213: 7731093965136522648
+    second: Firefly Squid_175
+  - first:
+      213: 8976427162367954747
+    second: Firefly Squid_176
+  - first:
+      213: -6827324120995119911
+    second: Firefly Squid_177
+  - first:
+      213: 5003673175875916627
+    second: Firefly Squid_178
+  - first:
+      213: -1591088863367881346
+    second: Firefly Squid_179
+  - first:
+      213: 7392809150241233490
+    second: Firefly Squid_180
+  - first:
+      213: -810593562223182816
+    second: Firefly Squid_181
+  - first:
+      213: -4456213787491362262
+    second: Firefly Squid_182
+  - first:
+      213: 7213218737208256951
+    second: Firefly Squid_183
+  - first:
+      213: 6786524064886646322
+    second: Firefly Squid_184
+  - first:
+      213: 7571792640008186690
+    second: Firefly Squid_185
+  - first:
+      213: -6005137776592263598
+    second: Firefly Squid_186
+  - first:
+      213: -7798674121146124152
+    second: Firefly Squid_187
+  - first:
+      213: -5800347876381428580
+    second: Firefly Squid_188
+  - first:
+      213: -4489735107108000636
+    second: Firefly Squid_189
+  - first:
+      213: 4431069875226985458
+    second: Firefly Squid_190
+  - first:
+      213: -7057451456115806614
+    second: Firefly Squid_191
+  - first:
+      213: 4843282473281805869
+    second: Firefly Squid_192
+  - first:
+      213: -3119165120233013407
+    second: Firefly Squid_193
+  - first:
+      213: -2267276747759646573
+    second: Firefly Squid_194
+  - first:
+      213: 5300910758544567939
+    second: Firefly Squid_195
+  - first:
+      213: 3973203893952365062
+    second: Firefly Squid_196
+  - first:
+      213: 9197566096669776795
+    second: Firefly Squid_197
+  - first:
+      213: 5096382312557474783
+    second: Firefly Squid_198
+  - first:
+      213: -3712598960014674424
+    second: Firefly Squid_199
+  - first:
+      213: 279521257524384220
+    second: Firefly Squid_200
+  - first:
+      213: 2706386829398486814
+    second: Firefly Squid_201
+  - first:
+      213: -3318560728459201308
+    second: Firefly Squid_202
+  - first:
+      213: 5832007621131019462
+    second: Firefly Squid_203
+  - first:
+      213: 4957993922031079003
+    second: Firefly Squid_204
+  - first:
+      213: -4823059433675392717
+    second: Firefly Squid_205
+  - first:
+      213: 762987590686676559
+    second: Firefly Squid_206
+  - first:
+      213: 8350357967293913038
+    second: Firefly Squid_207
+  - first:
+      213: 1893089857401381489
+    second: Firefly Squid_208
+  - first:
+      213: -3598502311300014539
+    second: Firefly Squid_209
+  - first:
+      213: -3096871649112802312
+    second: Firefly Squid_210
+  - first:
+      213: -2592222879845960979
+    second: Firefly Squid_211
+  - first:
+      213: 1100202789639500417
+    second: Firefly Squid_212
+  - first:
+      213: 7395413344112437090
+    second: Firefly Squid_213
+  - first:
+      213: -4653966991494848355
+    second: Firefly Squid_214
+  - first:
+      213: 4885875557472556108
+    second: Firefly Squid_215
+  - first:
+      213: -1872514267343270794
+    second: Firefly Squid_216
+  - first:
+      213: -5505696272989024551
+    second: Firefly Squid_217
+  - first:
+      213: 8856015635757958889
+    second: Firefly Squid_218
+  - first:
+      213: 6574845989872236527
+    second: Firefly Squid_219
+  - first:
+      213: 1141187303239465821
+    second: Firefly Squid_220
+  - first:
+      213: -7881888012882530408
+    second: Firefly Squid_221
+  - first:
+      213: 3222844972916595686
+    second: Firefly Squid_222
+  - first:
+      213: -6569677950979411781
+    second: Firefly Squid_223
+  - first:
+      213: 6114125569270671359
+    second: Firefly Squid_224
+  - first:
+      213: 2613215601811370206
+    second: Firefly Squid_225
+  - first:
+      213: 3729699269625893016
+    second: Firefly Squid_226
+  - first:
+      213: -2186388259703143704
+    second: Firefly Squid_227
+  - first:
+      213: -5521712573797122889
+    second: Firefly Squid_228
+  - first:
+      213: 869240129342786480
+    second: Firefly Squid_229
+  - first:
+      213: -2970906391074292890
+    second: Firefly Squid_230
+  - first:
+      213: 3044936609043549922
+    second: Firefly Squid_231
+  - first:
+      213: -5011911703420461049
+    second: Firefly Squid_232
+  - first:
+      213: -8597954146354925129
+    second: Firefly Squid_233
+  - first:
+      213: 4457508176279485942
+    second: Firefly Squid_234
+  - first:
+      213: 9172712681334332250
+    second: Firefly Squid_235
+  - first:
+      213: 4946917596461162706
+    second: Firefly Squid_236
+  - first:
+      213: 3532866635637320270
+    second: Firefly Squid_237
+  - first:
+      213: -7897066692107164464
+    second: Firefly Squid_238
+  - first:
+      213: 3160862663246096935
+    second: Firefly Squid_239
+  - first:
+      213: -8030583610385980295
+    second: Firefly Squid_240
+  - first:
+      213: 5001438844751413284
+    second: Firefly Squid_241
+  - first:
+      213: -731663676163546763
+    second: Firefly Squid_242
+  - first:
+      213: -247618388347436255
+    second: Firefly Squid_243
+  - first:
+      213: 688806625002579532
+    second: Firefly Squid_244
+  - first:
+      213: 8605394033533931331
+    second: Firefly Squid_245
+  - first:
+      213: 7362790907006758215
+    second: Firefly Squid_246
+  - first:
+      213: -2590134900462234908
+    second: Firefly Squid_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firefly Squid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137f73e8cbbe9d4283580ffa023bf51
+      internalID: -801244462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c90120e3ca3d242882ee7cade6088b
+      internalID: -114679537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456507302c0ca4246b35b7178c30de09
+      internalID: -1882274352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7476d79a0c9c0c44a7f2ddd97de460b
+      internalID: 1545734260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f0f4f288b18b4da00dcfb3160feb1
+      internalID: -1968476924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296fc351aecc0243b44e0071c1e0fe4
+      internalID: 1260253290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b5eda33c2e3d489156bdf7de48dbe
+      internalID: 405438298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10accc55a9a750d498af3aa4d215d667
+      internalID: 1540534167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf9c03a9a98934282ba8cc358bbd8b
+      internalID: -688362727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7d84b3f3e5c6147aa42d694380f082
+      internalID: 257752992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f756df1797f9442bc54cdf76c930f2
+      internalID: -1768796202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2eb7252024f2748bc89b2ecd0d2f89
+      internalID: -1016874251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412cb314f00acc4c846035bfb8b9470
+      internalID: -561255399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049ea6342be6c245a07f28671b964bc
+      internalID: -1423434704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c24305dca8934ba553b29f6511d75
+      internalID: 1294192025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f03fcdecbb0b94d924acdbaa6350a5
+      internalID: 1631679716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e22f3f939ff644ac8d567e90c42ea
+      internalID: 1038029728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d366f9b5c7967042be5409d92456acc
+      internalID: 1564771427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_18
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb17b9c3aa4b840b1a4fab013b04ed
+      internalID: 1934150657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_19
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ae112f5147ee49a40df55942db8c5
+      internalID: -214891640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_20
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e669befb1738e4d8e71a79a4812a79
+      internalID: 1221208883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ff3887b49fd24783db26af8626317
+      internalID: -422103282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef28c054d4b11740a692e9519dc829d
+      internalID: 1396851237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1df2c81d8c3424998a37cdb55a8d32
+      internalID: -1226836325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ac53dd99a86a4684e6d2f72f3edde
+      internalID: -2023794227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0cb970ce6dad46bbbefa6c3c5ab85
+      internalID: 1458655138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2d9a793c778a4e9e3172caec96d0d
+      internalID: 139653377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e9b4a62f5a3b48b387a3ddd250e0a
+      internalID: 313850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_28
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f22f08e09de0542b9b13af89705d27
+      internalID: -1732571206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3bea200c76474d8c946369a56e70e
+      internalID: 219482678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a80585a2c0e24fa06e74e2f6c3c22
+      internalID: -880044501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_31
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396719a3a6d1aa548b6d89598bf30fb6
+      internalID: -551206923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_32
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838891c259e6f14096c5a4bb891d1b3
+      internalID: -956436304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_33
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70978dff9f9a884d980e0822199f81a
+      internalID: 664155531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_34
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b167f8c35cbf140b468953288e9ced
+      internalID: 281149238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_35
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad30af900b0403458fa8207b9262955
+      internalID: -1488445806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_36
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ef59fbdd7b0a43a198c0492eb90e5
+      internalID: 1817878338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_37
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b9ea47bcccf3478d45f04632e2a05
+      internalID: 689568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_38
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd43d6324047c694f825a5ea249e86d5
+      internalID: 94071577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_39
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e800debf22c1b749bd6576209bc5ae6
+      internalID: 128609822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_40
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fed742e58dab34fa238e1924bce2b4
+      internalID: 126513774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_41
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373669f3a2943af4d981767afc6b8c8f
+      internalID: -1865578309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c19c790effaf74a9eda70a31f7add5
+      internalID: -551949397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a56c7940209c14d8ea97e2f1dd3290
+      internalID: -1065826672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4edc4e0be0dee4d8c97dd59ecceb14
+      internalID: -872381349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c75e2023cd0e42861170b8e2b03a2
+      internalID: 1572077011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add6e68181339144a29a9f73259f047
+      internalID: -1085645481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b2efddb8482148a5c38b0caeaf506
+      internalID: -1579380336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f2c13041aa1349aae1fd78bca71ba
+      internalID: -955210713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3557deff259149849321c984e52d8
+      internalID: -1669603772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_50
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfaad4d69dd7ff4692f704a7afec33a
+      internalID: -1870011615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_51
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a9013529dd4f43b3533826fa63a00
+      internalID: 935017367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_52
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2b745e04fad5409f5d9d26f88d53f
+      internalID: -197085200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_53
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e79711dd78d784e9ee5d039de155d7
+      internalID: -1157697433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ca1e3e508c4248864c17efdf29e48
+      internalID: -1962071558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_55
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75776b8171e5b419846e37669ba21a
+      internalID: 1665991251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_56
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef1916759a7cb40915d462706ccf07
+      internalID: -549323505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_57
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9284592c7a5148b8b69c48afa2df7
+      internalID: -1103742992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629202a008908e4ea09a5ffc63de30c
+      internalID: -657720717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_59
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e204c7a2f8a6489a1e28718bcf2be
+      internalID: -1511854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_60
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a1c704b5da2a49aa6fa0f5df15618
+      internalID: -473165356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_61
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aea9f0117112742a9b5b9e59b740ac
+      internalID: -738424896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_62
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccfde5957a5e534c98458ac6fc87a85
+      internalID: 158856491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645a1dff33fc9244a94b23bf455b3028
+      internalID: -1094815885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafff97b7b40b5d4ca33edeb9468c26c
+      internalID: 932034443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9235ce849ded4469fdc4b9204917fc
+      internalID: -1369963766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304effdba5cd6c4093e9841cff7b301
+      internalID: 1085801841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f8e07bc18494438498f888ade873f
+      internalID: 579430701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_68
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8045b8a6ca32e46bdafc6dbe32b46a
+      internalID: 838945075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b6dc06815c1d4d87dd28e1c9f53fe
+      internalID: -469512444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_70
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b9b637eb20344c810047bafa4844f
+      internalID: 535782349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_71
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227257f796999d42a8b70a2924be00a
+      internalID: 547332988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_72
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec533199ff6482343b80154b0afc1f4c
+      internalID: 1853016750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_73
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233003dbc436954d96d02652745569e
+      internalID: -2084276546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_74
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10526b4a3f1669147a0a5d94a8c71180
+      internalID: 866390471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_75
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a74d3e430aee9348bf8f9aa7f922360
+      internalID: 245193148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_76
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345dd102bf1c49e4c8142970fcd63553
+      internalID: -128625233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_77
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072cd323b4401847a83ab8ab8b5ba8c
+      internalID: 545894911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_78
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58e5942e7962d40bda8226ffcdda6b
+      internalID: 1797170308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_79
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63390e23dc27f0644906fa1e38f765f9
+      internalID: 523726820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_80
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51960f94e64f114429a4171ffc1e0da9
+      internalID: 579823394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_81
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c1e0ac17a8d343a4efb9ba261ef8e
+      internalID: -919456324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_82
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611685daafd55b14a883ebb14acab7a7
+      internalID: 2006772002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_83
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365f1c2f7e39d54698adfe481f774c4
+      internalID: -542700381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc422f25619a242a32412b88a6a57c
+      internalID: 2103740328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aac88405206eb418c495eb730451e7
+      internalID: -1432959967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f1c585cd319e45a1eea0b6f0686f0
+      internalID: -1885481705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56e9d0b254c7e44a178ffb1e824a5b
+      internalID: -2053674435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a59264b15ef7459ac24f7c8aa0618
+      internalID: -178536367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_89
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816f89065fd033429d3d3f41e291e53
+      internalID: -606079447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_90
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ef512d21e06b46a17e9c273a2c368
+      internalID: 1559386297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_91
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c1e65b829f778488303da97b9dadfd
+      internalID: 940112738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9eb7843e126945a5a6fc9c60e2a06
+      internalID: -1993693999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_93
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce749e561cbb2ca4395071a9d8f8aecb
+      internalID: -1320865777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_94
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df0b62da89c3a47aa9399860476d7d
+      internalID: 145243588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_95
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8a0b94c983de4f87c8a9c0710f715
+      internalID: 281804085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_96
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60996358bb79cde4ab6e36d68512071e
+      internalID: -1199897833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_97
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8edd34085e05409f8300922c7fd54
+      internalID: 262246834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_98
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8fd882b1fdabc41944b3726f6f9d7a
+      internalID: 1748993155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_99
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb9d24832b1cf41ba599f08fd7f3a5
+      internalID: 821278692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_100
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e296c74f36ad734fb2d8c72db90d2ba
+      internalID: -1264836052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_101
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e505f56a792c14788675729d4f3e22
+      internalID: 132689773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_102
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2521ce4937f848a2d019b01cef9b7
+      internalID: -384397970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_103
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc68b52a44c9143ba7bcc57f3098db
+      internalID: 468280623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_104
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c720462d23ce4d8bf39a265c04b78
+      internalID: 656302129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc8287db5cdd15418a74da9e60f7630
+      internalID: 117591797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105cf4f79820b2d40a93125254bc7cc5
+      internalID: -964242495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b1aa7ee8247104ab676c59ecaf11dd
+      internalID: -726672490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_108
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1498a81a7012787448f4ef42f3fadd76
+      internalID: 546018865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6daeb9d205d1347aedef6439e3d4a7
+      internalID: -384287218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6239a1251f454b96188bf34d7c7d3
+      internalID: 249327243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_111
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb1e4bab0613543b59c44512fa74ac
+      internalID: 72203615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_112
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228fd826e515f14f9077e902524135e
+      internalID: 371831847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0971b5e8eb47d47a907e2d9970fa5d
+      internalID: 477398208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_114
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571184d7a20963249bcb5ceadff0c8c9
+      internalID: 1222340499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd6a2fad15d95439f7df1653eb4936
+      internalID: 596345476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_116
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4181e9bfe18840a8d98cbd7f6d23a
+      internalID: 1467328271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8340b94951ba42a94c34c290e5815
+      internalID: 1776008500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_118
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbabae4b24a8ff044baf6745b30e67f3
+      internalID: 232936673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_119
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a95c12c3d9e947bdedf3b97557361
+      internalID: 1328978757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_120
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3d3af83483574e938b0ac93c910f8
+      internalID: 1462461598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_121
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54fbea6c8c1424f9fa329709e38b1c
+      internalID: 84357696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_122
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de88f98ccc026b40b01ec3b96304500
+      internalID: 503547050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_123
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51966b34718f5cb4cb4a88e100957649
+      internalID: 1032783306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_124
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f1f35b244447d41a35cc1d50f1c214
+      internalID: 1658398521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_125
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610cf2d2d38b1c94a9c7c195847331bf
+      internalID: -327987727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb71683ad0316c4eb4a19767c113a4d
+      internalID: 673668970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680bcf04e6968341b688d6b544c6dc6
+      internalID: 1139387208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_128
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d96e029676cf748b3434af5600a732
+      internalID: 506370023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e825674a429381e43ab3fffd48ba852c
+      internalID: 762628529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c222038ac8584d9f4efa86a000fab
+      internalID: -443300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_131
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26899662f2d1d44a4eaf821f51e301
+      internalID: -501174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_132
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65793bc876c7845b90ea8760b174cc
+      internalID: -1197762814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_133
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91741b7ec56693f4d9f32ee76551f77b
+      internalID: -2110378834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_134
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef97f13c12970842a43c03d2921fa5b
+      internalID: -338428947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_135
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a5ee65fec33d43abe2506299fcffa
+      internalID: 1634603995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_136
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842248ceb379c6478c61ff3f72eeb28
+      internalID: -1921958225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_137
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23328e7b7feb81c4f98ad45bf51d9086
+      internalID: -2035848495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_138
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c25ed418b755a4282478cc44785ee0
+      internalID: 1498448291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_139
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85869bf6b518b346ab35c202313df99
+      internalID: -159188260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_140
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a885469dea4db4f86d8fd57134b263
+      internalID: -819866318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_141
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff01277b65dd5f4eafce04f8c62ba63
+      internalID: 1524668737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86678ba9647b05f4e92936544e9e58be
+      internalID: 1957554412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_143
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be87b42ed82f04088947eac0285636
+      internalID: 1314530226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_144
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182872a67c144840ab9b4dc3a9e3fe9
+      internalID: -844209944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_145
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d259c62ff94d31438a35400c99af2ec
+      internalID: 971907257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_146
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2e9c809c827e4f9808726e92dbb93
+      internalID: -1496501784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c83f9a091d6c4780ae7003dccb56b
+      internalID: 553165100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc4df23e55d524493eb301f0fd18d6
+      internalID: -1841624585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb27d62ecda765448b9f4f9ffeabd88
+      internalID: 1544375098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_150
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a8105ccb58614ebdc25df1c807f81
+      internalID: 1534870822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_151
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d3fdb1ecf3e264d9f282f6306eda70
+      internalID: -1745944198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_152
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86974a79b1fbb004aba8b76c3b3fbe93
+      internalID: 1316029594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_153
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e64de9f728e9c4684cf4ae4d1415d2
+      internalID: -751011071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_154
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c1241955835b48b75ab47aba1dca0
+      internalID: -246921962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_155
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5d0cb8024daa478bd606311fba843
+      internalID: -48084086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_156
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af90e0bbef4070448836670c46edf74
+      internalID: 328469686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_157
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca97752527c3547a5de8e34c93bd09
+      internalID: 496714855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_158
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0302fe363bfed46a17c5d0286e80e5
+      internalID: -54793201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_159
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7065c7094b556419fc4908bd140448
+      internalID: -202247667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_160
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb366ef764acb42bb53f8d0c7efb9d
+      internalID: 150490770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_161
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb436e8be13ba04dbca8bf2f6851ac9
+      internalID: -1534698568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_162
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3279d91b6a041940ae3e6efa8ed4b9f
+      internalID: 1914450347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_163
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e8135b92199fa4e922de279f5914af
+      internalID: -391594653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_164
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e06ca76d7ae2c4889062cb17c57d35
+      internalID: 1193769174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_165
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac7293ec303514188f17e4f80ab8a3
+      internalID: 1901992751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_166
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63698d9228f28ca4e8c9bd1dd4913cec
+      internalID: -660445737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_167
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b470f3725a2a14aa62ac0a520ab9d0
+      internalID: -488220486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c05b9f5249235418ca3efab3154433
+      internalID: 1572990104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_169
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c09e12b179b15a44a367528f285a1c6
+      internalID: -1317333855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_170
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ed8e7d9b893a4ebc65327196e84ed
+      internalID: -1914825256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_171
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3411651505961244af82f4784d3204f
+      internalID: 1473357270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_172
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d3e303e9eabb744a148e3855ce94f3
+      internalID: 150488108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_173
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94b4c0a34249049a6f2214a4d97cee
+      internalID: -2037921717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_174
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1e81662a12fc4785ecc2512d17033
+      internalID: 860601952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_175
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c107a4e7ad0ae745b527c17762dbd61
+      internalID: -1770010927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_176
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4782b92b83ac3041b61862cf032a9d5
+      internalID: 808943431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_177
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ca5ff715154f4dad5edf37711bad5
+      internalID: 817422296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_178
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d8ff0eeadb894594283abea96f0be
+      internalID: 1193189098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_179
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77803a847fee4dc409051fcf4e8d0a06
+      internalID: 616324040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_180
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86462d4b5804de04bac3a777c8dcf208
+      internalID: -1742692906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_181
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c4c5a27d433743b7f51eba0897d68
+      internalID: 1838325846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_182
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc88290dc780b844a5ca43cee06a35f
+      internalID: 58040415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_183
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b430bdb5b355e24887e6a3fa1e7d3ab
+      internalID: -1090496105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_184
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12baf6f317856d4e8c67c330ff88363
+      internalID: -329399610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_185
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986211e3b0ecea7499d1ff991873d60c
+      internalID: -758066446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_186
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3020decc47c804c8676a4b7696bfcb
+      internalID: 1388087282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_187
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688cf2ac71d42b428d9a2e73825ef36
+      internalID: -788415975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_188
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f3297a6c8a4643ac25abcbfc77d77
+      internalID: 1857371247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ddb245e3da2942b91cfd4f3ca0eb8
+      internalID: -1095880130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_190
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6639fb96d8818b641b222b413847217e
+      internalID: -1023646339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_191
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae99937cdbda2041bf5edff85a522fb
+      internalID: 1121650028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_192
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638558541531c184dae0323a6bf6b337
+      internalID: -133282304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_193
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a56820c83ffe448d54b59f8f6141f
+      internalID: 1711077183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_194
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501facbaff5c7244e931dbe3b9f77144
+      internalID: 1234205891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_195
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491396dd0fa9e02469a18f5cba05f19c
+      internalID: -688218783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_196
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769acb07c1ea5e4a89bab930531d78c
+      internalID: -1472426607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_197
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2535fa732ed1d14c91d572d2a5a8d76
+      internalID: 189902788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_198
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469f8b491c1923488fbbf1282724b5d
+      internalID: -593316217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_199
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672a75a7102f584182d9dbde0a5a0dd
+      internalID: -1409818266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_200
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccd8cc15fdff346979cf8dbe8bb0e4
+      internalID: -1814098926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_201
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271091ccb035e046826c8235cf496c6
+      internalID: -318649796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_202
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d8ee19aaea8864e84b06a08804b941
+      internalID: 1586173377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_203
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4fb4710ab55334a99c18da38e5c130
+      internalID: 127111668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_204
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dff822518c0494881ca3ced6513e97
+      internalID: -219537631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_205
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d482c93155f508940a806e996dab9e04
+      internalID: 960774506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_206
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24b3f8e8bb52a429d655fc3eb6dae2
+      internalID: 723358740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_207
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ec925a328c2b4bb3ab4fe439db52e
+      internalID: 1304299725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_208
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cffdfec789276047a048e5e841421ff
+      internalID: -730402275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_209
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be207c927739294a86beb14258a82d0
+      internalID: 582895229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437924aa2fd5ab54888e75a4712c004d
+      internalID: 670001353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_211
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de3a480f636737428040cdc61636557
+      internalID: 710991967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_212
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a59693553cfe24793f528051506c72
+      internalID: -1261626755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_213
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef757879b887db147851d5ed5d452f94
+      internalID: -121456413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_214
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c9590eb363754c8c7015e38ae10c6
+      internalID: 734830508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_215
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec636de7cc34d44b0c652ade67f80e
+      internalID: -944491032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_216
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14923191f463ba24b84dac055bdf5066
+      internalID: -1672433688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_217
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a9f20d69545242932082093c3eccb
+      internalID: 970523109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_218
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc46632437c28f4dbd41af778ab8b4d
+      internalID: -1537471837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_219
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e541a2fa8c21241b4898387bd436df
+      internalID: 1983802215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_220
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e35f8b40ddb974380bd0b3601aba6e
+      internalID: -195887885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_221
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1744a9ca61606a41a6f568e2f857f7d
+      internalID: -284151465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_222
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61931ee609020124f896ff9765b45797
+      internalID: 581144499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_223
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdff2bc0d2e6ab4688bca11768e9465
+      internalID: 1235081452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_224
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12fa88cc3d406a468469f040fc738c3
+      internalID: 621140817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_225
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455c462eeb5d7f4a9ad0b38976f8264
+      internalID: -837069734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_226
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533ca9055c64384fad2792768019040
+      internalID: -1209980201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_227
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5958ec4435c3ce44877536e5f1ec77d
+      internalID: 502998342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_228
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6b05eedbbfb34dbf7a5d6005b9ecd
+      internalID: -2087867528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_229
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228ca7aa7838ab458a6f5af1d1bd13c
+      internalID: 694293063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_230
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650e2b310d851b3418d16e2dd9d3d6cc
+      internalID: -758718890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86d603bfb4f5a4bb0aae3e9f86798d
+      internalID: -1285846391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_232
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bd7aa490dda58418b258d5ee70095f
+      internalID: 857167164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_233
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8042fa14a7bb524a9a6e4c30e10f1c0
+      internalID: 1108917201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_234
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfc643a5459e8e4cba62d958c4c6290
+      internalID: -1703616646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_235
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ba875136b1c94ebed94f0c755b837
+      internalID: 1739356762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_236
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f5251367bba3408713d21b9487c51
+      internalID: -2079225415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_237
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aad2ab30f6e3146a82e4ef19b801de
+      internalID: -1122484748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_238
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d64ab8e1a5a9c4c8cdba6b38df5c1a
+      internalID: 96579233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firefly Squid_239
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb2dc918aad8f4e9f5261b6bf7749a
+      internalID: 138705719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d252596dff5eff34cac29eb0842fd350
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Firefly Squid_0: -801244462
+      Firefly Squid_1: -114679537
+      Firefly Squid_10: -1768796202
+      Firefly Squid_100: -1264836052
+      Firefly Squid_101: 132689773
+      Firefly Squid_102: -384397970
+      Firefly Squid_103: 468280623
+      Firefly Squid_104: 656302129
+      Firefly Squid_105: 117591797
+      Firefly Squid_106: -964242495
+      Firefly Squid_107: -726672490
+      Firefly Squid_108: 546018865
+      Firefly Squid_109: -384287218
+      Firefly Squid_11: -1016874251
+      Firefly Squid_110: 249327243
+      Firefly Squid_111: 72203615
+      Firefly Squid_112: 371831847
+      Firefly Squid_113: 477398208
+      Firefly Squid_114: 1222340499
+      Firefly Squid_115: 596345476
+      Firefly Squid_116: 1467328271
+      Firefly Squid_117: 1776008500
+      Firefly Squid_118: 232936673
+      Firefly Squid_119: 1328978757
+      Firefly Squid_12: -561255399
+      Firefly Squid_120: 1462461598
+      Firefly Squid_121: 84357696
+      Firefly Squid_122: 503547050
+      Firefly Squid_123: 1032783306
+      Firefly Squid_124: 1658398521
+      Firefly Squid_125: -327987727
+      Firefly Squid_126: 673668970
+      Firefly Squid_127: 1139387208
+      Firefly Squid_128: 506370023
+      Firefly Squid_129: 762628529
+      Firefly Squid_13: -1423434704
+      Firefly Squid_130: -443300946
+      Firefly Squid_131: -501174567
+      Firefly Squid_132: -1197762814
+      Firefly Squid_133: -2110378834
+      Firefly Squid_134: -338428947
+      Firefly Squid_135: 1634603995
+      Firefly Squid_136: -1921958225
+      Firefly Squid_137: -2035848495
+      Firefly Squid_138: 1498448291
+      Firefly Squid_139: -159188260
+      Firefly Squid_14: 1294192025
+      Firefly Squid_140: -819866318
+      Firefly Squid_141: 1524668737
+      Firefly Squid_142: 1957554412
+      Firefly Squid_143: 1314530226
+      Firefly Squid_144: -844209944
+      Firefly Squid_145: 971907257
+      Firefly Squid_146: -1496501784
+      Firefly Squid_147: 553165100
+      Firefly Squid_148: -1841624585
+      Firefly Squid_149: 1544375098
+      Firefly Squid_15: 1631679716
+      Firefly Squid_150: 1534870822
+      Firefly Squid_151: -1745944198
+      Firefly Squid_152: 1316029594
+      Firefly Squid_153: -751011071
+      Firefly Squid_154: -246921962
+      Firefly Squid_155: -48084086
+      Firefly Squid_156: 328469686
+      Firefly Squid_157: 496714855
+      Firefly Squid_158: -54793201
+      Firefly Squid_159: -202247667
+      Firefly Squid_16: 1038029728
+      Firefly Squid_160: 150490770
+      Firefly Squid_161: -1534698568
+      Firefly Squid_162: 1914450347
+      Firefly Squid_163: -391594653
+      Firefly Squid_164: 1193769174
+      Firefly Squid_165: 1901992751
+      Firefly Squid_166: -660445737
+      Firefly Squid_167: -488220486
+      Firefly Squid_168: 1572990104
+      Firefly Squid_169: -1317333855
+      Firefly Squid_17: 1564771427
+      Firefly Squid_170: -1914825256
+      Firefly Squid_171: 1473357270
+      Firefly Squid_172: 150488108
+      Firefly Squid_173: -2037921717
+      Firefly Squid_174: 860601952
+      Firefly Squid_175: -1770010927
+      Firefly Squid_176: 808943431
+      Firefly Squid_177: 817422296
+      Firefly Squid_178: 1193189098
+      Firefly Squid_179: 616324040
+      Firefly Squid_18: 1934150657
+      Firefly Squid_180: -1742692906
+      Firefly Squid_181: 1838325846
+      Firefly Squid_182: 58040415
+      Firefly Squid_183: -1090496105
+      Firefly Squid_184: -329399610
+      Firefly Squid_185: -758066446
+      Firefly Squid_186: 1388087282
+      Firefly Squid_187: -788415975
+      Firefly Squid_188: 1857371247
+      Firefly Squid_189: -1095880130
+      Firefly Squid_19: -214891640
+      Firefly Squid_190: -1023646339
+      Firefly Squid_191: 1121650028
+      Firefly Squid_192: -133282304
+      Firefly Squid_193: 1711077183
+      Firefly Squid_194: 1234205891
+      Firefly Squid_195: -688218783
+      Firefly Squid_196: -1472426607
+      Firefly Squid_197: 189902788
+      Firefly Squid_198: -593316217
+      Firefly Squid_199: -1409818266
+      Firefly Squid_2: -1882274352
+      Firefly Squid_20: 1221208883
+      Firefly Squid_200: -1814098926
+      Firefly Squid_201: -318649796
+      Firefly Squid_202: 1586173377
+      Firefly Squid_203: 127111668
+      Firefly Squid_204: -219537631
+      Firefly Squid_205: 960774506
+      Firefly Squid_206: 723358740
+      Firefly Squid_207: 1304299725
+      Firefly Squid_208: -730402275
+      Firefly Squid_209: 582895229
+      Firefly Squid_21: -422103282
+      Firefly Squid_210: 670001353
+      Firefly Squid_211: 710991967
+      Firefly Squid_212: -1261626755
+      Firefly Squid_213: -121456413
+      Firefly Squid_214: 734830508
+      Firefly Squid_215: -944491032
+      Firefly Squid_216: -1672433688
+      Firefly Squid_217: 970523109
+      Firefly Squid_218: -1537471837
+      Firefly Squid_219: 1983802215
+      Firefly Squid_22: 1396851237
+      Firefly Squid_220: -195887885
+      Firefly Squid_221: -284151465
+      Firefly Squid_222: 581144499
+      Firefly Squid_223: 1235081452
+      Firefly Squid_224: 621140817
+      Firefly Squid_225: -837069734
+      Firefly Squid_226: -1209980201
+      Firefly Squid_227: 502998342
+      Firefly Squid_228: -2087867528
+      Firefly Squid_229: 694293063
+      Firefly Squid_23: -1226836325
+      Firefly Squid_230: -758718890
+      Firefly Squid_231: -1285846391
+      Firefly Squid_232: 857167164
+      Firefly Squid_233: 1108917201
+      Firefly Squid_234: -1703616646
+      Firefly Squid_235: 1739356762
+      Firefly Squid_236: -2079225415
+      Firefly Squid_237: -1122484748
+      Firefly Squid_238: 96579233
+      Firefly Squid_239: 138705719
+      Firefly Squid_24: -2023794227
+      Firefly Squid_25: 1458655138
+      Firefly Squid_26: 139653377
+      Firefly Squid_27: 313850242
+      Firefly Squid_28: -1732571206
+      Firefly Squid_29: 219482678
+      Firefly Squid_3: 1545734260
+      Firefly Squid_30: -880044501
+      Firefly Squid_31: -551206923
+      Firefly Squid_32: -956436304
+      Firefly Squid_33: 664155531
+      Firefly Squid_34: 281149238
+      Firefly Squid_35: -1488445806
+      Firefly Squid_36: 1817878338
+      Firefly Squid_37: 689568881
+      Firefly Squid_38: 94071577
+      Firefly Squid_39: 128609822
+      Firefly Squid_4: -1968476924
+      Firefly Squid_40: 126513774
+      Firefly Squid_41: -1865578309
+      Firefly Squid_42: -551949397
+      Firefly Squid_43: -1065826672
+      Firefly Squid_44: -872381349
+      Firefly Squid_45: 1572077011
+      Firefly Squid_46: -1085645481
+      Firefly Squid_47: -1579380336
+      Firefly Squid_48: -955210713
+      Firefly Squid_49: -1669603772
+      Firefly Squid_5: 1260253290
+      Firefly Squid_50: -1870011615
+      Firefly Squid_51: 935017367
+      Firefly Squid_52: -197085200
+      Firefly Squid_53: -1157697433
+      Firefly Squid_54: -1962071558
+      Firefly Squid_55: 1665991251
+      Firefly Squid_56: -549323505
+      Firefly Squid_57: -1103742992
+      Firefly Squid_58: -657720717
+      Firefly Squid_59: -1511854902
+      Firefly Squid_6: 405438298
+      Firefly Squid_60: -473165356
+      Firefly Squid_61: -738424896
+      Firefly Squid_62: 158856491
+      Firefly Squid_63: -1094815885
+      Firefly Squid_64: 932034443
+      Firefly Squid_65: -1369963766
+      Firefly Squid_66: 1085801841
+      Firefly Squid_67: 579430701
+      Firefly Squid_68: 838945075
+      Firefly Squid_69: -469512444
+      Firefly Squid_7: 1540534167
+      Firefly Squid_70: 535782349
+      Firefly Squid_71: 547332988
+      Firefly Squid_72: 1853016750
+      Firefly Squid_73: -2084276546
+      Firefly Squid_74: 866390471
+      Firefly Squid_75: 245193148
+      Firefly Squid_76: -128625233
+      Firefly Squid_77: 545894911
+      Firefly Squid_78: 1797170308
+      Firefly Squid_79: 523726820
+      Firefly Squid_8: -688362727
+      Firefly Squid_80: 579823394
+      Firefly Squid_81: -919456324
+      Firefly Squid_82: 2006772002
+      Firefly Squid_83: -542700381
+      Firefly Squid_84: 2103740328
+      Firefly Squid_85: -1432959967
+      Firefly Squid_86: -1885481705
+      Firefly Squid_87: -2053674435
+      Firefly Squid_88: -178536367
+      Firefly Squid_89: -606079447
+      Firefly Squid_9: 257752992
+      Firefly Squid_90: 1559386297
+      Firefly Squid_91: 940112738
+      Firefly Squid_92: -1993693999
+      Firefly Squid_93: -1320865777
+      Firefly Squid_94: 145243588
+      Firefly Squid_95: 281804085
+      Firefly Squid_96: -1199897833
+      Firefly Squid_97: 262246834
+      Firefly Squid_98: 1748993155
+      Firefly Squid_99: 821278692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

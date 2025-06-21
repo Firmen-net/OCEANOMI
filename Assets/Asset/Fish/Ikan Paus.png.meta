@@ -1,0 +1,4146 @@
+fileFormatVersion: 2
+guid: 93766ebf82e357947b9853fda65c9bc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6928274037627933541
+    second: Ikan Paus_0
+  - first:
+      213: -5675796031132047605
+    second: Ikan Paus_1
+  - first:
+      213: 7958746847924002488
+    second: Ikan Paus_2
+  - first:
+      213: -5649263176369745515
+    second: Ikan Paus_3
+  - first:
+      213: 6751788316437573290
+    second: Ikan Paus_4
+  - first:
+      213: -9024356386032895266
+    second: Ikan Paus_5
+  - first:
+      213: 6601377537536003185
+    second: Ikan Paus_6
+  - first:
+      213: -8909000119315297670
+    second: Ikan Paus_7
+  - first:
+      213: -3747725592691622370
+    second: Ikan Paus_8
+  - first:
+      213: -888624216684261514
+    second: Ikan Paus_9
+  - first:
+      213: -3981926707267194466
+    second: Ikan Paus_10
+  - first:
+      213: 7186875248770073790
+    second: Ikan Paus_11
+  - first:
+      213: 4285938129666058108
+    second: Ikan Paus_12
+  - first:
+      213: 2500879695989167542
+    second: Ikan Paus_13
+  - first:
+      213: -3055925154825174504
+    second: Ikan Paus_14
+  - first:
+      213: 3090388499006941797
+    second: Ikan Paus_15
+  - first:
+      213: -8312142164040694473
+    second: Ikan Paus_16
+  - first:
+      213: 2680154366481543961
+    second: Ikan Paus_17
+  - first:
+      213: -460955004152722829
+    second: Ikan Paus_18
+  - first:
+      213: -7562534548036930045
+    second: Ikan Paus_19
+  - first:
+      213: 4822747566532225879
+    second: Ikan Paus_20
+  - first:
+      213: 3394559264981440283
+    second: Ikan Paus_21
+  - first:
+      213: -8243111246695284250
+    second: Ikan Paus_22
+  - first:
+      213: -994351145875158100
+    second: Ikan Paus_23
+  - first:
+      213: 3313430801507662791
+    second: Ikan Paus_24
+  - first:
+      213: -6149456652062988978
+    second: Ikan Paus_25
+  - first:
+      213: 2187637604244430913
+    second: Ikan Paus_26
+  - first:
+      213: -4789675822532157419
+    second: Ikan Paus_27
+  - first:
+      213: 5672522657789200593
+    second: Ikan Paus_28
+  - first:
+      213: -6321225935595912226
+    second: Ikan Paus_29
+  - first:
+      213: -3347829272457435168
+    second: Ikan Paus_30
+  - first:
+      213: -5048146622695808897
+    second: Ikan Paus_31
+  - first:
+      213: -6553890761400962723
+    second: Ikan Paus_32
+  - first:
+      213: 6040555817070327572
+    second: Ikan Paus_33
+  - first:
+      213: -2911516079819541464
+    second: Ikan Paus_34
+  - first:
+      213: -1229516101335528041
+    second: Ikan Paus_35
+  - first:
+      213: 5978813616530590359
+    second: Ikan Paus_36
+  - first:
+      213: 3390465959395008659
+    second: Ikan Paus_37
+  - first:
+      213: -1291661846991539068
+    second: Ikan Paus_38
+  - first:
+      213: -6878306848601941968
+    second: Ikan Paus_39
+  - first:
+      213: -9004144569265323678
+    second: Ikan Paus_40
+  - first:
+      213: 7139330027791027813
+    second: Ikan Paus_41
+  - first:
+      213: 284623101805509541
+    second: Ikan Paus_42
+  - first:
+      213: -6442978206859756499
+    second: Ikan Paus_43
+  - first:
+      213: -6148356602651046465
+    second: Ikan Paus_44
+  - first:
+      213: 5446105129421403470
+    second: Ikan Paus_45
+  - first:
+      213: 3283063977239249970
+    second: Ikan Paus_46
+  - first:
+      213: -1123696551634905600
+    second: Ikan Paus_47
+  - first:
+      213: -2246086775823937021
+    second: Ikan Paus_48
+  - first:
+      213: -4322695745220289293
+    second: Ikan Paus_49
+  - first:
+      213: 3819242208737808115
+    second: Ikan Paus_50
+  - first:
+      213: 8468368380694333693
+    second: Ikan Paus_51
+  - first:
+      213: 796090956686246004
+    second: Ikan Paus_52
+  - first:
+      213: 2905488406869906877
+    second: Ikan Paus_53
+  - first:
+      213: -5368162284735560366
+    second: Ikan Paus_54
+  - first:
+      213: 2607862347683606406
+    second: Ikan Paus_55
+  - first:
+      213: 5894956154691064593
+    second: Ikan Paus_56
+  - first:
+      213: -582494606318329493
+    second: Ikan Paus_57
+  - first:
+      213: 2754196704934405261
+    second: Ikan Paus_58
+  - first:
+      213: -307009433189172617
+    second: Ikan Paus_59
+  - first:
+      213: -2777980169126096810
+    second: Ikan Paus_60
+  - first:
+      213: -7433995277182195004
+    second: Ikan Paus_61
+  - first:
+      213: 5947248950683419541
+    second: Ikan Paus_62
+  - first:
+      213: 6234248199974732911
+    second: Ikan Paus_63
+  - first:
+      213: 5587352615849052144
+    second: Ikan Paus_64
+  - first:
+      213: -7678980608070466270
+    second: Ikan Paus_65
+  - first:
+      213: -7123274345151615207
+    second: Ikan Paus_66
+  - first:
+      213: 5668641636808970280
+    second: Ikan Paus_67
+  - first:
+      213: -726402027247649262
+    second: Ikan Paus_68
+  - first:
+      213: 5995865903657627224
+    second: Ikan Paus_69
+  - first:
+      213: -8350095427256454728
+    second: Ikan Paus_70
+  - first:
+      213: -1523182960710475358
+    second: Ikan Paus_71
+  - first:
+      213: 3495760894443584884
+    second: Ikan Paus_72
+  - first:
+      213: 5410757434932309804
+    second: Ikan Paus_73
+  - first:
+      213: -186988554783068032
+    second: Ikan Paus_74
+  - first:
+      213: 7076355466894794516
+    second: Ikan Paus_75
+  - first:
+      213: 3466721516209506553
+    second: Ikan Paus_76
+  - first:
+      213: 5463585301428981677
+    second: Ikan Paus_77
+  - first:
+      213: 6377173441271508327
+    second: Ikan Paus_78
+  - first:
+      213: -4001184898469270502
+    second: Ikan Paus_79
+  - first:
+      213: 134045215960902634
+    second: Ikan Paus_80
+  - first:
+      213: -2750933250528247735
+    second: Ikan Paus_81
+  - first:
+      213: 6896860210362563668
+    second: Ikan Paus_82
+  - first:
+      213: 5487416097854752502
+    second: Ikan Paus_83
+  - first:
+      213: -4489717053114417448
+    second: Ikan Paus_84
+  - first:
+      213: 2947342706713813544
+    second: Ikan Paus_85
+  - first:
+      213: 4885142354190529723
+    second: Ikan Paus_86
+  - first:
+      213: 7067562827400158647
+    second: Ikan Paus_87
+  - first:
+      213: -86571749198136003
+    second: Ikan Paus_88
+  - first:
+      213: -2140872662316132386
+    second: Ikan Paus_89
+  - first:
+      213: 5245447374406071481
+    second: Ikan Paus_90
+  - first:
+      213: 4825066499202685530
+    second: Ikan Paus_91
+  - first:
+      213: 6098488684159779715
+    second: Ikan Paus_92
+  - first:
+      213: -9157472927045988988
+    second: Ikan Paus_93
+  - first:
+      213: -1635159326442406365
+    second: Ikan Paus_94
+  - first:
+      213: 8147925020188012207
+    second: Ikan Paus_95
+  - first:
+      213: -6877323134574860681
+    second: Ikan Paus_96
+  - first:
+      213: 6594169578316894669
+    second: Ikan Paus_97
+  - first:
+      213: 6071121071897974287
+    second: Ikan Paus_98
+  - first:
+      213: 2503621758203260870
+    second: Ikan Paus_99
+  - first:
+      213: -7629146704136843660
+    second: Ikan Paus_100
+  - first:
+      213: 2516513050618042713
+    second: Ikan Paus_101
+  - first:
+      213: -2907230999046170117
+    second: Ikan Paus_102
+  - first:
+      213: 7399296590016710667
+    second: Ikan Paus_103
+  - first:
+      213: 875856206197027635
+    second: Ikan Paus_104
+  - first:
+      213: 4870819756841711315
+    second: Ikan Paus_105
+  - first:
+      213: 3328772203858149010
+    second: Ikan Paus_106
+  - first:
+      213: -2369488807475236765
+    second: Ikan Paus_107
+  - first:
+      213: 5550149517790045650
+    second: Ikan Paus_108
+  - first:
+      213: -4990289951779233798
+    second: Ikan Paus_109
+  - first:
+      213: 7248721478953790272
+    second: Ikan Paus_110
+  - first:
+      213: 2957568477051937098
+    second: Ikan Paus_111
+  - first:
+      213: -7626515375334620065
+    second: Ikan Paus_112
+  - first:
+      213: -186880276754473740
+    second: Ikan Paus_113
+  - first:
+      213: 4306564199635179835
+    second: Ikan Paus_114
+  - first:
+      213: 4406521800176777883
+    second: Ikan Paus_115
+  - first:
+      213: 2120881549596408260
+    second: Ikan Paus_116
+  - first:
+      213: -4635911963192965456
+    second: Ikan Paus_117
+  - first:
+      213: 2655481074702172510
+    second: Ikan Paus_118
+  - first:
+      213: -6931336121316970361
+    second: Ikan Paus_119
+  - first:
+      213: -986579815325329531
+    second: Ikan Paus_120
+  - first:
+      213: -1709585246168880031
+    second: Ikan Paus_121
+  - first:
+      213: -1361448865031341283
+    second: Ikan Paus_122
+  - first:
+      213: -5688721984394380440
+    second: Ikan Paus_123
+  - first:
+      213: -8233379763936825123
+    second: Ikan Paus_124
+  - first:
+      213: -5952786427701779725
+    second: Ikan Paus_125
+  - first:
+      213: -2554239732767997182
+    second: Ikan Paus_126
+  - first:
+      213: 8397535012428644363
+    second: Ikan Paus_127
+  - first:
+      213: 8590774731308468231
+    second: Ikan Paus_128
+  - first:
+      213: 4654005424601705073
+    second: Ikan Paus_129
+  - first:
+      213: -3748683322189039708
+    second: Ikan Paus_130
+  - first:
+      213: 9202110894930938064
+    second: Ikan Paus_131
+  - first:
+      213: 4476018288332868766
+    second: Ikan Paus_132
+  - first:
+      213: 1133006722298090508
+    second: Ikan Paus_133
+  - first:
+      213: -6619390966873290471
+    second: Ikan Paus_134
+  - first:
+      213: 1227163389370126634
+    second: Ikan Paus_135
+  - first:
+      213: 481406111267828399
+    second: Ikan Paus_136
+  - first:
+      213: -3072353486660684693
+    second: Ikan Paus_137
+  - first:
+      213: 410983026821780383
+    second: Ikan Paus_138
+  - first:
+      213: -5607880097735678707
+    second: Ikan Paus_139
+  - first:
+      213: 5056944181644643330
+    second: Ikan Paus_140
+  - first:
+      213: -1348247741733864438
+    second: Ikan Paus_141
+  - first:
+      213: -2638822660579081189
+    second: Ikan Paus_142
+  - first:
+      213: -7516544637225288843
+    second: Ikan Paus_143
+  - first:
+      213: -2356676968003739050
+    second: Ikan Paus_144
+  - first:
+      213: -2668831504084415191
+    second: Ikan Paus_145
+  - first:
+      213: -5236931506394664511
+    second: Ikan Paus_146
+  - first:
+      213: 7512472181385420431
+    second: Ikan Paus_147
+  - first:
+      213: -217634888164529475
+    second: Ikan Paus_148
+  - first:
+      213: -6734309204524430358
+    second: Ikan Paus_149
+  - first:
+      213: 9129800326581025524
+    second: Ikan Paus_150
+  - first:
+      213: -8030691297199841748
+    second: Ikan Paus_151
+  - first:
+      213: 9162070493401393382
+    second: Ikan Paus_152
+  - first:
+      213: -3846321984748844949
+    second: Ikan Paus_153
+  - first:
+      213: 7495561210083290145
+    second: Ikan Paus_154
+  - first:
+      213: 4026958296295274046
+    second: Ikan Paus_155
+  - first:
+      213: 5422911264696704372
+    second: Ikan Paus_156
+  - first:
+      213: 888956668067404076
+    second: Ikan Paus_157
+  - first:
+      213: -6553343373888693366
+    second: Ikan Paus_158
+  - first:
+      213: -2662590931880015291
+    second: Ikan Paus_159
+  - first:
+      213: -4632097258978274750
+    second: Ikan Paus_160
+  - first:
+      213: 1641668319825069640
+    second: Ikan Paus_161
+  - first:
+      213: -8661265764354675747
+    second: Ikan Paus_162
+  - first:
+      213: -1797387258180962173
+    second: Ikan Paus_163
+  - first:
+      213: -3676644894570633189
+    second: Ikan Paus_164
+  - first:
+      213: -6432566114687678555
+    second: Ikan Paus_165
+  - first:
+      213: -4494100419112212567
+    second: Ikan Paus_166
+  - first:
+      213: 8450570450945156352
+    second: Ikan Paus_167
+  - first:
+      213: 3008948424691211513
+    second: Ikan Paus_168
+  - first:
+      213: 7060618854399132844
+    second: Ikan Paus_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ikan Paus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87064dec4f3f8ec4d84189802ae68b5c
+      internalID: 1557357471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e46c3c43a586a459b57c4788845585
+      internalID: 1236137061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d213a2ae8e3c9498f5a91afbff62c3
+      internalID: -872789560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3eb4dc849fee042b2853325f2a7689
+      internalID: 1126615274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_4
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f487b1692d04e4487392cc2b76f8f9
+      internalID: 1090087434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_5
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b99a1f39653814584f744bf46bde78
+      internalID: -789246418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_6
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60820b386a9e4a74db12c376ff3577f4
+      internalID: 1039968398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_7
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66336d1a9c0fa9a4293801d52e632629
+      internalID: -1044402953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_8
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 8000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840311fd575f81643b0562664c3f194f
+      internalID: -1989876666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4a10c67309924aa960924f1d2029f
+      internalID: 1452415133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_10
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b34b5e3872f4478cb4cfa7c9de421
+      internalID: -1349654672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_11
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188352c919dde8458b2a626bcef5835
+      internalID: 58226922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_12
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa7d56075e1274db650fc74e2a9aeb
+      internalID: 2064762059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_13
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55a3a5f13033047bb451286b157f90
+      internalID: 809308908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_14
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa77af91049c5d418f50d77c4bb943e
+      internalID: -601382830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_15
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe92ca204e48a943a5811f877db78dd
+      internalID: -1758619559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_16
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eff7008330a6743845b9b3d8676d2e
+      internalID: 1891896556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_17
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 7500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d08295e8e57746b06cb1d021906e7
+      internalID: -905449023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df0fdd5ec6a9045892047e4b9e2d81
+      internalID: 1082227294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005cf2d7ed21cd14fa6a29c44db7e61d
+      internalID: 26461569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_20
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7b30875eb82a4dbd8e421b65a073e
+      internalID: 1039328578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_21
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2d8fcdda2d08418dbb2acf9bfb9ea
+      internalID: -1874696176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_22
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ea4f14ae9c0c46941ed536f96ff4f
+      internalID: 1088846744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_23
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564ef2a20bdbb541a2013ee54a4614a
+      internalID: 1434895952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_24
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bb0d873aa9fb4cafd7a7c01b94607
+      internalID: 761584606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_25
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5103f0ced779a741ab5b338153f6ea0
+      internalID: 1462331668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_26
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe25080d419e5749a49317cbbef038e
+      internalID: -1676714315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc953487cbf5e849a6e394980eba020
+      internalID: -808556343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_28
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6b926a77f4084babe834328106308
+      internalID: 59479559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_29
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e6af957ce914a4d896e992abcbd3c0
+      internalID: -1388463252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_30
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c09365308b355469878970bdb79505
+      internalID: 154344781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_31
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e23237164931469cdbf826fdb7290
+      internalID: 443943389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_32
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ddb9f9be8f4ba459932e472c5412b6
+      internalID: -2146162523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_33
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5061f46ae13983d4ea473aa42f150f35
+      internalID: -1168402133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_34
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e53eb091e47d4c9acc17a4352f8cd
+      internalID: 1364649542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_35
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690f8eead1769e4e996a391d59f156c
+      internalID: -984650178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219173ece86cb9742a258c3a07f5191a
+      internalID: -1103829426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_37
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa4c05fd84c79499d308ceec63b317
+      internalID: 759433623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_38
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16839f4db2e1b4a87860e13561ef84
+      internalID: -981151041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_39
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32158ec88517442b3efdb9f4452a6b
+      internalID: -1673206927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_40
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60141d9c7edb8a74a9f9805dcc0e5f53
+      internalID: 1397350159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_41
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba1e25166e3114b80f429b9614f148
+      internalID: 1783627826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_42
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a14af5b42f9f4f9a1c8a807144e35
+      internalID: 410919542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_43
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39073e64c8cb33e4a8131fbac738c96b
+      internalID: 839983437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_44
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe7a80912ebfec4ca3ec869acf117c2
+      internalID: -2074872736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28b2914c01c4d4c9553316502e0d85
+      internalID: -2133739289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_46
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a735aba52d46a19449174af60303457e
+      internalID: 822623316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_47
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02cc8727a6f9b41b760fcc038c7ba6
+      internalID: 1780575202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_48
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40431e4ff1db645999fae81487cd05
+      internalID: -1896183681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_49
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ed199595f181409ad7492e3f21aaa
+      internalID: -882479908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_50
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856877d7a0f65b947aef20d775ec78f7
+      internalID: -856566178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_51
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8456d29aa6e444daca1d60c469d354
+      internalID: 1070928039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_52
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dab11c5abf8044b7cddac0a1b5c1e
+      internalID: 959589867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_53
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3678ef9f7e9a9840bb1df31f329e961
+      internalID: -777570054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87629cdc82d0a7341acb18a63bf498c0
+      internalID: 2090541230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_55
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f30921352d4f4b8c355225ef8cddd
+      internalID: -791096047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_56
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0a6d10696f3444bcfe10d5ef2f731
+      internalID: -1635337970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_57
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc75f19a885bd7142b3fe5ad13ed883b
+      internalID: -589497374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_58
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a264468d95750f46b27e68dcc68a20b
+      internalID: 1980096382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_59
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f870179a97624e9fce5f7038e7a27
+      internalID: 1804831374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_60
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93686c2cde8c7bc479613cadc1b1dae9
+      internalID: 1617342959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_61
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd2208be09280439bb360552b40f6b
+      internalID: 317518912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_62
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a050c13a72734b84d567d87acff85
+      internalID: 851453020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a4c5b0e714b14cb1b5c1ec15610c1
+      internalID: -1098497777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_64
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31158d0a2597ad4788586162633f869
+      internalID: -322203465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_65
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a93a679ad43a34983674df37133b7e
+      internalID: 2049155538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_66
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8cef0d8d646343b090287b98ea399
+      internalID: 896179088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_67
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590036aa3397694f9582decbd2b2127
+      internalID: 1572785765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_68
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4d228979e9ef44a7bd12ec974ebef
+      internalID: 1505024359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_69
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b85054e337b1a444be15cad053f9177
+      internalID: 1018104397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_70
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977038ebb7bc1cd4d931769a9c725502
+      internalID: 1951976022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_71
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6240f12b32c0bca42af9cf137148bd6f
+      internalID: 854358104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953c3fd49e74594380aa50088d6ad66
+      internalID: -616516270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_73
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded22a9dacf01a848a68ae2ad5b6d501
+      internalID: 2134472158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_74
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016628a75de1eee4ea89da24c2cadaf6
+      internalID: 798509839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_75
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5016d0d2da256e4b9a8ba9e1ee4de2f
+      internalID: -6210690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_76
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0fb0517761404f978c97a46ac7b3a
+      internalID: 1760108050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_77
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e1c4404329824cb47da5a996111ad
+      internalID: 1142593783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_78
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426eda0508de52242acb74698bc5b0ff
+      internalID: 1377213974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_79
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c039e2852affe1459d27880a0c5e22a
+      internalID: 245285299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_80
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653d21b7bd3863d45868b2a0fa41655a
+      internalID: 964435547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4faead831586449dbc8dbc31a05ce
+      internalID: -2077481382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_82
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300fea4167bc069498aee81559411af5
+      internalID: 747637265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_83
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58143f641aee2cf408cbe3d6948bfd5c
+      internalID: -1959349463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_84
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7714265958c324389ebb465aa12114
+      internalID: -1075365892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_85
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709cdab8ab476f2419b99776af9cb21d
+      internalID: 2027988278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_86
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b3ed0aa8412044a91b1fbe417aa47
+      internalID: -1635802119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_87
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9e808def0b3f4bab1081501bf11e0
+      internalID: -1614346819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_88
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62dce0d87bd50469484ba9d9a30add
+      internalID: -436052622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_89
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf28a196128024d917ae5bc945080f
+      internalID: -1518337738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e99b0de820684e8e369d8706b558d
+      internalID: -641898339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_91
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4ee8fcc372324fbe302398ece91a5
+      internalID: -1417509250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_92
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf35aeb778a0e448a05c5ea3a3e618c
+      internalID: 1909687601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_93
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac5f8250b269f46a5a7bbcfd77b4db
+      internalID: -1393760146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_94
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0b00e382996d4b845455b05c3c5c9
+      internalID: -412498216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_95
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd82ecdc23b5c934aab8c97f65136f96
+      internalID: -56456623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_96
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5174ed1f3c12643a6e43e7bcb70beb
+      internalID: 1710661680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_97
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafdd4bb2e3cb7f4e979df4cfb8d6249
+      internalID: 641698612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_98
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a2faf818e7fb4e912c137760739bb
+      internalID: 1151790249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cc4318155fc947893d3a38e183fb4
+      internalID: -1506145962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_100
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb795ec1614ea34eaca05c31c2b5cd2
+      internalID: 1618313889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_101
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1f81e95fd2cd4eac6e2824a051adb
+      internalID: 1711124015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_102
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c215ae3005cef41a20baa6882f93e5
+      internalID: -529453097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_103
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5add28e9d9fd649be2c6d96dd52b6b
+      internalID: -426224477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_104
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a061332ca3c565438970caa81e2f9ee
+      internalID: 1743852282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_105
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48797ef6bb0992f4798d653ef2d97eb4
+      internalID: 2147375083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_106
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e7979c3a14f04fbc841ee7c266c92
+      internalID: 996453612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_107
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b802d8a8a8e134994b847d3168493d
+      internalID: 305762203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0991936ae5854287d9add6870724c
+      internalID: -1756571340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_109
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b07c58726a62b4bb496c8ff4264303
+      internalID: 1652222595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_110
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42830099dc5bf494587434ae7b145359
+      internalID: -1509132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_111
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1a1a63e641c543947b33c83098406
+      internalID: -1514494736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_112
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9459b9a21c30e478be5897b92c3fd3
+      internalID: -1368663229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_113
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370ef71dfda4a54581121b320318259
+      internalID: 1665603222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_114
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f96ec1fbb3124b9989ed763e2404e
+      internalID: -165333039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_115
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c8bc833415b049ac31b9733096dac
+      internalID: 793132129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_116
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a24784bb56a9428a208c88b6746c8
+      internalID: 1616284604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140975d215dc2d14cbab512fa8f888f7
+      internalID: 1924741018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_118
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b867ad09ed7c194cbd389c83bc5b189
+      internalID: -2038220547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_119
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713f5a629506554490e7bb00359f099
+      internalID: 2005010953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_120
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979c25a0e764f4498f113eeea59bb95
+      internalID: 343640533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_121
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e17cb2f555f0d4b94487e771c902ff
+      internalID: -515337106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_122
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb4b1764ed83e1419176c2790b4d9ba
+      internalID: -18166234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_123
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc50b4a4d5f9840a0150575ba21522
+      internalID: 2110557707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_124
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab76be16a8d87a4b83a7e9c909cf2c1
+      internalID: -555431679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_125
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e00b7f9e6302e4aac6d7b5d26f3d13
+      internalID: -322932147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfff5e5866f3e24cb9f522cbb5a9436
+      internalID: -1571663995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_127
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2267db61c6b4d46a7f87bc40619f53
+      internalID: 313244017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_128
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c538399bfa47e94487e34d2ede654e8
+      internalID: -216005173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_129
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96af5296efb1a4a927a628e7e914a1
+      internalID: 1839329261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_130
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ac8ff45b3fd04f9d094aab66279e7
+      internalID: -176419757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_131
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a4cfdd00d4234ab8fb81930f40b7c
+      internalID: 2000527558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_132
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ab5d37520b8041912234fa7291845
+      internalID: 73924102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_133
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d919fcb779e34191b64ea4ad280c2
+      internalID: 883809778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_134
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceddec15e487ba4ab01c68fc1ee9054
+      internalID: -501149672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2820afc2af6b864ba891ddf6ae75ad8
+      internalID: 59079378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_136
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6624a8459d4f88b41b9b00f26462afa5
+      internalID: 1159363636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_137
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebf20ff2d47bf4dbf5700bb43cf7a6
+      internalID: 936617498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_138
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6641797563fdf4690e07e38555e8aa
+      internalID: -1709137489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_139
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145ebdc519ef464fab569d8670dd752
+      internalID: 1494058919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_140
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ffde02577d487449243c76ea7ee8f2
+      internalID: -1647088467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_141
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e37b3a999e86459653a0ddbac8aae
+      internalID: 531281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_142
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ad1793d026d84b9d81d9c362d1f21
+      internalID: 1614573436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_143
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053110099c676a47b76e96575657beb
+      internalID: -12187223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8518103e5215b4d8b8697d7cf5437b
+      internalID: 1767324554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_145
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a82afe6f63364f8fd6f684edeacf7
+      internalID: -1040810405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_146
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d207f5f0b18734ab3e6c4757826d21
+      internalID: -1516109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_147
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e092074bf1a244bde6785e438cda7
+      internalID: 1239029555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_148
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1f61c9e6c6f84fad5f5e0c9c0b8f5
+      internalID: -639473678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_149
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2aaab83d427e4484a1246876fce79
+      internalID: 607341314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_150
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447af795e1ec6649929732582d6f3f0
+      internalID: 1628366218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_151
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db17d89d0fc820f4bbe366c40a33d4e6
+      internalID: 1983647158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ikan Paus_152
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696778e40f0c49946968021ad58ba291
+      internalID: -1830207907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10c4d6659286af6448d851dc33b0842a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ikan Paus_0: 1557357471
+      Ikan Paus_1: 1236137061
+      Ikan Paus_10: -1349654672
+      Ikan Paus_100: 1618313889
+      Ikan Paus_101: 1711124015
+      Ikan Paus_102: -529453097
+      Ikan Paus_103: -426224477
+      Ikan Paus_104: 1743852282
+      Ikan Paus_105: 2147375083
+      Ikan Paus_106: 996453612
+      Ikan Paus_107: 305762203
+      Ikan Paus_108: -1756571340
+      Ikan Paus_109: 1652222595
+      Ikan Paus_11: 58226922
+      Ikan Paus_110: -1509132297
+      Ikan Paus_111: -1514494736
+      Ikan Paus_112: -1368663229
+      Ikan Paus_113: 1665603222
+      Ikan Paus_114: -165333039
+      Ikan Paus_115: 793132129
+      Ikan Paus_116: 1616284604
+      Ikan Paus_117: 1924741018
+      Ikan Paus_118: -2038220547
+      Ikan Paus_119: 2005010953
+      Ikan Paus_12: 2064762059
+      Ikan Paus_120: 343640533
+      Ikan Paus_121: -515337106
+      Ikan Paus_122: -18166234
+      Ikan Paus_123: 2110557707
+      Ikan Paus_124: -555431679
+      Ikan Paus_125: -322932147
+      Ikan Paus_126: -1571663995
+      Ikan Paus_127: 313244017
+      Ikan Paus_128: -216005173
+      Ikan Paus_129: 1839329261
+      Ikan Paus_13: 809308908
+      Ikan Paus_130: -176419757
+      Ikan Paus_131: 2000527558
+      Ikan Paus_132: 73924102
+      Ikan Paus_133: 883809778
+      Ikan Paus_134: -501149672
+      Ikan Paus_135: 59079378
+      Ikan Paus_136: 1159363636
+      Ikan Paus_137: 936617498
+      Ikan Paus_138: -1709137489
+      Ikan Paus_139: 1494058919
+      Ikan Paus_14: -601382830
+      Ikan Paus_140: -1647088467
+      Ikan Paus_141: 531281328
+      Ikan Paus_142: 1614573436
+      Ikan Paus_143: -12187223
+      Ikan Paus_144: 1767324554
+      Ikan Paus_145: -1040810405
+      Ikan Paus_146: -1516109752
+      Ikan Paus_147: 1239029555
+      Ikan Paus_148: -639473678
+      Ikan Paus_149: 607341314
+      Ikan Paus_15: -1758619559
+      Ikan Paus_150: 1628366218
+      Ikan Paus_151: 1983647158
+      Ikan Paus_152: -1830207907
+      Ikan Paus_16: 1891896556
+      Ikan Paus_17: -905449023
+      Ikan Paus_18: 1082227294
+      Ikan Paus_19: 26461569
+      Ikan Paus_2: -872789560
+      Ikan Paus_20: 1039328578
+      Ikan Paus_21: -1874696176
+      Ikan Paus_22: 1088846744
+      Ikan Paus_23: 1434895952
+      Ikan Paus_24: 761584606
+      Ikan Paus_25: 1462331668
+      Ikan Paus_26: -1676714315
+      Ikan Paus_27: -808556343
+      Ikan Paus_28: 59479559
+      Ikan Paus_29: -1388463252
+      Ikan Paus_3: 1126615274
+      Ikan Paus_30: 154344781
+      Ikan Paus_31: 443943389
+      Ikan Paus_32: -2146162523
+      Ikan Paus_33: -1168402133
+      Ikan Paus_34: 1364649542
+      Ikan Paus_35: -984650178
+      Ikan Paus_36: -1103829426
+      Ikan Paus_37: 759433623
+      Ikan Paus_38: -981151041
+      Ikan Paus_39: -1673206927
+      Ikan Paus_4: 1090087434
+      Ikan Paus_40: 1397350159
+      Ikan Paus_41: 1783627826
+      Ikan Paus_42: 410919542
+      Ikan Paus_43: 839983437
+      Ikan Paus_44: -2074872736
+      Ikan Paus_45: -2133739289
+      Ikan Paus_46: 822623316
+      Ikan Paus_47: 1780575202
+      Ikan Paus_48: -1896183681
+      Ikan Paus_49: -882479908
+      Ikan Paus_5: -789246418
+      Ikan Paus_50: -856566178
+      Ikan Paus_51: 1070928039
+      Ikan Paus_52: 959589867
+      Ikan Paus_53: -777570054
+      Ikan Paus_54: 2090541230
+      Ikan Paus_55: -791096047
+      Ikan Paus_56: -1635337970
+      Ikan Paus_57: -589497374
+      Ikan Paus_58: 1980096382
+      Ikan Paus_59: 1804831374
+      Ikan Paus_6: 1039968398
+      Ikan Paus_60: 1617342959
+      Ikan Paus_61: 317518912
+      Ikan Paus_62: 851453020
+      Ikan Paus_63: -1098497777
+      Ikan Paus_64: -322203465
+      Ikan Paus_65: 2049155538
+      Ikan Paus_66: 896179088
+      Ikan Paus_67: 1572785765
+      Ikan Paus_68: 1505024359
+      Ikan Paus_69: 1018104397
+      Ikan Paus_7: -1044402953
+      Ikan Paus_70: 1951976022
+      Ikan Paus_71: 854358104
+      Ikan Paus_72: -616516270
+      Ikan Paus_73: 2134472158
+      Ikan Paus_74: 798509839
+      Ikan Paus_75: -6210690
+      Ikan Paus_76: 1760108050
+      Ikan Paus_77: 1142593783
+      Ikan Paus_78: 1377213974
+      Ikan Paus_79: 245285299
+      Ikan Paus_8: -1989876666
+      Ikan Paus_80: 964435547
+      Ikan Paus_81: -2077481382
+      Ikan Paus_82: 747637265
+      Ikan Paus_83: -1959349463
+      Ikan Paus_84: -1075365892
+      Ikan Paus_85: 2027988278
+      Ikan Paus_86: -1635802119
+      Ikan Paus_87: -1614346819
+      Ikan Paus_88: -436052622
+      Ikan Paus_89: -1518337738
+      Ikan Paus_9: 1452415133
+      Ikan Paus_90: -641898339
+      Ikan Paus_91: -1417509250
+      Ikan Paus_92: 1909687601
+      Ikan Paus_93: -1393760146
+      Ikan Paus_94: -412498216
+      Ikan Paus_95: -56456623
+      Ikan Paus_96: 1710661680
+      Ikan Paus_97: 641698612
+      Ikan Paus_98: 1151790249
+      Ikan Paus_99: -1506145962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 1ad7cd3219660b649b41b1ff05094353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8207806517948876240
+    second: Belut Laut_0
+  - first:
+      213: -7932660300605341292
+    second: Belut Laut_1
+  - first:
+      213: 3028420577368820793
+    second: Belut Laut_2
+  - first:
+      213: -8689708018792738393
+    second: Belut Laut_3
+  - first:
+      213: 7584798145626630384
+    second: Belut Laut_4
+  - first:
+      213: -275921830802630863
+    second: Belut Laut_5
+  - first:
+      213: 401552920462610921
+    second: Belut Laut_6
+  - first:
+      213: -7985139472140695143
+    second: Belut Laut_7
+  - first:
+      213: -5106589532449943189
+    second: Belut Laut_8
+  - first:
+      213: 91880080061224146
+    second: Belut Laut_9
+  - first:
+      213: 5543138211904573949
+    second: Belut Laut_10
+  - first:
+      213: 5724735695941407480
+    second: Belut Laut_11
+  - first:
+      213: 1880741183278365497
+    second: Belut Laut_12
+  - first:
+      213: 2094777686460593015
+    second: Belut Laut_13
+  - first:
+      213: -52862191337134176
+    second: Belut Laut_14
+  - first:
+      213: 8716555114816001738
+    second: Belut Laut_15
+  - first:
+      213: -2995156369587844510
+    second: Belut Laut_16
+  - first:
+      213: -74429156160690314
+    second: Belut Laut_17
+  - first:
+      213: 5347871817071938399
+    second: Belut Laut_18
+  - first:
+      213: 2803509679520829721
+    second: Belut Laut_19
+  - first:
+      213: -1675015341187635321
+    second: Belut Laut_20
+  - first:
+      213: 639925693851618109
+    second: Belut Laut_21
+  - first:
+      213: 2090065295671737519
+    second: Belut Laut_22
+  - first:
+      213: 2306759602845327962
+    second: Belut Laut_23
+  - first:
+      213: -724981678354429533
+    second: Belut Laut_24
+  - first:
+      213: -6642581024432788325
+    second: Belut Laut_25
+  - first:
+      213: 3313047603099393225
+    second: Belut Laut_26
+  - first:
+      213: -37856168472245908
+    second: Belut Laut_27
+  - first:
+      213: -1891328576691607320
+    second: Belut Laut_28
+  - first:
+      213: -8501879760492344982
+    second: Belut Laut_29
+  - first:
+      213: 4715156048230206251
+    second: Belut Laut_30
+  - first:
+      213: 7475121908010912936
+    second: Belut Laut_31
+  - first:
+      213: -7998092770537638001
+    second: Belut Laut_32
+  - first:
+      213: 7144208797661682941
+    second: Belut Laut_33
+  - first:
+      213: 7049836679813502355
+    second: Belut Laut_34
+  - first:
+      213: -2678254417821897262
+    second: Belut Laut_35
+  - first:
+      213: -2963138547002588928
+    second: Belut Laut_36
+  - first:
+      213: -6670338425164238985
+    second: Belut Laut_37
+  - first:
+      213: 1583542855192413401
+    second: Belut Laut_38
+  - first:
+      213: -8510802047644845977
+    second: Belut Laut_39
+  - first:
+      213: -4144570431230329367
+    second: Belut Laut_40
+  - first:
+      213: 5250071962467751540
+    second: Belut Laut_41
+  - first:
+      213: -5457986647361763417
+    second: Belut Laut_42
+  - first:
+      213: -3845103108780213660
+    second: Belut Laut_43
+  - first:
+      213: -5290863051077421277
+    second: Belut Laut_44
+  - first:
+      213: 4469558116576652447
+    second: Belut Laut_45
+  - first:
+      213: -6355589670240007318
+    second: Belut Laut_46
+  - first:
+      213: -6837367228295881335
+    second: Belut Laut_47
+  - first:
+      213: -2785691567147985751
+    second: Belut Laut_48
+  - first:
+      213: -1434002491167556805
+    second: Belut Laut_49
+  - first:
+      213: -5778275291468551556
+    second: Belut Laut_50
+  - first:
+      213: 6307944275039539961
+    second: Belut Laut_51
+  - first:
+      213: 6851793971753857022
+    second: Belut Laut_52
+  - first:
+      213: -6542715576814911450
+    second: Belut Laut_53
+  - first:
+      213: 3605139506177392196
+    second: Belut Laut_54
+  - first:
+      213: 6032606637040012730
+    second: Belut Laut_55
+  - first:
+      213: 22721704434810228
+    second: Belut Laut_56
+  - first:
+      213: 3875028144925218383
+    second: Belut Laut_57
+  - first:
+      213: -2301366611630906346
+    second: Belut Laut_58
+  - first:
+      213: -8768607631357168238
+    second: Belut Laut_59
+  - first:
+      213: -6822209314115368144
+    second: Belut Laut_60
+  - first:
+      213: 7305869765359009125
+    second: Belut Laut_61
+  - first:
+      213: 2944763307300194596
+    second: Belut Laut_62
+  - first:
+      213: 6544418045341719115
+    second: Belut Laut_63
+  - first:
+      213: -5661215816933958158
+    second: Belut Laut_64
+  - first:
+      213: -5310693910423090246
+    second: Belut Laut_65
+  - first:
+      213: 2460790566644077838
+    second: Belut Laut_66
+  - first:
+      213: -7302923474847800544
+    second: Belut Laut_67
+  - first:
+      213: -5424978571671143710
+    second: Belut Laut_68
+  - first:
+      213: -1915954137932554630
+    second: Belut Laut_69
+  - first:
+      213: 9159649996974621329
+    second: Belut Laut_70
+  - first:
+      213: -9003826872394937791
+    second: Belut Laut_71
+  - first:
+      213: -2641058173032223235
+    second: Belut Laut_72
+  - first:
+      213: -623816801330937856
+    second: Belut Laut_73
+  - first:
+      213: -6241023451806575535
+    second: Belut Laut_74
+  - first:
+      213: -5213094696801044842
+    second: Belut Laut_75
+  - first:
+      213: -4307443630884284711
+    second: Belut Laut_76
+  - first:
+      213: -5845074351678344811
+    second: Belut Laut_77
+  - first:
+      213: 3051970202397107074
+    second: Belut Laut_78
+  - first:
+      213: -6682530603452360531
+    second: Belut Laut_79
+  - first:
+      213: -9079523022632378238
+    second: Belut Laut_80
+  - first:
+      213: 427079639701708356
+    second: Belut Laut_81
+  - first:
+      213: 6153743283828182798
+    second: Belut Laut_82
+  - first:
+      213: -5330273057610543679
+    second: Belut Laut_83
+  - first:
+      213: -7964104418958701130
+    second: Belut Laut_84
+  - first:
+      213: 7012217794387535638
+    second: Belut Laut_85
+  - first:
+      213: -7799762800611320658
+    second: Belut Laut_86
+  - first:
+      213: 5397604041579732822
+    second: Belut Laut_87
+  - first:
+      213: -8384380097254627559
+    second: Belut Laut_88
+  - first:
+      213: 3980856885361616370
+    second: Belut Laut_89
+  - first:
+      213: 9123278201945151163
+    second: Belut Laut_90
+  - first:
+      213: 1169763049469228744
+    second: Belut Laut_91
+  - first:
+      213: 8948575389697040654
+    second: Belut Laut_92
+  - first:
+      213: -8473869947674024275
+    second: Belut Laut_93
+  - first:
+      213: -6094792983969270586
+    second: Belut Laut_94
+  - first:
+      213: 1688058575142647894
+    second: Belut Laut_95
+  - first:
+      213: -8553230305672981010
+    second: Belut Laut_96
+  - first:
+      213: -2138504041846220048
+    second: Belut Laut_97
+  - first:
+      213: 7638341653863571112
+    second: Belut Laut_98
+  - first:
+      213: 6297290765117736610
+    second: Belut Laut_99
+  - first:
+      213: 4997547228698827994
+    second: Belut Laut_100
+  - first:
+      213: -3635384849480931237
+    second: Belut Laut_101
+  - first:
+      213: 4651168045964907358
+    second: Belut Laut_102
+  - first:
+      213: 262166803029490418
+    second: Belut Laut_103
+  - first:
+      213: 7988117296470310020
+    second: Belut Laut_104
+  - first:
+      213: 4314066859915829243
+    second: Belut Laut_105
+  - first:
+      213: 6241286489826741059
+    second: Belut Laut_106
+  - first:
+      213: 5478057630426074941
+    second: Belut Laut_107
+  - first:
+      213: 3519538899216710055
+    second: Belut Laut_108
+  - first:
+      213: -2184702654449279406
+    second: Belut Laut_109
+  - first:
+      213: 5945207440286121666
+    second: Belut Laut_110
+  - first:
+      213: 1444621020997605175
+    second: Belut Laut_111
+  - first:
+      213: -7619033612466838022
+    second: Belut Laut_112
+  - first:
+      213: 6646389008847674340
+    second: Belut Laut_113
+  - first:
+      213: 5779986021730089565
+    second: Belut Laut_114
+  - first:
+      213: 327567409427337573
+    second: Belut Laut_115
+  - first:
+      213: 2651892915724800378
+    second: Belut Laut_116
+  - first:
+      213: 2056350611739505268
+    second: Belut Laut_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Belut Laut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7e53978a3d51468d1176cfe7094ed
+      internalID: -902434057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8956e3f37e9c0e4d846fa22609ded10
+      internalID: 1711260107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_2
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe683f282a42cf4c9d815e919b4a1fb
+      internalID: 445322300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d99067d941ca488e37674de360e2f
+      internalID: 467660235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_4
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c79ccfbc383b4ba378ba958caed0e
+      internalID: -169121618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_5
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79fe5c8f407ab14e9eedd1a911825e9
+      internalID: -890910439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_6
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac33fc9f04e84c46bf9018886f09f6c
+      internalID: -2135329494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_7
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 7000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d250b31926e545b1f8a7ff60ef953
+      internalID: -473959772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d97d6e109b79748b2980f603373c86
+      internalID: 2005931168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1761a5bea25c774d819594167e37276
+      internalID: -2131533178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_10
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018c1c66e3a5fd42b64fec32010a13f
+      internalID: 1111616949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_11
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3693ba738d290249a64982bc05a9f92
+      internalID: 187468083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_12
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d096e68240ca4daf0c3e3dc8bbce2
+      internalID: -1454490471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_13
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a64321fa31d354ea749d72ce893318
+      internalID: -2103922374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_14
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0ece76df6989478a2c41f3b656936
+      internalID: 894673196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_15
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd694c3b65f87948a3a8d4603ee9f66
+      internalID: -2132300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242040dc39f8d946b9065efa9aa4d92
+      internalID: 1241136106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_17
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9435aeb10c60bd44b862540535e23b1
+      internalID: -1935107841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da12946dcd73990488596b9970facc7d
+      internalID: 502397506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_19
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51add2b5db767c448177653ffdfb8fd
+      internalID: -60827587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_20
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfbf124b731b1d47b5ea457c5cc6d76
+      internalID: -1305376512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_21
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c8767c98a8d24fbf983f74dbcc86b
+      internalID: -1866159338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_22
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8d80bf42c1a643a7d11a226626377
+      internalID: 55821913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_23
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 6000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9431b9de6b9d14a9853d734a49e38a
+      internalID: 1424533161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958997cfab3a924fa550e49693adfba
+      internalID: 1735173480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024a745a7902e442baffc9751574930
+      internalID: -1520540105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_26
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0cb4b905e06b488df3b609c2ea497
+      internalID: -9260015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_27
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44083533d0aa99a4b93d7dd0893c4104
+      internalID: -783655234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_28
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bafdc546adcb41b682008655ec9e9
+      internalID: -1177350162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_29
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bcb49f3d5777c44867d4ea34fcfa5d
+      internalID: -2017440374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_30
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77659d332be8a45bebc2c6cf800009
+      internalID: -1717310199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_31
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839d560f755bb744b5806948091ea16
+      internalID: 1486304188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f99d65096ffe740a2ff6bc65dcd3ef
+      internalID: 1162264826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_33
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a9af37631e1c4eb8fb89dd1584279
+      internalID: 113943621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_34
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8751dafe3149459e1450654e4fe1f
+      internalID: -1848753219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_35
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf1c626cde48d43a2688544136d8cc
+      internalID: -916328100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_36
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e7bc6c6d47d464dbb1f5c817f6431c
+      internalID: 1297106404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_37
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593f906a409f2f44a9126b5b6a3d098
+      internalID: 530070145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_38
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac77dee9d73e674493a8bee7c26f009
+      internalID: -206806612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_39
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 5000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6bcea942061474da70e6c64376c80b
+      internalID: 514911502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fd7b1342729c4faecf449bb42ac75
+      internalID: -2112687356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_41
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b78fe590e907b4d826f841dded31b2
+      internalID: 1604814951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_42
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182d24bf7c86354f91e53cad8368645
+      internalID: 20323641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_43
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004184e822aeb684ca946ac2df2260af
+      internalID: 1184230371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_44
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17d00a25c778c4a98aabd2ac51cd4b
+      internalID: 704162264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_45
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd2eb47c393e14e83947026c7ed158
+      internalID: -335438814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_46
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae02ab7949f3343a7ea903bb33cf30
+      internalID: 1896763125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_47
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd36b64b0055844bdfb2bc139fe9aa
+      internalID: 1033573239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4677c01ed1871334d8f70a80a1069692
+      internalID: 598021634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a42765813a6c2449cb6f6d0a2d57e7
+      internalID: -1093095013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_50
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad13bc1e0782a40baf149041aacead
+      internalID: -500469446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_51
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748264d96d0286b4784538f0a4925b48
+      internalID: -1359772452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_52
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bbecb0b19937241a2ff36c44516bfd
+      internalID: -1475343216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_53
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140a3cfe1417be49b933ed075d328ff
+      internalID: -819289288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_54
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a960353f7829e4c80de37e1fde6200
+      internalID: 1382226022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_55
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 4000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b282e18faa4f64c92a99f817f02372
+      internalID: 849261638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0fe5e3c58bfdb4bbf0bea70949d808
+      internalID: 1941593614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_57
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed960c0f3c2e4541bede0b5313fb45b
+      internalID: -637065640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_58
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e3c1eb89da69a4baa9c065bec4ebdb
+      internalID: -1751279160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_59
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b0a41424a9a5448cf84c61d94da1f
+      internalID: -1566647891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_60
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e28f9f2adbd2488df861e43699f8a
+      internalID: -955543367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_61
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6a62ebd29c224a9eb5c2b52e712bf
+      internalID: -1257666631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_62
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488892f8e9f80c41b470747d98818eb
+      internalID: -733321970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_63
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4551d647f4072044a76e8b92ee31b24
+      internalID: -1941541139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280a8e94f3d5944696f7762d0dcc1a8
+      internalID: -722310094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_65
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0766822b52d542b839f506fe6b285
+      internalID: 1989541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_66
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39d9c3d82e2b04998428e172bc1455
+      internalID: 1314636866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_67
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01fe2936f49d34db2ee3923ac6b43b
+      internalID: -183231848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_68
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d6c9c922b752c48815d041676ddccc
+      internalID: 1570425659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_69
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de05bde96cd0c94790f9fb2c9f871b8
+      internalID: -2086924906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_70
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b763f2d02f634eb1c46f9216a43ab
+      internalID: 1335221450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_71
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 3000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee9d2df2c27fdd449394ce2252aaf07
+      internalID: 1791221197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086987a7e5bdb57438de8f535e87e077
+      internalID: 814229348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_73
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9692f7fbc2a024d8075900c6df9b65
+      internalID: 1086821850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_74
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f03ccb3f339f41b3b82d6ad7ae219
+      internalID: 2103300835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_75
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f663e46ed22d41946ff69250d7cd7
+      internalID: -1729538968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_76
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bb9a10ec84964a823f82972248238
+      internalID: 1238284777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_77
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e35a45fedba34180c4617f8692069
+      internalID: 580814691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_78
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35dd0a0e4809da478ba1ce23f7bc320
+      internalID: 972881482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_79
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfe3a904167644db554f51bfc1e6bb
+      internalID: -1450138444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481c18de4d553f4894526431b4d934a
+      internalID: 568305521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_81
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e398ec1928c7842a481c633e2226a1
+      internalID: -682468392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_82
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9681bfdc88d6c045a4ab629021000f2
+      internalID: 524680778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_83
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef05c8016bc28428a14c484aaf4f55
+      internalID: -47322901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_84
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5d10d7c9bdeb4eb25b28fb87a3c8f
+      internalID: -347718660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_85
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d2a8a7972d3c44ba160fefda28dd0
+      internalID: -1459049459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_86
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865f8782a25b994886f76bf29b6489d
+      internalID: -1446868641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_87
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 2000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa3004aa15de6a4c8dbe78eccfab699
+      internalID: -585346002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbbdf8e7a55e02409e2439859e34de1
+      internalID: 768195645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_89
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa00ba8493f93cf4a89839340e5d52e6
+      internalID: -876242216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_90
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163793aca810c7448185d164366792b
+      internalID: -1569853185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_91
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1f2aacb7f1c647b6608d07eaabed7
+      internalID: 2143069009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_92
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156835b0a0528546bcca63cdcd0aad0
+      internalID: -219417809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_93
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa6835c0fd7aae4e9a7ae6e769808e3
+      internalID: -699787846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_94
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048a9c9bed3975448777860bb49cb0d
+      internalID: -1932248927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_95
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31beb384d427b3b4c9e4ab3c170986e0
+      internalID: 581400551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebbdeeaacf08c4ab1a189e8935f874
+      internalID: -926955055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_97
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c958b0f054e09449a5edd2f42fc7cff
+      internalID: -1307021218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_98
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf1d05cb75f70646a919ae8b854609a
+      internalID: 1186767247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_99
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad890585e4165814abab472a5fda9d09
+      internalID: 2142179563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_100
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d382a1f32bae16419b50ee2fe87c5b9
+      internalID: -189469497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_101
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed319d623789e40ae0e9783a758cd7
+      internalID: 1392962229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_102
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729b49d11d92ba48b0160cc0d89d4a1
+      internalID: -1322222532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_103
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 1000
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae17f344f737344b4ac9ec67f4a7b2
+      internalID: -1149741826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f5308e06c3f34588f5b2c2f418b1e
+      internalID: -1080236751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_105
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690113dd8b2bf4a4d9cc9587167d6911
+      internalID: -125717194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_106
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb43b2adf4dd542a470a51dd28544d
+      internalID: -665020677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_107
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee4102baf54c3948922c411ca60ecb8
+      internalID: -1242876203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_108
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc02aabb8fa77c8438006f0822baf53d
+      internalID: -1321967031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_109
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f756664056bae8c4f8f76ac171c52df6
+      internalID: -1816388790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_110
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051aa4646ce49194f87ed7427ad6f976
+      internalID: -816904390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_111
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 500
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c85237ed461f4dbc140b501544115
+      internalID: 1616501489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0413e7fb620e4a81e9b70c833ea36
+      internalID: -1036278366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_113
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626a15aab847054396648b4a2f07e6f
+      internalID: -1401263931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_114
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29b8ee03189c14fa0cc7d8984ee30d
+      internalID: 1636137849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_115
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48f89976109e3446bea3989d8953fbb
+      internalID: 720682102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_116
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5da8d1fd9dc9d45ba29be9fdee4e2e
+      internalID: -1982463657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belut Laut_117
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 0
+        width: 889
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884098c834f7a3344b937e482e271416
+      internalID: -327849539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2841fa5e7e9ffcc44959e09139450978
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Belut Laut_0: -902434057
+      Belut Laut_1: 1711260107
+      Belut Laut_10: 1111616949
+      Belut Laut_100: -189469497
+      Belut Laut_101: 1392962229
+      Belut Laut_102: -1322222532
+      Belut Laut_103: -1149741826
+      Belut Laut_104: -1080236751
+      Belut Laut_105: -125717194
+      Belut Laut_106: -665020677
+      Belut Laut_107: -1242876203
+      Belut Laut_108: -1321967031
+      Belut Laut_109: -1816388790
+      Belut Laut_11: 187468083
+      Belut Laut_110: -816904390
+      Belut Laut_111: 1616501489
+      Belut Laut_112: -1036278366
+      Belut Laut_113: -1401263931
+      Belut Laut_114: 1636137849
+      Belut Laut_115: 720682102
+      Belut Laut_116: -1982463657
+      Belut Laut_117: -327849539
+      Belut Laut_12: -1454490471
+      Belut Laut_13: -2103922374
+      Belut Laut_14: 894673196
+      Belut Laut_15: -2132300098
+      Belut Laut_16: 1241136106
+      Belut Laut_17: -1935107841
+      Belut Laut_18: 502397506
+      Belut Laut_19: -60827587
+      Belut Laut_2: 445322300
+      Belut Laut_20: -1305376512
+      Belut Laut_21: -1866159338
+      Belut Laut_22: 55821913
+      Belut Laut_23: 1424533161
+      Belut Laut_24: 1735173480
+      Belut Laut_25: -1520540105
+      Belut Laut_26: -9260015
+      Belut Laut_27: -783655234
+      Belut Laut_28: -1177350162
+      Belut Laut_29: -2017440374
+      Belut Laut_3: 467660235
+      Belut Laut_30: -1717310199
+      Belut Laut_31: 1486304188
+      Belut Laut_32: 1162264826
+      Belut Laut_33: 113943621
+      Belut Laut_34: -1848753219
+      Belut Laut_35: -916328100
+      Belut Laut_36: 1297106404
+      Belut Laut_37: 530070145
+      Belut Laut_38: -206806612
+      Belut Laut_39: 514911502
+      Belut Laut_4: -169121618
+      Belut Laut_40: -2112687356
+      Belut Laut_41: 1604814951
+      Belut Laut_42: 20323641
+      Belut Laut_43: 1184230371
+      Belut Laut_44: 704162264
+      Belut Laut_45: -335438814
+      Belut Laut_46: 1896763125
+      Belut Laut_47: 1033573239
+      Belut Laut_48: 598021634
+      Belut Laut_49: -1093095013
+      Belut Laut_5: -890910439
+      Belut Laut_50: -500469446
+      Belut Laut_51: -1359772452
+      Belut Laut_52: -1475343216
+      Belut Laut_53: -819289288
+      Belut Laut_54: 1382226022
+      Belut Laut_55: 849261638
+      Belut Laut_56: 1941593614
+      Belut Laut_57: -637065640
+      Belut Laut_58: -1751279160
+      Belut Laut_59: -1566647891
+      Belut Laut_6: -2135329494
+      Belut Laut_60: -955543367
+      Belut Laut_61: -1257666631
+      Belut Laut_62: -733321970
+      Belut Laut_63: -1941541139
+      Belut Laut_64: -722310094
+      Belut Laut_65: 1989541921
+      Belut Laut_66: 1314636866
+      Belut Laut_67: -183231848
+      Belut Laut_68: 1570425659
+      Belut Laut_69: -2086924906
+      Belut Laut_7: -473959772
+      Belut Laut_70: 1335221450
+      Belut Laut_71: 1791221197
+      Belut Laut_72: 814229348
+      Belut Laut_73: 1086821850
+      Belut Laut_74: 2103300835
+      Belut Laut_75: -1729538968
+      Belut Laut_76: 1238284777
+      Belut Laut_77: 580814691
+      Belut Laut_78: 972881482
+      Belut Laut_79: -1450138444
+      Belut Laut_8: 2005931168
+      Belut Laut_80: 568305521
+      Belut Laut_81: -682468392
+      Belut Laut_82: 524680778
+      Belut Laut_83: -47322901
+      Belut Laut_84: -347718660
+      Belut Laut_85: -1459049459
+      Belut Laut_86: -1446868641
+      Belut Laut_87: -585346002
+      Belut Laut_88: 768195645
+      Belut Laut_89: -876242216
+      Belut Laut_9: -2131533178
+      Belut Laut_90: -1569853185
+      Belut Laut_91: 2143069009
+      Belut Laut_92: -219417809
+      Belut Laut_93: -699787846
+      Belut Laut_94: -1932248927
+      Belut Laut_95: 581400551
+      Belut Laut_96: -926955055
+      Belut Laut_97: -1307021218
+      Belut Laut_98: 1186767247
+      Belut Laut_99: 2142179563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

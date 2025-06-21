@@ -1,0 +1,6357 @@
+fileFormatVersion: 2
+guid: af1a93327f0b6204fa3767075f4c377d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5685218000490871117
+    second: Kuda Laut_0
+  - first:
+      213: -3843530412454455991
+    second: Kuda Laut_1
+  - first:
+      213: 6123662166990775019
+    second: Kuda Laut_2
+  - first:
+      213: -1302461157656417848
+    second: Kuda Laut_3
+  - first:
+      213: -6632375048534140360
+    second: Kuda Laut_4
+  - first:
+      213: -7258755613428262492
+    second: Kuda Laut_5
+  - first:
+      213: 3724121927025178009
+    second: Kuda Laut_6
+  - first:
+      213: -3395937481032239024
+    second: Kuda Laut_7
+  - first:
+      213: 6679319187290397223
+    second: Kuda Laut_8
+  - first:
+      213: -8623293983163978684
+    second: Kuda Laut_9
+  - first:
+      213: -2969161882461260834
+    second: Kuda Laut_10
+  - first:
+      213: 7127325808640539871
+    second: Kuda Laut_11
+  - first:
+      213: -178678008251593510
+    second: Kuda Laut_12
+  - first:
+      213: -7324321693037048272
+    second: Kuda Laut_13
+  - first:
+      213: -3010284400938075010
+    second: Kuda Laut_14
+  - first:
+      213: -332618651830768535
+    second: Kuda Laut_15
+  - first:
+      213: 3720058901024319569
+    second: Kuda Laut_16
+  - first:
+      213: -2804843747675745833
+    second: Kuda Laut_17
+  - first:
+      213: -1592150486400462081
+    second: Kuda Laut_18
+  - first:
+      213: -3582987697166034548
+    second: Kuda Laut_19
+  - first:
+      213: -4487840666881351112
+    second: Kuda Laut_20
+  - first:
+      213: -4866290078831881811
+    second: Kuda Laut_21
+  - first:
+      213: 3687535359355774742
+    second: Kuda Laut_22
+  - first:
+      213: -6915268057784892704
+    second: Kuda Laut_23
+  - first:
+      213: -5072584838234434543
+    second: Kuda Laut_24
+  - first:
+      213: -7269741287080712519
+    second: Kuda Laut_25
+  - first:
+      213: 4666503400701488322
+    second: Kuda Laut_26
+  - first:
+      213: 8687417704256833578
+    second: Kuda Laut_27
+  - first:
+      213: 2797894481712327231
+    second: Kuda Laut_28
+  - first:
+      213: -7152005884115864339
+    second: Kuda Laut_29
+  - first:
+      213: 7000494296863966368
+    second: Kuda Laut_30
+  - first:
+      213: -561120860371256763
+    second: Kuda Laut_31
+  - first:
+      213: -6554886167392084568
+    second: Kuda Laut_32
+  - first:
+      213: 5932452636715056433
+    second: Kuda Laut_33
+  - first:
+      213: -6116343267574410930
+    second: Kuda Laut_34
+  - first:
+      213: -5505609234942292541
+    second: Kuda Laut_35
+  - first:
+      213: -2235032807829738952
+    second: Kuda Laut_36
+  - first:
+      213: -3092984074146852041
+    second: Kuda Laut_37
+  - first:
+      213: -3084383073443064229
+    second: Kuda Laut_38
+  - first:
+      213: 2991671461478464687
+    second: Kuda Laut_39
+  - first:
+      213: 8097243006547176713
+    second: Kuda Laut_40
+  - first:
+      213: 8764371824100798968
+    second: Kuda Laut_41
+  - first:
+      213: 5936297630943615613
+    second: Kuda Laut_42
+  - first:
+      213: -3613391947330810774
+    second: Kuda Laut_43
+  - first:
+      213: -5554975909209244447
+    second: Kuda Laut_44
+  - first:
+      213: -307102149115997848
+    second: Kuda Laut_45
+  - first:
+      213: 5636475492547221812
+    second: Kuda Laut_46
+  - first:
+      213: -7492474494446423976
+    second: Kuda Laut_47
+  - first:
+      213: 6865414577009365110
+    second: Kuda Laut_48
+  - first:
+      213: -8011595539958007674
+    second: Kuda Laut_49
+  - first:
+      213: -557437773701089854
+    second: Kuda Laut_50
+  - first:
+      213: 1784588071275944
+    second: Kuda Laut_51
+  - first:
+      213: 5376750195512284649
+    second: Kuda Laut_52
+  - first:
+      213: -3704277408795818412
+    second: Kuda Laut_53
+  - first:
+      213: -5815094216784700799
+    second: Kuda Laut_54
+  - first:
+      213: -1465262395417874052
+    second: Kuda Laut_55
+  - first:
+      213: 8652188751537026063
+    second: Kuda Laut_56
+  - first:
+      213: 508986622429120736
+    second: Kuda Laut_57
+  - first:
+      213: 6672152379755303552
+    second: Kuda Laut_58
+  - first:
+      213: -7640456681166555980
+    second: Kuda Laut_59
+  - first:
+      213: 2529413586516627993
+    second: Kuda Laut_60
+  - first:
+      213: 1290847158888436478
+    second: Kuda Laut_61
+  - first:
+      213: 7852859494839621690
+    second: Kuda Laut_62
+  - first:
+      213: 2667337273216112409
+    second: Kuda Laut_63
+  - first:
+      213: -478669190598324580
+    second: Kuda Laut_64
+  - first:
+      213: 1796252539023180496
+    second: Kuda Laut_65
+  - first:
+      213: 593569334315942368
+    second: Kuda Laut_66
+  - first:
+      213: -8275204343420463964
+    second: Kuda Laut_67
+  - first:
+      213: 1678126389733976782
+    second: Kuda Laut_68
+  - first:
+      213: -6542755562390232732
+    second: Kuda Laut_69
+  - first:
+      213: -4225290506730368403
+    second: Kuda Laut_70
+  - first:
+      213: 459352697439739031
+    second: Kuda Laut_71
+  - first:
+      213: -4951068572313900324
+    second: Kuda Laut_72
+  - first:
+      213: -7548532953233105673
+    second: Kuda Laut_73
+  - first:
+      213: -561330831013754463
+    second: Kuda Laut_74
+  - first:
+      213: -9045261471236917117
+    second: Kuda Laut_75
+  - first:
+      213: 2824760644183142481
+    second: Kuda Laut_76
+  - first:
+      213: -9067105626619500596
+    second: Kuda Laut_77
+  - first:
+      213: 8887948696117991445
+    second: Kuda Laut_78
+  - first:
+      213: 5507719442483086459
+    second: Kuda Laut_79
+  - first:
+      213: -8560983855822681637
+    second: Kuda Laut_80
+  - first:
+      213: 7033453563742636999
+    second: Kuda Laut_81
+  - first:
+      213: -7166044614415543295
+    second: Kuda Laut_82
+  - first:
+      213: 3957077972603706562
+    second: Kuda Laut_83
+  - first:
+      213: -9008062590674354332
+    second: Kuda Laut_84
+  - first:
+      213: 675517715591161721
+    second: Kuda Laut_85
+  - first:
+      213: -2433337029410041189
+    second: Kuda Laut_86
+  - first:
+      213: 2887962299971439345
+    second: Kuda Laut_87
+  - first:
+      213: -278625051325882308
+    second: Kuda Laut_88
+  - first:
+      213: -3250392579915103217
+    second: Kuda Laut_89
+  - first:
+      213: 1089960974762613011
+    second: Kuda Laut_90
+  - first:
+      213: 5980326037590594948
+    second: Kuda Laut_91
+  - first:
+      213: -5943074849629406877
+    second: Kuda Laut_92
+  - first:
+      213: -8317243579192597836
+    second: Kuda Laut_93
+  - first:
+      213: -3299366777537383541
+    second: Kuda Laut_94
+  - first:
+      213: -110242379234442375
+    second: Kuda Laut_95
+  - first:
+      213: -8958995413932732053
+    second: Kuda Laut_96
+  - first:
+      213: -580783922914251573
+    second: Kuda Laut_97
+  - first:
+      213: 5086651056321978922
+    second: Kuda Laut_98
+  - first:
+      213: -8813306846058208152
+    second: Kuda Laut_99
+  - first:
+      213: -4356569370086694165
+    second: Kuda Laut_100
+  - first:
+      213: 707789478982732639
+    second: Kuda Laut_101
+  - first:
+      213: -8096850070192777035
+    second: Kuda Laut_102
+  - first:
+      213: 4139959602796349068
+    second: Kuda Laut_103
+  - first:
+      213: 8238123938386923504
+    second: Kuda Laut_104
+  - first:
+      213: -6709198866045563942
+    second: Kuda Laut_105
+  - first:
+      213: 4129194607444320976
+    second: Kuda Laut_106
+  - first:
+      213: 7991209709692783402
+    second: Kuda Laut_107
+  - first:
+      213: -2868745269661362678
+    second: Kuda Laut_108
+  - first:
+      213: 2471630014312102215
+    second: Kuda Laut_109
+  - first:
+      213: -889644720128811652
+    second: Kuda Laut_110
+  - first:
+      213: -1835021672047111296
+    second: Kuda Laut_111
+  - first:
+      213: 1947640548505360878
+    second: Kuda Laut_112
+  - first:
+      213: -8718628760660300331
+    second: Kuda Laut_113
+  - first:
+      213: -4610102219953785848
+    second: Kuda Laut_114
+  - first:
+      213: -4732122708210706643
+    second: Kuda Laut_115
+  - first:
+      213: -5170268494771165626
+    second: Kuda Laut_116
+  - first:
+      213: -4273342336507637485
+    second: Kuda Laut_117
+  - first:
+      213: 1067426346903933559
+    second: Kuda Laut_118
+  - first:
+      213: -997231919946633441
+    second: Kuda Laut_119
+  - first:
+      213: 7128271734338080878
+    second: Kuda Laut_120
+  - first:
+      213: -1017154360406387746
+    second: Kuda Laut_121
+  - first:
+      213: -4821370513911061587
+    second: Kuda Laut_122
+  - first:
+      213: -2865893095361077842
+    second: Kuda Laut_123
+  - first:
+      213: -3004661091898980114
+    second: Kuda Laut_124
+  - first:
+      213: -1449413677443013211
+    second: Kuda Laut_125
+  - first:
+      213: 7661112281206607827
+    second: Kuda Laut_126
+  - first:
+      213: 8855465579391240897
+    second: Kuda Laut_127
+  - first:
+      213: -7056416637165855935
+    second: Kuda Laut_128
+  - first:
+      213: 2485974775935550148
+    second: Kuda Laut_129
+  - first:
+      213: 9194836441569022298
+    second: Kuda Laut_130
+  - first:
+      213: -594410584856942012
+    second: Kuda Laut_131
+  - first:
+      213: -5525816126525056573
+    second: Kuda Laut_132
+  - first:
+      213: 4455104061561874126
+    second: Kuda Laut_133
+  - first:
+      213: 1634808238096594765
+    second: Kuda Laut_134
+  - first:
+      213: 820000873766889063
+    second: Kuda Laut_135
+  - first:
+      213: -611761598763583542
+    second: Kuda Laut_136
+  - first:
+      213: 8267534745199089747
+    second: Kuda Laut_137
+  - first:
+      213: 7911434510718559464
+    second: Kuda Laut_138
+  - first:
+      213: -188301408752012573
+    second: Kuda Laut_139
+  - first:
+      213: -9140089787924101050
+    second: Kuda Laut_140
+  - first:
+      213: 4274418590563510642
+    second: Kuda Laut_141
+  - first:
+      213: -981544121553764587
+    second: Kuda Laut_142
+  - first:
+      213: -7392826734801701627
+    second: Kuda Laut_143
+  - first:
+      213: -2344337697565219044
+    second: Kuda Laut_144
+  - first:
+      213: -6276944486911455592
+    second: Kuda Laut_145
+  - first:
+      213: -4014252574570743483
+    second: Kuda Laut_146
+  - first:
+      213: 1018914108881751473
+    second: Kuda Laut_147
+  - first:
+      213: 7252382274981487388
+    second: Kuda Laut_148
+  - first:
+      213: -7988701256143896785
+    second: Kuda Laut_149
+  - first:
+      213: -4095307778694636289
+    second: Kuda Laut_150
+  - first:
+      213: 5636157191515633309
+    second: Kuda Laut_151
+  - first:
+      213: -8232610600837688146
+    second: Kuda Laut_152
+  - first:
+      213: 5409626452311408404
+    second: Kuda Laut_153
+  - first:
+      213: -1912884462049019118
+    second: Kuda Laut_154
+  - first:
+      213: -8267646788918947777
+    second: Kuda Laut_155
+  - first:
+      213: 5913284293544579373
+    second: Kuda Laut_156
+  - first:
+      213: 3771504676337379110
+    second: Kuda Laut_157
+  - first:
+      213: -7791496221012810239
+    second: Kuda Laut_158
+  - first:
+      213: -5119807779276197029
+    second: Kuda Laut_159
+  - first:
+      213: 7837624899084860252
+    second: Kuda Laut_160
+  - first:
+      213: 3027283311974716629
+    second: Kuda Laut_161
+  - first:
+      213: -5132878658696249152
+    second: Kuda Laut_162
+  - first:
+      213: -9152440100771208216
+    second: Kuda Laut_163
+  - first:
+      213: 7076447430766562167
+    second: Kuda Laut_164
+  - first:
+      213: -6711550384880720736
+    second: Kuda Laut_165
+  - first:
+      213: 2761935033687509050
+    second: Kuda Laut_166
+  - first:
+      213: 5450219160732095181
+    second: Kuda Laut_167
+  - first:
+      213: 2923574908610483481
+    second: Kuda Laut_168
+  - first:
+      213: -5996744071364843079
+    second: Kuda Laut_169
+  - first:
+      213: -8526444480439131156
+    second: Kuda Laut_170
+  - first:
+      213: -4600245802227842651
+    second: Kuda Laut_171
+  - first:
+      213: -5674117310165797608
+    second: Kuda Laut_172
+  - first:
+      213: -5207248968619743397
+    second: Kuda Laut_173
+  - first:
+      213: -9030322113609648191
+    second: Kuda Laut_174
+  - first:
+      213: -7851892290951998579
+    second: Kuda Laut_175
+  - first:
+      213: -439670599835858725
+    second: Kuda Laut_176
+  - first:
+      213: -6922278598207296210
+    second: Kuda Laut_177
+  - first:
+      213: 48402525973367682
+    second: Kuda Laut_178
+  - first:
+      213: 1949284768256594308
+    second: Kuda Laut_179
+  - first:
+      213: 1364129854904678246
+    second: Kuda Laut_180
+  - first:
+      213: 3412183285771478602
+    second: Kuda Laut_181
+  - first:
+      213: -4352298902430581045
+    second: Kuda Laut_182
+  - first:
+      213: 61001408043400020
+    second: Kuda Laut_183
+  - first:
+      213: -2395902133872277560
+    second: Kuda Laut_184
+  - first:
+      213: -3943568941515778873
+    second: Kuda Laut_185
+  - first:
+      213: 3694035085269849542
+    second: Kuda Laut_186
+  - first:
+      213: -1939027183084324544
+    second: Kuda Laut_187
+  - first:
+      213: 5421068272724722390
+    second: Kuda Laut_188
+  - first:
+      213: -3597479547534769887
+    second: Kuda Laut_189
+  - first:
+      213: 3202546276982881192
+    second: Kuda Laut_190
+  - first:
+      213: 5018202081878092737
+    second: Kuda Laut_191
+  - first:
+      213: 101664237461401784
+    second: Kuda Laut_192
+  - first:
+      213: -7702272340609690256
+    second: Kuda Laut_193
+  - first:
+      213: 384014037154232361
+    second: Kuda Laut_194
+  - first:
+      213: -1372354458299436186
+    second: Kuda Laut_195
+  - first:
+      213: -5642283982493003912
+    second: Kuda Laut_196
+  - first:
+      213: -971242347724036747
+    second: Kuda Laut_197
+  - first:
+      213: 5641988301994718687
+    second: Kuda Laut_198
+  - first:
+      213: 5961409562733479534
+    second: Kuda Laut_199
+  - first:
+      213: 8195680421439074003
+    second: Kuda Laut_200
+  - first:
+      213: 7277142515249409458
+    second: Kuda Laut_201
+  - first:
+      213: -2845765822076131378
+    second: Kuda Laut_202
+  - first:
+      213: 8601685315048929682
+    second: Kuda Laut_203
+  - first:
+      213: -1311390642526663483
+    second: Kuda Laut_204
+  - first:
+      213: -458682251963022959
+    second: Kuda Laut_205
+  - first:
+      213: 8365513328792784139
+    second: Kuda Laut_206
+  - first:
+      213: -815733003711533394
+    second: Kuda Laut_207
+  - first:
+      213: 1346260872255583202
+    second: Kuda Laut_208
+  - first:
+      213: -90373268276723033
+    second: Kuda Laut_209
+  - first:
+      213: 2745077403211422896
+    second: Kuda Laut_210
+  - first:
+      213: 3287018901386800001
+    second: Kuda Laut_211
+  - first:
+      213: 5890990134828131655
+    second: Kuda Laut_212
+  - first:
+      213: -4596522723027626839
+    second: Kuda Laut_213
+  - first:
+      213: -6338262243280388504
+    second: Kuda Laut_214
+  - first:
+      213: -2575810984788254519
+    second: Kuda Laut_215
+  - first:
+      213: -2501250981240901846
+    second: Kuda Laut_216
+  - first:
+      213: -775344244282444637
+    second: Kuda Laut_217
+  - first:
+      213: 6944165822533144804
+    second: Kuda Laut_218
+  - first:
+      213: -1512335845452815499
+    second: Kuda Laut_219
+  - first:
+      213: -5382089859772315154
+    second: Kuda Laut_220
+  - first:
+      213: -384729938185439951
+    second: Kuda Laut_221
+  - first:
+      213: 6947586961040341894
+    second: Kuda Laut_222
+  - first:
+      213: -4446983037013840695
+    second: Kuda Laut_223
+  - first:
+      213: 5422953671414660357
+    second: Kuda Laut_224
+  - first:
+      213: -8758460815711258596
+    second: Kuda Laut_225
+  - first:
+      213: -4938651934039820964
+    second: Kuda Laut_226
+  - first:
+      213: 2650483404130274932
+    second: Kuda Laut_227
+  - first:
+      213: -7378269011151713736
+    second: Kuda Laut_228
+  - first:
+      213: 3507202405120311207
+    second: Kuda Laut_229
+  - first:
+      213: 5696291086702542320
+    second: Kuda Laut_230
+  - first:
+      213: -4977724980161707386
+    second: Kuda Laut_231
+  - first:
+      213: -8881425493108553393
+    second: Kuda Laut_232
+  - first:
+      213: 8063867522253305383
+    second: Kuda Laut_233
+  - first:
+      213: 1924446829335936371
+    second: Kuda Laut_234
+  - first:
+      213: -4359675928762043191
+    second: Kuda Laut_235
+  - first:
+      213: 6256585000570735996
+    second: Kuda Laut_236
+  - first:
+      213: 9078408590970288571
+    second: Kuda Laut_237
+  - first:
+      213: -7465288571422427551
+    second: Kuda Laut_238
+  - first:
+      213: 5687893059753412534
+    second: Kuda Laut_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kuda Laut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1010be387b9cdc46b80504225f62785
+      internalID: -1781829544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081545d5b2150844921ab988bb64213
+      internalID: 397055595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207ebe049565d54ba8fc32325f9a57f
+      internalID: -1764353719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a2e2ab5bfe6442bf7218ec70db11d
+      internalID: -122170265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1f07eaa2f136e4ba0eec12ec762f37
+      internalID: 317834752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e257794e4239841be0e518085e4c3e
+      internalID: -1184119050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05aa159369e004ab15e1e170e19d75
+      internalID: -737128438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d525dba3b5f014d47af066b3744a11dd
+      internalID: -1541992578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e3da740d98e44ab29ec6f16064da6
+      internalID: 213836314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f686f4aec5bd546822fbe7f7b7e425
+      internalID: 1077312325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a270956a43a80e145897cd953b645665
+      internalID: -1904831508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e8a6d96ca9334b9c98e0a9462535a
+      internalID: -1163148590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c093d8fd5acec7341bb69b4e7f66d57f
+      internalID: -447016397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9706b0656e274d92bd5d3bdd7dcd6
+      internalID: -2134445329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f2d2f805710747b3e75d6fc40e8b8
+      internalID: 1509409733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a8c88af80cfc428d1f940f3a077ba
+      internalID: 2046712671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_16
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3a268bc7fd4c4ba5f8c3784209a5c
+      internalID: -1032965248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c9695a587b364eb6f607df3d1840a
+      internalID: 574275360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_18
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ec56662802404e932f7b0726c431c
+      internalID: 1885224820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_19
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c412fac73334a4d9b74e39f8a1b715
+      internalID: 1669137805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_20
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 9779
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b98488ce4bc0449547bf094a73616
+      internalID: 1637923958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269dab746885f243a774dcf73be2abb
+      internalID: -36979793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e336bf39a5554c99c0becd9e60449
+      internalID: -1431675493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae07430410c55d4c8eaab0e90bc2c5f
+      internalID: 558601559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53013504bcb3e33439d38faf072006a3
+      internalID: 396600925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d60772e10c1b489aa5b5c9ea8ff43
+      internalID: -783862271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849027ab89b35474699cd765a0914686
+      internalID: 2124722596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76ca533ceffb64f9ee36decdf15a73
+      internalID: -1435045127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_28
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043e125f20459e48a4b390c67880f8d
+      internalID: 1188517375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd72aa63b2bce64caaf4af429a7019b
+      internalID: -185222435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee956b733d3dfaa43aadd00c9afdad83
+      internalID: -1221950701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_31
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deb2076e5d79f4428b3480c8455b6cd
+      internalID: 1272682328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_32
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbf01c425deda4eaa996931f81a8b7
+      internalID: -1156213837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_33
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be392afa06cb2d145ac01477130321fa
+      internalID: -1088478561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_34
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70897dad355ea438f3d90f9217fde4
+      internalID: -302286885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_35
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c97356d40d9c0459fce4d3993e89d0
+      internalID: 1566380564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_36
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92fde1f8ccfcda4b8782eeaf971439d
+      internalID: 1233298118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_37
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae917c4fddcc6c4a92967136c0fee56
+      internalID: 2047997142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_38
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddd830176d31b46be183fb58ac8e5b
+      internalID: -442269566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_39
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839d3b24054e83478aef5cad1979dc4
+      internalID: 830098076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_40
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47fa1b47063344eb3e8a07cb2ef950
+      internalID: -759008229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_41
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8890
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ace2bfd1bf37439bf27db2a06fb43
+      internalID: -812903431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58c03f073e16145a620c071b35e609
+      internalID: -1820147539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67f4000bd485d48883580dfacc9d49
+      internalID: 1129136862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447657fdb95c93e499e0efd818f4fd46
+      internalID: -1276462733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ea432bb47643449681b7cac238285
+      internalID: -1588551079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75a6e7394e50c2469f4f310b7708a28
+      internalID: -1010223377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484169bcd24103040a90d0218603ae5a
+      internalID: 197598025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc618f76577ab47b7fcdcaba095ac2
+      internalID: -96126191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d083248f03ac5b47a7f7fe768c7eb54
+      internalID: 197526024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_50
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482400a2d40205444b0d01249168958c
+      internalID: 1884841668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_51
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e7de02b3c0e745bb5ca52374f2828
+      internalID: 1114501414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_52
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe50a213de5e54d9834d78d3068374
+      internalID: 1338046563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_53
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521937d06ec0e443b761fdeed4c507f
+      internalID: 797979700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62661530273474eaeb5b9620d06a4d
+      internalID: -68820289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_55
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be80981a2895fb49ae79a4cd9be7e3d
+      internalID: 7570318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_56
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63b232f8beb6240b1f1dba9ef0ee84
+      internalID: -1903359486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_57
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e8eb2a18e045d48b48053ae95eec9a
+      internalID: 1532100148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3beaaad46de2e42aed604962c8685e
+      internalID: -1631597367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_59
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28177806fc177f34fb584f9406304807
+      internalID: -1450099978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_60
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf0c5d000aea44fbb065d5e487fb85
+      internalID: 90364889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_61
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bad5c21ad06b4da6f2bece5b0789f
+      internalID: -1301700591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_62
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 8001
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd91e684c3d7244b6c51950d714172
+      internalID: 1257945444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f934f7dc91989446bcf8032216fbcd0
+      internalID: -709451699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eee86691bb5354ebfd8b13b4721a03
+      internalID: 602500288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030173139daf584493cd7fdb0907bd3
+      internalID: 524175737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc99b6231e852d4ea4b1aaf3f314f03
+      internalID: 1765600446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac64b8218e2684491acbd9959b89e8
+      internalID: -1168241812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_68
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb6ca8a016917a4ab1bf1ed97184998
+      internalID: -1476904978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74773b7ba610f45a80bf423af7b152
+      internalID: -475430129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_70
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16576520e2fc3e4fb511fea3b09adb2
+      internalID: 349351278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_71
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0d3c7295a83e41a12626d2eecdd9e
+      internalID: 1350152421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_72
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9760ebf0e91844d8056dff79e70b34
+      internalID: 1993658574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_73
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4aac075812a9448fcc97f8f4477b5
+      internalID: 855668995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_74
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24348d836ec38854b9f0a928fce24598
+      internalID: 913467492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_75
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ef8f95fee18c4393c224608ff5760
+      internalID: -925623750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_76
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc5c61715f8e94397a7b8b5e33dd8f
+      internalID: 409365980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_77
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2c6efb3ba2f4e4cb706e93781a596b
+      internalID: 859331430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_78
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533cde29c82e9f45b8f3856c999054f
+      internalID: -340588599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_79
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d450a3f49bfb29241b77d4a1d3c54691
+      internalID: -1959638768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_80
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814f70bd57f6eb46a430930ed77fb81
+      internalID: -1549487125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_81
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7bfe695920d4746a5221785100224e
+      internalID: -2009263614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_82
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e5ca264e2f3e458c9792f209835d9
+      internalID: 763592786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_83
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 7112
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a829b9191f60a44295a284c30b38874
+      internalID: -1947067211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca98a04aca284841b451e881f0118ca
+      internalID: 1611327984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae3862543efb647b52b97aa7886e06
+      internalID: 1685178104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4703c7bcd5ef44c9bdbf6a1721539b
+      internalID: 275381368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85384b41ead6f9b468f23d3ba6846634
+      internalID: 2120172050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d348d0834b1d8e4ebca91d627cd6b67
+      internalID: 537101110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_89
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0346871049d4c0b4abf118ffa6642fad
+      internalID: 406234172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_90
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c35b9c737951c4fbe01145c4d85a77
+      internalID: -206687636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_91
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2d370be6a3284bbf6d241d99a399a
+      internalID: -805166423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458849a906e3c44a82abc8deb75673c
+      internalID: -685218807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_93
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e870e656a4d69c459de03469068e60a
+      internalID: 1760181331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_94
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed06d988a7f04a489fd74734d129459
+      internalID: -1802437110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_95
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6332bfb07a98c40a450412a68f0b4d
+      internalID: -1372200840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_96
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f83bd391192f40841778a6fe5c880
+      internalID: -1063873757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_97
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d49a6a01093645948998bc4c4fd29
+      internalID: -1468625682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_98
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce76b5ef0ca1548b81aa8bc5c7b741
+      internalID: 1607633672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_99
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d6a157345ef646a7da0f1f51de9aa
+      internalID: 681947536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_100
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9cbeef81dccb459ba55436ae6d8a8
+      internalID: -705998907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_101
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e807a583062bc4592da6e39bcccedc
+      internalID: -340834399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_102
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5efd106e00f14408f2a707c6138fba
+      internalID: -85156854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_103
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2991807881bc4d8e00bf95913aba5
+      internalID: 638863816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_104
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 6223
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e6ab1cc0ccab4086f9e1905997e23
+      internalID: -2143953633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136df017f55fd5c44b4f2be9196585b5
+      internalID: 604652967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eddb43d19592d48a4ca47409e263af
+      internalID: 122785784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_107
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8f1db26ce3fe4e9a15acc429dc278
+      internalID: 20884827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_108
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bf3df694fa7a41822b5ff2bfac706
+      internalID: 640590749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec323f9a35dbc469cf0f8a2067500b
+      internalID: 1187170334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_110
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9436fcded2e84d9dda9caf8c0ca7d
+      internalID: -1427707670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_111
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438ba9cb2332b049a9d52600d584129
+      internalID: 1692382492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_112
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba67666a48af54baf7436c28269138
+      internalID: -1109329846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ce3a8f8b1b1c4285f1ad20b92d11c
+      internalID: 391291299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_114
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097bba6aafb6674fb6a0e602d784f70
+      internalID: -1016775660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_115
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea1297c52f6ef4f9a164fb527bd773
+      internalID: -393574503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_116
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b9962ce1d0fd4c86ff7fadc329747
+      internalID: -1674609125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283f12f4e052027459da8803f74eb639
+      internalID: 33770786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_118
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d7caf18ecdeb641b3a2d221aed373f
+      internalID: -425047573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_119
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de67140faf404f4aaa478dbf2729aa6
+      internalID: 1316410816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_120
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ae88cab90b9048bd8e71c89e06c4a
+      internalID: -1492716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_121
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2c08cf3a1c09459b0360450d9ff8f
+      internalID: -2128014108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_122
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1402cd7e50914e8f2e98305754ad8
+      internalID: 372143880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_123
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fee67767adcf041bd74b65bcca9771
+      internalID: 631653979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_124
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ca44050918664788eef111e1e0f4a
+      internalID: -446074203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_125
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 5334
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb9c4e891cce454fb1947a508082f5c
+      internalID: 1085620518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003e5e316f089c4a83bc28396d0907c
+      internalID: -1659199812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_127
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b0df3f52deb24cad9f6c983b8f2e3
+      internalID: 1156085835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_128
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5506be83de803419c34b91f0c6f13b
+      internalID: 937429011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd8dcc3a5500684fb2481ade8826fb4
+      internalID: 731013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac2ef69a9f6e34282da09cebd68aec
+      internalID: 740157253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_131
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00303200e3a15243ad589097227f427
+      internalID: -430328007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_132
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792e75847aa68c4e80570aa16ec004c
+      internalID: -2145263317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_133
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f40fd56ce443e4ba8a4ad0fa32e001
+      internalID: -1311846663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_134
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71bcc847b46b04093c7fc242438a1b
+      internalID: 1416384981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_135
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a5c595d312a24ebaa2c376f3b849a
+      internalID: -764961024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_136
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834357a70e8b4594689764584c8be3c8
+      internalID: -1458831870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_137
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212383cdceee5dc48bf01b6e97325986
+      internalID: -1769190649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_138
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab329a60dfd458489fa981d8176fe8e
+      internalID: -1450778439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_139
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b01cf8205744284a9926be98a2b6fd4
+      internalID: -1843941851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_140
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac09f0ca90c664098d5ca385448183
+      internalID: 2038096764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_141
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940c44d215af7f4a935e8b98ab90230
+      internalID: 776528752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88681ad13f4081445ba0519bcaa2e66a
+      internalID: 1440024014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_143
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a1a005a3d371499632d18cc0195f8
+      internalID: -392147166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_144
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7591dc30a5fc2041ad7478e668639f5
+      internalID: -165809057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_145
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f542c749c825744996124e778bf811
+      internalID: -1429767523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_146
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4445
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e681d40126987b4a9bae7fe8358e0a6
+      internalID: -1389871306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633b5845ded239428b39591b15d18da
+      internalID: -1613203316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5735658830b3468c6106a5dfdbbb1
+      internalID: -1086480306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2340c5abd8e0540a162be303917099
+      internalID: 1705756686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_150
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e478aeaeff5748a4e4df4ed5b48ee
+      internalID: -2087703137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_151
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302db6284fe2bf148ad2ea5c1b05a956
+      internalID: 717466018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_152
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf44c02cba24848b25a21f7402a20d
+      internalID: 882244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_153
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d26708244a524eb6837f0439f2cbd
+      internalID: 811684023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_154
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5415a9469eaa3094dad82dd6f8fa20a9
+      internalID: 1991472942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_155
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eac2fc408399445900e6c8fcf7bf29
+      internalID: -500036704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_156
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70bc06c9393bfc489170c1496c57eb2
+      internalID: -756214405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_157
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4454fec5c65aa047940663acddd149b
+      internalID: -1640093092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_158
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5177392fd3c9f4f9f8052d2390a35c
+      internalID: -1560895553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_159
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6caa9ac65ece54f83e6c927d9954cf
+      internalID: 1974965358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_160
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2941edbb5203b4a93e5894dfba3247
+      internalID: -279484147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_161
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa20ac4c6812f40a8e87b007317945
+      internalID: 197233453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_162
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18118a21725d246840221ac958a312
+      internalID: -1748254251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_163
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f544eb4a971647aef6ac860f6b5ed
+      internalID: -1682182389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_164
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31867302b3cb441478990f58f435ec02
+      internalID: -630438064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_165
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a8167c5473d04a85d363073a3b043
+      internalID: -1992992565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_166
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36655a395ea8c61419ceaad94d55aaca
+      internalID: 94553147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_167
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3556
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98378853c7b740f41a336b88a9c9793c
+      internalID: 1455113438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08832fd1274204488bebe270e63ec6
+      internalID: -997245727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_169
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad890e9e2e0b164468d9dd8cc2b8b3cb
+      internalID: 285495826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_170
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79035aaa15b9d840bd1eba2fb21ece2
+      internalID: 1868118953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_171
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a428ddf27931d44b9dd36da9bcd0c8
+      internalID: -1807918189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_172
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a56eecde9d45f4597182ab5370c209
+      internalID: 14204106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_173
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67076208d072f3f4d8cee85a0e16864b
+      internalID: 1168490866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_174
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb659b9e87e7d4095907b3922702d7
+      internalID: 631501110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_175
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ae2a319808b246bd8f4b6d64ccdc6
+      internalID: 1346466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_176
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93076f6c674e7846874f7ec0161afe6
+      internalID: 1658559457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_177
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5924d8f79f4340bc8ee725a0610bd
+      internalID: -76044434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_178
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8208bf051d968447b7ce1edda8c5c68
+      internalID: -773249379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_179
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d6fab0416464040aab1a665f5d8f0a
+      internalID: -1927819768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_180
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e321326e18fc4297167b0fcc66d0e
+      internalID: -39110154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_181
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c230e1163732443a592b587f8c217c
+      internalID: -1004498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_182
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9155c4c442f834495155b92e4eaecb
+      internalID: -1410969019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_183
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682b42031b1ba6449e9b5ea1ecfaf36
+      internalID: -623409433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_184
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd157160adc15a54aaf0f1d51b8f5db8
+      internalID: 2085266552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_185
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3cbb050c3f274c91b7f70b3ca7a79
+      internalID: 1215314004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_186
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41059d4c09104da47b38b407a378b91f
+      internalID: 1851531309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_187
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef9bc2a9b87ff44beb76ef3ce664e5
+      internalID: 736288936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_188
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2667
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339f565f02f6324ab833847453d62ae
+      internalID: 461406186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11400950d55cae4aa552c9484d9e342
+      internalID: 1543547643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_190
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118f4e0a91d7bd94186098338164f05c
+      internalID: -863921175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_191
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d9a8eb1f5302438669a74787db65c
+      internalID: -306637251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_192
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e482b1aa153e44bac7286fb095553
+      internalID: -592828579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_193
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca45897845a74d47b5a9275c22e3ebb
+      internalID: 1741525302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_194
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb11e20743bc594882fe4dfc0cbe68f
+      internalID: 1893638569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_195
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5f1f6fee9eb542be9cf7b57e76a63
+      internalID: 2093989450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_196
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1af7313025ba449da4e87251d40f5
+      internalID: 597046832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_197
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac52ba935eff14c8c83f4caac947c9
+      internalID: -1895143449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_198
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d29761f771624d93dcb440c254280
+      internalID: -224948371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_199
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b95bca353990b4ba371d0bf17807f1
+      internalID: 2060673346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_200
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e85c221e3bd04d4ea88496ab7a9e480
+      internalID: 480484670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_201
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf25da5b9c0b1b4eaadd907e2aaa959
+      internalID: -1357228205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_202
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8bbaa7416b19046a49cedf7ee84c3e
+      internalID: -1729328513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_203
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e33c2ed88ecdf488aaddbe1e73aa90
+      internalID: -1140391629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_204
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd932f7fff35c45b4e51c5bc621ae5
+      internalID: -1930675716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_205
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a283b231cae34d926012909549815
+      internalID: -255592862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_206
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670c1f4c2c0ccc49931546b8574869a
+      internalID: 78242662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_207
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf07bd011752544b73741f0ea5f02f
+      internalID: 2108372038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_208
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1a22d844ad5a41a3dbdd902e615db
+      internalID: 776422722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_209
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1778
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5804fc3869bbf947a5890a992b526fb
+      internalID: 2020992465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f714bb505918a47afadc9db613644e
+      internalID: 1140257197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_211
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b04fa7f9a92fc42bc6aac9f766c473
+      internalID: -2046020179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_212
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40afb8a29811ed64da8f0c2cfadba99c
+      internalID: 1215188107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_213
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dbf09230d618468ae224403c379cb
+      internalID: 246320977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_214
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b046a91cc4c0498081e45444e22dd
+      internalID: -788459698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_215
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f6f7c8319aa34f99561216365b09d
+      internalID: -1349385128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_216
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8cd366cf95af48ba6126bc2584d2b
+      internalID: 1641652345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_217
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c186d3dceccc4b957cc10a8895cb3
+      internalID: -120069728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_218
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd773a52c0033c44bc460e5acde5b48
+      internalID: 590383462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_219
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2d5d45ed720c4e8eed150bc135a88
+      internalID: -1215207228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_220
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861a3154e0f0514e951364918ddf478
+      internalID: 189334915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_221
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f94c732d635c248b0d99712dafbfee
+      internalID: 2049332556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_222
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d95eb9a557f6a44ad653d58c838375
+      internalID: 664954836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_223
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e7ed32161ead4abfc50844ad0f070
+      internalID: 1508712672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_224
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57924e6472263a04c809f8f1db78447f
+      internalID: 1475918103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_225
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32a6fc4e89a324484dc30e1973e71c
+      internalID: 191133495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_226
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63820d1bc9b730469db68fedae3a1a6
+      internalID: -1150071957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_227
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af6faca60328e4498bf245ef53a341
+      internalID: -2037640713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_228
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043eab61f8d62c439c7dc3885135c9e
+      internalID: -1645740880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_229
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ca3c773c5e494786b96149aabf5d6
+      internalID: -241424563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_230
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 889
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81450dee7d5834a4ea71c853197293ec
+      internalID: -536699208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf09fef3486d624a920d3eb5cb6e50a
+      internalID: 1878347995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_232
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63bc228d535e345b6e595bac7c998f
+      internalID: 342480716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_233
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b639afbfa87d4cb3f14d0fa8469fd
+      internalID: 606100782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_234
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4147fdb75cedb468ed87b404a318ee
+      internalID: 1494527434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_235
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e660bf4b354ffb4d86d2b9f4ca812eb
+      internalID: 1008486683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_236
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d9661204695e4b9cd211585ab798a
+      internalID: -1444991371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_237
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0631a061ea02f3c409eb73ec40ecdb36
+      internalID: -983093974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_238
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a0bc0e3982ef848a9d47f5f4ced1b4
+      internalID: 1644649762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuda Laut_239
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b018047da400184f9353c55371a9806
+      internalID: -1777009244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b254148973e921a42b6cf7a8e9c1e560
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kuda Laut_0: -1781829544
+      Kuda Laut_1: 397055595
+      Kuda Laut_10: -1904831508
+      Kuda Laut_100: -705998907
+      Kuda Laut_101: -340834399
+      Kuda Laut_102: -85156854
+      Kuda Laut_103: 638863816
+      Kuda Laut_104: -2143953633
+      Kuda Laut_105: 604652967
+      Kuda Laut_106: 122785784
+      Kuda Laut_107: 20884827
+      Kuda Laut_108: 640590749
+      Kuda Laut_109: 1187170334
+      Kuda Laut_11: -1163148590
+      Kuda Laut_110: -1427707670
+      Kuda Laut_111: 1692382492
+      Kuda Laut_112: -1109329846
+      Kuda Laut_113: 391291299
+      Kuda Laut_114: -1016775660
+      Kuda Laut_115: -393574503
+      Kuda Laut_116: -1674609125
+      Kuda Laut_117: 33770786
+      Kuda Laut_118: -425047573
+      Kuda Laut_119: 1316410816
+      Kuda Laut_12: -447016397
+      Kuda Laut_120: -1492716907
+      Kuda Laut_121: -2128014108
+      Kuda Laut_122: 372143880
+      Kuda Laut_123: 631653979
+      Kuda Laut_124: -446074203
+      Kuda Laut_125: 1085620518
+      Kuda Laut_126: -1659199812
+      Kuda Laut_127: 1156085835
+      Kuda Laut_128: 937429011
+      Kuda Laut_129: 731013346
+      Kuda Laut_13: -2134445329
+      Kuda Laut_130: 740157253
+      Kuda Laut_131: -430328007
+      Kuda Laut_132: -2145263317
+      Kuda Laut_133: -1311846663
+      Kuda Laut_134: 1416384981
+      Kuda Laut_135: -764961024
+      Kuda Laut_136: -1458831870
+      Kuda Laut_137: -1769190649
+      Kuda Laut_138: -1450778439
+      Kuda Laut_139: -1843941851
+      Kuda Laut_14: 1509409733
+      Kuda Laut_140: 2038096764
+      Kuda Laut_141: 776528752
+      Kuda Laut_142: 1440024014
+      Kuda Laut_143: -392147166
+      Kuda Laut_144: -165809057
+      Kuda Laut_145: -1429767523
+      Kuda Laut_146: -1389871306
+      Kuda Laut_147: -1613203316
+      Kuda Laut_148: -1086480306
+      Kuda Laut_149: 1705756686
+      Kuda Laut_15: 2046712671
+      Kuda Laut_150: -2087703137
+      Kuda Laut_151: 717466018
+      Kuda Laut_152: 882244580
+      Kuda Laut_153: 811684023
+      Kuda Laut_154: 1991472942
+      Kuda Laut_155: -500036704
+      Kuda Laut_156: -756214405
+      Kuda Laut_157: -1640093092
+      Kuda Laut_158: -1560895553
+      Kuda Laut_159: 1974965358
+      Kuda Laut_16: -1032965248
+      Kuda Laut_160: -279484147
+      Kuda Laut_161: 197233453
+      Kuda Laut_162: -1748254251
+      Kuda Laut_163: -1682182389
+      Kuda Laut_164: -630438064
+      Kuda Laut_165: -1992992565
+      Kuda Laut_166: 94553147
+      Kuda Laut_167: 1455113438
+      Kuda Laut_168: -997245727
+      Kuda Laut_169: 285495826
+      Kuda Laut_17: 574275360
+      Kuda Laut_170: 1868118953
+      Kuda Laut_171: -1807918189
+      Kuda Laut_172: 14204106
+      Kuda Laut_173: 1168490866
+      Kuda Laut_174: 631501110
+      Kuda Laut_175: 1346466864
+      Kuda Laut_176: 1658559457
+      Kuda Laut_177: -76044434
+      Kuda Laut_178: -773249379
+      Kuda Laut_179: -1927819768
+      Kuda Laut_18: 1885224820
+      Kuda Laut_180: -39110154
+      Kuda Laut_181: -1004498696
+      Kuda Laut_182: -1410969019
+      Kuda Laut_183: -623409433
+      Kuda Laut_184: 2085266552
+      Kuda Laut_185: 1215314004
+      Kuda Laut_186: 1851531309
+      Kuda Laut_187: 736288936
+      Kuda Laut_188: 461406186
+      Kuda Laut_189: 1543547643
+      Kuda Laut_19: 1669137805
+      Kuda Laut_190: -863921175
+      Kuda Laut_191: -306637251
+      Kuda Laut_192: -592828579
+      Kuda Laut_193: 1741525302
+      Kuda Laut_194: 1893638569
+      Kuda Laut_195: 2093989450
+      Kuda Laut_196: 597046832
+      Kuda Laut_197: -1895143449
+      Kuda Laut_198: -224948371
+      Kuda Laut_199: 2060673346
+      Kuda Laut_2: -1764353719
+      Kuda Laut_20: 1637923958
+      Kuda Laut_200: 480484670
+      Kuda Laut_201: -1357228205
+      Kuda Laut_202: -1729328513
+      Kuda Laut_203: -1140391629
+      Kuda Laut_204: -1930675716
+      Kuda Laut_205: -255592862
+      Kuda Laut_206: 78242662
+      Kuda Laut_207: 2108372038
+      Kuda Laut_208: 776422722
+      Kuda Laut_209: 2020992465
+      Kuda Laut_21: -36979793
+      Kuda Laut_210: 1140257197
+      Kuda Laut_211: -2046020179
+      Kuda Laut_212: 1215188107
+      Kuda Laut_213: 246320977
+      Kuda Laut_214: -788459698
+      Kuda Laut_215: -1349385128
+      Kuda Laut_216: 1641652345
+      Kuda Laut_217: -120069728
+      Kuda Laut_218: 590383462
+      Kuda Laut_219: -1215207228
+      Kuda Laut_22: -1431675493
+      Kuda Laut_220: 189334915
+      Kuda Laut_221: 2049332556
+      Kuda Laut_222: 664954836
+      Kuda Laut_223: 1508712672
+      Kuda Laut_224: 1475918103
+      Kuda Laut_225: 191133495
+      Kuda Laut_226: -1150071957
+      Kuda Laut_227: -2037640713
+      Kuda Laut_228: -1645740880
+      Kuda Laut_229: -241424563
+      Kuda Laut_23: 558601559
+      Kuda Laut_230: -536699208
+      Kuda Laut_231: 1878347995
+      Kuda Laut_232: 342480716
+      Kuda Laut_233: 606100782
+      Kuda Laut_234: 1494527434
+      Kuda Laut_235: 1008486683
+      Kuda Laut_236: -1444991371
+      Kuda Laut_237: -983093974
+      Kuda Laut_238: 1644649762
+      Kuda Laut_239: -1777009244
+      Kuda Laut_24: 396600925
+      Kuda Laut_25: -783862271
+      Kuda Laut_26: 2124722596
+      Kuda Laut_27: -1435045127
+      Kuda Laut_28: 1188517375
+      Kuda Laut_29: -185222435
+      Kuda Laut_3: -122170265
+      Kuda Laut_30: -1221950701
+      Kuda Laut_31: 1272682328
+      Kuda Laut_32: -1156213837
+      Kuda Laut_33: -1088478561
+      Kuda Laut_34: -302286885
+      Kuda Laut_35: 1566380564
+      Kuda Laut_36: 1233298118
+      Kuda Laut_37: 2047997142
+      Kuda Laut_38: -442269566
+      Kuda Laut_39: 830098076
+      Kuda Laut_4: 317834752
+      Kuda Laut_40: -759008229
+      Kuda Laut_41: -812903431
+      Kuda Laut_42: -1820147539
+      Kuda Laut_43: 1129136862
+      Kuda Laut_44: -1276462733
+      Kuda Laut_45: -1588551079
+      Kuda Laut_46: -1010223377
+      Kuda Laut_47: 197598025
+      Kuda Laut_48: -96126191
+      Kuda Laut_49: 197526024
+      Kuda Laut_5: -1184119050
+      Kuda Laut_50: 1884841668
+      Kuda Laut_51: 1114501414
+      Kuda Laut_52: 1338046563
+      Kuda Laut_53: 797979700
+      Kuda Laut_54: -68820289
+      Kuda Laut_55: 7570318
+      Kuda Laut_56: -1903359486
+      Kuda Laut_57: 1532100148
+      Kuda Laut_58: -1631597367
+      Kuda Laut_59: -1450099978
+      Kuda Laut_6: -737128438
+      Kuda Laut_60: 90364889
+      Kuda Laut_61: -1301700591
+      Kuda Laut_62: 1257945444
+      Kuda Laut_63: -709451699
+      Kuda Laut_64: 602500288
+      Kuda Laut_65: 524175737
+      Kuda Laut_66: 1765600446
+      Kuda Laut_67: -1168241812
+      Kuda Laut_68: -1476904978
+      Kuda Laut_69: -475430129
+      Kuda Laut_7: -1541992578
+      Kuda Laut_70: 349351278
+      Kuda Laut_71: 1350152421
+      Kuda Laut_72: 1993658574
+      Kuda Laut_73: 855668995
+      Kuda Laut_74: 913467492
+      Kuda Laut_75: -925623750
+      Kuda Laut_76: 409365980
+      Kuda Laut_77: 859331430
+      Kuda Laut_78: -340588599
+      Kuda Laut_79: -1959638768
+      Kuda Laut_8: 213836314
+      Kuda Laut_80: -1549487125
+      Kuda Laut_81: -2009263614
+      Kuda Laut_82: 763592786
+      Kuda Laut_83: -1947067211
+      Kuda Laut_84: 1611327984
+      Kuda Laut_85: 1685178104
+      Kuda Laut_86: 275381368
+      Kuda Laut_87: 2120172050
+      Kuda Laut_88: 537101110
+      Kuda Laut_89: 406234172
+      Kuda Laut_9: 1077312325
+      Kuda Laut_90: -206687636
+      Kuda Laut_91: -805166423
+      Kuda Laut_92: -685218807
+      Kuda Laut_93: 1760181331
+      Kuda Laut_94: -1802437110
+      Kuda Laut_95: -1372200840
+      Kuda Laut_96: -1063873757
+      Kuda Laut_97: -1468625682
+      Kuda Laut_98: 1607633672
+      Kuda Laut_99: 681947536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
