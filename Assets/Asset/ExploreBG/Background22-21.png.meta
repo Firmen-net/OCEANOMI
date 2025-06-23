@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 64ea5ea654e49e04d850040456df71ba
+guid: d9ffa96dbe155d6458e3c2304830c932
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2240355121986484431
-    second: Bulan Bathial_0
+      213: -5360744347685102942
+    second: Background22-21_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bulan Bathial_0
+      name: Background22-21_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 150
-        height: 151
+        width: 1728
+        height: 1117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 137c44fe2e8a8e0e0800000000000000
-      internalID: -2240355121986484431
+      spriteID: 2aadb801b6fca95b0800000000000000
+      internalID: -5360744347685102942
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bulan Bathial_0: -2240355121986484431
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

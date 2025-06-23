@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: e34bae1a55b2e4344a6a096e975cf323
+guid: 79c3af2d58644cf4fad654b1dac745d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4738152814354645531
-    second: Awan abisal_0
-  - first:
-      213: -4143556376029269197
-    second: Awan abisal_1
+      213: -3171405853094453217
+    second: Background22-18_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,35 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Awan abisal_0
+      name: Background22-18_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 84
-        width: 150
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b12402f71ec41c140800000000000000
-      internalID: 4738152814354645531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Awan abisal_1
-      rect:
-        serializedVersion: 2
-        x: 201
         y: 0
-        width: 129
-        height: 59
+        width: 1728
+        height: 1117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33378f3fd612f76c0800000000000000
-      internalID: -4143556376029269197
+      spriteID: f10e5bfed27ecf3d0800000000000000
+      internalID: -3171405853094453217
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Awan abisal_0: 4738152814354645531
-      Awan abisal_1: -4143556376029269197
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
