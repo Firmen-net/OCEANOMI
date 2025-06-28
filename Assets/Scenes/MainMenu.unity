@@ -3519,7 +3519,7 @@ MonoBehaviour:
   NormalState:
     StateType: 0
     StateEvent:
-      EventName: Normal
+      EventName: Normal State
       Runners: []
       Event:
         m_PersistentCalls:
@@ -3527,7 +3527,7 @@ MonoBehaviour:
   HighlightedState:
     StateType: 1
     StateEvent:
-      EventName: Highlighted
+      EventName: Highlighted State
       Runners: []
       Event:
         m_PersistentCalls:
@@ -3535,15 +3535,66 @@ MonoBehaviour:
   PressedState:
     StateType: 2
     StateEvent:
-      EventName: Pressed
+      EventName: Pressed State
       Runners: []
       Event:
         m_PersistentCalls:
-          m_Calls: []
+          m_Calls:
+          - m_Target: {fileID: 1568119348}
+            m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+            m_MethodName: SetActive
+            m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 1
+            m_CallState: 2
+          - m_Target: {fileID: 1568119349}
+            m_TargetAssemblyTypeName: Doozy.Runtime.UIManager.Containers.UIContainer,
+              Assembly-CSharp
+            m_MethodName: Show
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+          - m_Target: {fileID: 658972647}
+            m_TargetAssemblyTypeName: Doozy.Runtime.UIManager.Animators.UIContainerUIAnimator,
+              Assembly-CSharp
+            m_MethodName: Show
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+          - m_Target: {fileID: 1548983573}
+            m_TargetAssemblyTypeName: Doozy.Runtime.UIManager.Containers.UIContainer,
+              Assembly-CSharp
+            m_MethodName: Hide
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
   SelectedState:
     StateType: 3
     StateEvent:
-      EventName: Selected
+      EventName: Selected State
       Runners: []
       Event:
         m_PersistentCalls:
@@ -3551,7 +3602,7 @@ MonoBehaviour:
   DisabledState:
     StateType: 4
     StateEvent:
-      EventName: Disabled
+      EventName: Disabled State
       Runners: []
       Event:
         m_PersistentCalls:
@@ -6235,9 +6286,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 251267361}
+  - {fileID: 1568012877}
   - {fileID: 729744506}
   - {fileID: 1686923471}
-  - {fileID: 1568012877}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -8641,9 +8692,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 723199266}
+  - {fileID: 1981311971}
   - {fileID: 1661395093}
   - {fileID: 484607166}
-  - {fileID: 1981311971}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -8966,7 +9017,7 @@ MonoBehaviour:
       Event:
         m_PersistentCalls:
           m_Calls:
-          - m_Target: {fileID: 2038707381}
+          - m_Target: {fileID: 233979677}
             m_TargetAssemblyTypeName: UITween, Assembly-CSharp
             m_MethodName: StartTweenScale
             m_Mode: 1
@@ -8997,7 +9048,7 @@ MonoBehaviour:
       Event:
         m_PersistentCalls:
           m_Calls:
-          - m_Target: {fileID: 2038707381}
+          - m_Target: {fileID: 233979677}
             m_TargetAssemblyTypeName: UITween, Assembly-CSharp
             m_MethodName: StopTweenScale
             m_Mode: 1
@@ -12971,7 +13022,6 @@ GameObject:
   - component: {fileID: 256678340}
   - component: {fileID: 256678339}
   - component: {fileID: 256678338}
-  - component: {fileID: 256678337}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -12998,24 +13048,6 @@ RectTransform:
   m_AnchoredPosition: {x: 3.156, y: 98.364624}
   m_SizeDelta: {x: 2450.4507, y: 335.9837}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &256678337
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 256678335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6a1b680510bd6646ae2d84d22c1527b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetWord: AnglerFish
-  buttonContainer: {fileID: 1865218031}
-  wordContainer: {fileID: 296593640}
-  wrongColor: {r: 1, g: 0, b: 0, a: 1}
-  defaultColor: {r: 1, g: 1, b: 1, a: 1}
-  next: {fileID: 0}
 --- !u!114 &256678338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28465,7 +28497,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -34854,7 +34886,6 @@ GameObject:
   - component: {fileID: 704746481}
   - component: {fileID: 704746480}
   - component: {fileID: 704746479}
-  - component: {fileID: 704746478}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -34881,24 +34912,6 @@ RectTransform:
   m_AnchoredPosition: {x: 206.2, y: -10}
   m_SizeDelta: {x: 777, y: 844.8}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &704746478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 704746476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6a1b680510bd6646ae2d84d22c1527b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetWord: AnglerFish
-  buttonContainer: {fileID: 1865218031}
-  wordContainer: {fileID: 296593640}
-  wrongColor: {r: 1, g: 0, b: 0, a: 1}
-  defaultColor: {r: 1, g: 1, b: 1, a: 1}
-  next: {fileID: 0}
 --- !u!114 &704746479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37012,9 +37025,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 797616662}
+  - {fileID: 2062130682}
   - {fileID: 889333759}
   - {fileID: 1830978550}
-  - {fileID: 2062130682}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -49222,9 +49235,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1118772201}
+  - {fileID: 325818984}
   - {fileID: 1084368616}
   - {fileID: 187537228}
-  - {fileID: 325818984}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -53320,9 +53333,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 26782569}
+  - {fileID: 1113134286}
   - {fileID: 1438765046}
   - {fileID: 234861259}
-  - {fileID: 1113134286}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -60539,7 +60552,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 925648526}
         m_TargetAssemblyTypeName: Doozy.Runtime.Reactor.Animators.UIAnimator, Assembly-CSharp
@@ -63022,6 +63035,19 @@ MonoBehaviour:
               Assembly-CSharp
             m_MethodName: Play
             m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 1
+            m_CallState: 2
+          - m_Target: {fileID: 925648525}
+            m_TargetAssemblyTypeName: Doozy.Runtime.UIManager.Animators.UIContainerUIAnimator,
+              Assembly-CSharp
+            m_MethodName: Show
+            m_Mode: 1
             m_Arguments:
               m_ObjectArgument: {fileID: 0}
               m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -70661,7 +70687,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -77375,7 +77401,6 @@ GameObject:
   - component: {fileID: 1513622517}
   - component: {fileID: 1513622516}
   - component: {fileID: 1513622515}
-  - component: {fileID: 1513622514}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -77402,24 +77427,6 @@ RectTransform:
   m_AnchoredPosition: {x: -385.32, y: -84.809265}
   m_SizeDelta: {x: 1466, y: 406.9044}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1513622514
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513622512}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6a1b680510bd6646ae2d84d22c1527b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetWord: AnglerFish
-  buttonContainer: {fileID: 1865218031}
-  wordContainer: {fileID: 296593640}
-  wrongColor: {r: 1, g: 0, b: 0, a: 1}
-  defaultColor: {r: 1, g: 1, b: 1, a: 1}
-  next: {fileID: 0}
 --- !u!114 &1513622515
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78668,7 +78675,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -81243,7 +81250,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -81750,8 +81757,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 29910b9556c6b194aac36020b3a72b70, type: 3}
-  m_Resource: {fileID: 8300000, guid: 29910b9556c6b194aac36020b3a72b70, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -82425,9 +82432,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 954226040}
+  - {fileID: 1056294096}
   - {fileID: 765197499}
   - {fileID: 1302299799}
-  - {fileID: 1056294096}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -92698,6 +92705,7 @@ GameObject:
   - component: {fileID: 1790551240}
   - component: {fileID: 1790551239}
   - component: {fileID: 1790551237}
+  - component: {fileID: 1790551241}
   m_Layer: 5
   m_Name: Text (TMP) (1)
   m_TagString: Untagged
@@ -92841,6 +92849,167 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1790551235}
   m_CullTransparentMesh: 1
+--- !u!114 &1790551241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790551235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77c6d918500348269ab48ea9646e337b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 0
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 0}
+  MultiplayerInfo: {fileID: 0}
+  IsOn: 0
+  CurrentUISelectionState: 0
+  DeselectAfterPress: 0
+  OnSelectionStateChangedCallback:
+    m_PersistentCalls:
+      m_Calls: []
+  CurrentStateName: 
+  NormalState:
+    StateType: 0
+    StateEvent:
+      EventName: Normal
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls: []
+  HighlightedState:
+    StateType: 1
+    StateEvent:
+      EventName: Highlighted
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls: []
+  PressedState:
+    StateType: 2
+    StateEvent:
+      EventName: Pressed
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls: []
+  SelectedState:
+    StateType: 3
+    StateEvent:
+      EventName: Selected
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls: []
+  DisabledState:
+    StateType: 4
+    StateEvent:
+      EventName: Disabled
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls: []
+  Behaviours:
+    Behaviours:
+    - EventName: PointerEnter
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 1790551237}
+            m_TargetAssemblyTypeName: UITween, Assembly-CSharp
+            m_MethodName: StartTweenScale
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+      BehaviourName: 0
+      Receiver:
+        ConnectionMode: 1
+        SignalProviderId:
+          Type: 0
+          Category: Pointer
+          Name: Enter
+        ProviderReference: {fileID: 0}
+        StreamId:
+          Category: None
+          Name: None
+          Custom: 0
+      Cooldown: 0
+      Selectable: {fileID: 1790551241}
+    - EventName: PointerExit
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 1790551237}
+            m_TargetAssemblyTypeName: UITween, Assembly-CSharp
+            m_MethodName: StopTweenScale
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+      BehaviourName: 1
+      Receiver:
+        ConnectionMode: 1
+        SignalProviderId:
+          Type: 0
+          Category: Pointer
+          Name: Exit
+        ProviderReference: {fileID: 0}
+        StreamId:
+          Category: None
+          Name: None
+          Custom: 0
+      Cooldown: 0
+      Selectable: {fileID: 1790551241}
+    SignalSource: {fileID: 0}
+    Selectable: {fileID: 1790551241}
+  Cooldown: 0
+  DisableWhenInCooldown: 0
+  Id:
+    Category: None
+    Name: None
+    Custom: 0
 --- !u!1 &1793806159
 GameObject:
   m_ObjectHideFlags: 0
@@ -102464,7 +102633,6 @@ GameObject:
   - component: {fileID: 1947980928}
   - component: {fileID: 1947980927}
   - component: {fileID: 1947980926}
-  - component: {fileID: 1947980925}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -102491,24 +102659,6 @@ RectTransform:
   m_AnchoredPosition: {x: 3.156, y: -334}
   m_SizeDelta: {x: 2450.4507, y: 335.9837}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1947980925
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1947980923}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6a1b680510bd6646ae2d84d22c1527b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetWord: AnglerFish
-  buttonContainer: {fileID: 1865218031}
-  wordContainer: {fileID: 296593640}
-  wrongColor: {r: 1, g: 0, b: 0, a: 1}
-  defaultColor: {r: 1, g: 1, b: 1, a: 1}
-  next: {fileID: 0}
 --- !u!114 &1947980926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106077,7 +106227,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -106906,6 +107056,19 @@ MonoBehaviour:
               Assembly-CSharp
             m_MethodName: Play
             m_Mode: 6
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 1
+            m_CallState: 2
+          - m_Target: {fileID: 925648525}
+            m_TargetAssemblyTypeName: Doozy.Runtime.UIManager.Animators.UIContainerUIAnimator,
+              Assembly-CSharp
+            m_MethodName: Show
+            m_Mode: 1
             m_Arguments:
               m_ObjectArgument: {fileID: 0}
               m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -110523,7 +110686,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2075908670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110537,7 +110700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 0
     m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
@@ -113184,7 +113347,6 @@ GameObject:
   - component: {fileID: 2104713095}
   - component: {fileID: 2104713094}
   - component: {fileID: 2104713093}
-  - component: {fileID: 2104713092}
   m_Layer: 5
   m_Name: 3
   m_TagString: Untagged
@@ -113211,24 +113373,6 @@ RectTransform:
   m_AnchoredPosition: {x: -208, y: -10}
   m_SizeDelta: {x: 777, y: 844.8}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2104713092
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2104713090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6a1b680510bd6646ae2d84d22c1527b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetWord: AnglerFish
-  buttonContainer: {fileID: 1865218031}
-  wordContainer: {fileID: 296593640}
-  wrongColor: {r: 1, g: 0, b: 0, a: 1}
-  defaultColor: {r: 1, g: 1, b: 1, a: 1}
-  next: {fileID: 0}
 --- !u!114 &2104713093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115390,9 +115534,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 342027556}
+  - {fileID: 54132176}
   - {fileID: 892625286}
   - {fileID: 2021410731}
-  - {fileID: 54132176}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -116165,9 +116309,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 238073896}
+  - {fileID: 1041438257}
   - {fileID: 2075908673}
   - {fileID: 177647098}
-  - {fileID: 1041438257}
   m_Father: {fileID: 1565939985}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}

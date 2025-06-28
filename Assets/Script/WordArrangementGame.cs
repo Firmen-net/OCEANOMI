@@ -23,9 +23,8 @@ public class WordArrangementGame : MonoBehaviour
     private Button lastClickedButton;
     public GameObject next;
 
-    private void OnEnable()
+    private void Awake()
     {
-        // Get all letter buttons
         letterButtons = buttonContainer.GetComponentsInChildren<Button>().ToList();
 
         // Store their starting positions (for resetting if wrong)
@@ -34,6 +33,17 @@ public class WordArrangementGame : MonoBehaviour
             buttonStartPositions.Add(button.GetComponent<RectTransform>().anchoredPosition);
             button.onClick.AddListener(() => OnLetterButtonClick(button));
         }
+    }
+
+    private void Start()
+    {
+    }
+
+    private void OnEnable()
+    {
+        ResetGame();
+        // Get all letter buttons
+
         next.SetActive(false);
         // Shuffle button positions
         ShuffleButtonPositions();
@@ -61,6 +71,7 @@ public class WordArrangementGame : MonoBehaviour
     // Called when a letter button is clicked
     private void OnLetterButtonClick(Button clickedButton)
     {
+        Debug.Log("CLICK" + clickedButton.name);
         string clickedLetter = clickedButton.GetComponentInChildren<TextMeshProUGUI>().text;
         string expectedLetter = targetWord[currentLetterIndex].ToString();
 
@@ -88,6 +99,7 @@ public class WordArrangementGame : MonoBehaviour
             // Check if the word is complete
             if (currentLetterIndex == targetWord.Length)
             {
+                expectedLetter = null;
                 next.SetActive(true);
                 Debug.Log("Word Completed!");
                 // Optional: Trigger win condition (e.g., show success message)
@@ -113,6 +125,7 @@ public class WordArrangementGame : MonoBehaviour
     // Resets the game (call this if needed)
     public void ResetGame()
     {
+        Debug.Log("Reset");
         currentLetterIndex = 0;
         lastClickedButton = null;
 
